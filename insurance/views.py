@@ -18,7 +18,7 @@ def people(request):
   if request.method == 'POST':
     data = json.loads(request.body)
     # print(data)
-    snippit = PersonalMetric(name=data['name'], age=data['age'], weight=data['weight'], gender=data['gender'], user_id=user)
+    snippit = PersonalMetric(name=data['name'], age=data['age'], weight=data['weight'], gender=data['gender'], height=data['height'], user_id=user)
     snippit.save()
     serial = PersonalMetricSerializer(snippit)
     # print(serial.data)
@@ -37,8 +37,11 @@ def people(request):
 @api_view(["POST"])
 def checkBuild(request):
   data = json.loads(request.body)
-  snippit = HumanMetric(name=data['name'], age=data['age'], weight=data['weight'], gender=data['gender'])
-  snippit.save()
+  snippit = HumanMetric(name=data['name'], age=data['age'], weight=data['weight'], gender=data['gender'], height=data['height'])
+  # not needed right now
+  # snippit.save()
   serial = HumanMetricSerializer(snippit)
-  return JsonResponse(serial.data)
+  serial.data['plans'] = ['CFG', 'Dignified Choice']
+  print(serial.data)
+  return JsonResponse({'plans': ['CFG', 'Dignified Choice'], 'user': serial.data})
 # Create your views here.

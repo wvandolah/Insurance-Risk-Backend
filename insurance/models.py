@@ -12,6 +12,7 @@ class HumanMetric(models.Model):
   age = models.IntegerField(default=0)
   weight = models.IntegerField(default=0)
   gender = models.CharField(max_length=200)
+  height = models.IntegerField(default=0)
   created_at = models.DateTimeField(auto_now_add=True)
   last_modified = models.DateTimeField(auto_now=True)
 
