@@ -1,0 +1,733 @@
+Medication,Time,Indication,Outcome,Product 1,Product 2,Product 3
+abilify,N/A,Major Depression likely,Decline,CFG,SafeShield,N/A
+amantadine hcl,N/A,Parkinson's,Decline,CFG,SafeShield,N/A
+ambisome,N/A,HIV Treatment likely,Decline,CFG,SafeShield,N/A
+anastrozole,N/A,Cancer,Decline,CFG,SafeShield,N/A
+antabuse,N/A,Alcoholism,Decline,CFG,SafeShield,N/A
+aptivus,N/A,HIV Treatment likely,Decline,CFG,SafeShield,N/A
+aranesp,N/A,Kidney Disease,Decline,CFG,SafeShield,N/A
+aricept,N/A,Alzheimer’s/Dementia,Decline,CFG,SafeShield,N/A
+arimidex,N/A,Cancer,Decline,CFG,SafeShield,N/A
+aromasin,N/A,Cancer,Decline,CFG,SafeShield,N/A
+atamet,N/A,Parkinson's,Decline,CFG,SafeShield,N/A
+atgam,N/A,Organ/Tissue Transplant likely,Decline,CFG,SafeShield,N/A
+atripla,N/A,HIV Treatment likely,Decline,CFG,SafeShield,N/A
+avonex,N/A,Multiple Sclerosis,Decline,CFG,SafeShield,N/A
+belbuca,N/A,Drug Abuse,Decline,CFG,SafeShield,N/A
+betaseron,N/A,Multiple Sclerosis,Decline,CFG,SafeShield,N/A
+bidil,N/A,Congestive Heart Failure likely,Decline,CFG,SafeShield,N/A
+buprenex,N/A,Drug Abuse,Decline,CFG,SafeShield,N/A
+calcijex,N/A,Kidney Disease,Decline,CFG,SafeShield,N/A
+calcitriol,N/A,Kidney Disease,Decline,CFG,SafeShield,N/A
+calcium acetate,N/A,Kidney Disease,Decline,CFG,SafeShield,N/A
+campath,N/A,Cancer,Decline,CFG,SafeShield,N/A
+campral,N/A,Substance Abuse,Decline,CFG,SafeShield,N/A
+carbidopa,N/A,Parkinson’s,Decline,CFG,SafeShield,N/A
+carnitor,N/A,Kidney Disease / CHF / Cardiomyopathy,Decline,CFG,SafeShield,N/A
+casodex,N/A,Cancer,Decline,CFG,SafeShield,N/A
+chlorpromazine,N/A,Schizophrenia likely,Decline,CFG,SafeShield,N/A
+clopidogrel,N/A,"Stroke, TIA or CAD",Decline,CFG,SafeShield,N/A
+clozapine,N/A,Schizophrenia,Decline,CFG,SafeShield,N/A
+clozaril,N/A,Schizophrenia,Decline,CFG,SafeShield,N/A
+cognex,N/A,Alzheimer’s/Dementia,Decline,CFG,SafeShield,N/A
+combivir,N/A,HIV treatment likely,Decline,CFG,SafeShield,N/A
+copaxone,N/A,Multiple Sclerosis,Decline,CFG,SafeShield,N/A
+crofelemer,N/A,HIV treatment likely,Decline,CFG,SafeShield,N/A
+cyclosporine,N/A,Organ Transplant,Decline,CFG,SafeShield,N/A
+medication,N/A,Medical Condition,Decline,CFG,SafeShield,N/A
+cystagon,N/A,Kidney Disease,Decline,CFG,SafeShield,N/A
+cytogam,N/A,Organ Transplant,Decline,CFG,SafeShield,N/A
+daliresp,N/A,COPD,Decline,CFG,SafeShield,N/A
+digoxin,N/A,Congestive Heart Failure likely,Decline,CFG,SafeShield,N/A
+disulfiram,N/A,Alcoholism,Decline,CFG,SafeShield,N/A
+donepezil,N/A,Alzheimer’s/Dementia,Decline,CFG,SafeShield,N/A
+dornase alpha,N/A,Cystic Fibrosis,Decline,CFG,SafeShield,N/A
+emend,N/A,Cancer,Decline,CFG,SafeShield,N/A
+emsam,N/A,Major Depression likely,Decline,CFG,SafeShield,N/A
+emtriva,N/A,HIV treatment likely,Decline,CFG,SafeShield,N/A
+epivir,N/A,HIV treatment likely,Decline,CFG,SafeShield,N/A
+epzicom,N/A,HIV,Decline,CFG,SafeShield,N/A
+evzio,N/A,Alcohol or Drug Abuse,Decline,CFG,SafeShield,N/A
+exelon,N/A,Alzheimer’s / Dementia,Decline,CFG,SafeShield,N/A
+femara,N/A,Cancer,Decline,CFG,SafeShield,N/A
+filgrastim,N/A,Cancer likely,Decline,CFG,SafeShield,N/A
+flutamide,N/A,Cancer,Decline,CFG,SafeShield,N/A
+foscavir,N/A,HIV treatment likely,Decline,CFG,SafeShield,N/A
+fosrenol,N/A,Kidney Disease,Decline,CFG,SafeShield,N/A
+fulyzaq,N/A,HIV treatment likely,Decline,CFG,SafeShield,N/A
+galantamine,N/A,Alzheimer’s/Dementia,Decline,CFG,SafeShield,N/A
+ganciclovir,N/A,HIV Treatment likely / Organ Transplant,Decline,CFG,SafeShield,N/A
+gengraf,N/A,Organ Transplant,Decline,CFG,SafeShield,N/A
+geoden,N/A,Schizophrenia likely,Decline,CFG,SafeShield,N/A
+haldol,N/A,Schizophrenia likely,Decline,CFG,SafeShield,N/A
+haloperidol,N/A,Schizophrenia likely,Decline,CFG,SafeShield,N/A
+halperidone,N/A,Schizophrenia likely,Decline,CFG,SafeShield,N/A
+harvoni,N/A,Hepatitis C,Decline,CFG,SafeShield,N/A
+hectorol,N/A,Kidney Disease,Decline,CFG,SafeShield,N/A
+hydrea,N/A,Cancer,Decline,CFG,SafeShield,N/A
+hydroxyurea,N/A,Cancer,Decline,CFG,SafeShield,N/A
+insulin prior to age 50,N/A,Diabetes,Decline,CFG,SafeShield,N/A
+interferon,N/A,Hepatitis likely,Decline,CFG,SafeShield,N/A
+intron-a,N/A,Cancer or Hepatitis C,Decline,CFG,SafeShield,N/A
+invega,N/A,Schizophrenia likely,Decline,CFG,SafeShield,N/A
+invirase,N/A,HIV treatment likely,Decline,CFG,SafeShield,N/A
+isosorbide,N/A,Heart Disease,Decline,CFG,SafeShield,N/A
+lamivudine-zidovudine,N/A,HIV treatment likely,Decline,CFG,SafeShield,N/A
+lanoxin,N/A,Congestive Heart Failure possible / Arrhythmia,Decline,CFG,SafeShield,N/A
+larodopa,N/A,Parkinson’s,Decline,CFG,SafeShield,N/A
+medication,N/A,Medical Condition,Decline,CFG,SafeShield,N/A
+latuda,N/A,Bipolar / Schizophrenia likely,Decline,CFG,SafeShield,N/A
+levodopa,N/A,Parkinson’s,Decline,CFG,SafeShield,N/A
+lexiva,N/A,HIV treatment likely,Decline,CFG,SafeShield,N/A
+lupron,N/A,Cancer,Decline,CFG,SafeShield,N/A
+megestrol,N/A,Cancer or HIV,Decline,CFG,SafeShield,N/A
+memantine,N/A,Alzheimer’s / Dementia,Decline,CFG,SafeShield,N/A
+mercaptopurine,N/A,Cancer,Decline,CFG,SafeShield,N/A
+methadone,N/A,Substance abuse possible,Decline,CFG,SafeShield,N/A
+namenda,N/A,Alzheimer’s / Dementia,Decline,CFG,SafeShield,N/A
+narcan,N/A,Alcohol / Drugs,Decline,CFG,SafeShield,N/A
+naloxone,N/A,Alcohol / Drugs,Decline,CFG,SafeShield,N/A
+naltrexone,N/A,Alcohol / Drugs,Decline,CFG,SafeShield,N/A
+navane,N/A,Schizophrenia likely,Decline,CFG,SafeShield,N/A
+neupogen,N/A,Cancer likely,Decline,CFG,SafeShield,N/A
+nintedanib,N/A,Pulmonary Fibrosis likely,Decline,CFG,SafeShield,N/A
+nitrostat,N/A,Angina / Cardiac Chest Pain,Decline,CFG,SafeShield,N/A
+nitro,N/A,Angina / Cardiac Chest Pain,Decline,CFG,SafeShield,N/A
+nitroglycerin,N/A,Angina / Cardiac Chest Pain,Decline,CFG,SafeShield,N/A
+norvir,N/A,HIV treatment likely,Decline,CFG,SafeShield,N/A
+ofev,N/A,Pulmonary Fibrosis likely,Decline,CFG,SafeShield,N/A
+pegintron,N/A,Hepatitis / Melanoma,Decline,CFG,SafeShield,N/A
+peginterferon,N/A,Hepatitis / Melanoma,Decline,CFG,SafeShield,N/A
+perphenazine,N/A,Schizophrenia likely,Decline,CFG,SafeShield,N/A
+prismasol,N/A,Kidney Disease,Decline,CFG,SafeShield,N/A
+prograf,N/A,Organ Transplant,Decline,CFG,SafeShield,N/A
+pulmozyme,N/A,Cystic Fibrosis,Decline,CFG,SafeShield,N/A
+quetiapine,N/A,Schizophrenia possible,Decline,CFG,SafeShield,N/A
+rapamune,N/A,Organ Transplant,Decline,CFG,SafeShield,N/A
+razadyne,N/A,Alzheimer’s / Dementia,Decline,CFG,SafeShield,N/A
+rebif,N/A,Multiple Sclerosis,Decline,CFG,SafeShield,N/A
+reminyl,N/A,Alzheimer’s/Dementia,Decline,CFG,SafeShield,N/A
+renagel,N/A,Kidney Disease,Decline,CFG,SafeShield,N/A
+renvela,N/A,Kidney Disease,Decline,CFG,SafeShield,N/A
+retrovir,N/A,HIV treatment likely,Decline,CFG,SafeShield,N/A
+ribapak,N/A,Liver disease,Decline,CFG,SafeShield,N/A
+ribasphere,N/A,Liver Disease,Decline,CFG,SafeShield,N/A
+ribavirin,N/A,Hepatitis C,Decline,CFG,SafeShield,N/A
+riluzole,N/A,ALS likely,Decline,CFG,SafeShield,N/A
+rilutek,N/A,ALS likely,Decline,CFG,SafeShield,N/A
+risperdal,N/A,Schizophrenia likely,Decline,CFG,SafeShield,N/A
+medication,N/A,Medical Condition,Decline,CFG,SafeShield,N/A
+risperidone,N/A,Schizophrenia likely,Decline,CFG,SafeShield,N/A
+roferon-a,N/A,Cancer or Hepatitis C,Decline,CFG,SafeShield,N/A
+sensipar,N/A,Kidney Disease/Failure,Decline,CFG,SafeShield,N/A
+seroquel,N/A,Schizophrenia likely,Decline,CFG,SafeShield,N/A
+sofosbuvir,N/A,Chronic Hepatitis,Decline,CFG,SafeShield,N/A
+sovaldi,N/A,Chronic Hepatitis,Decline,CFG,SafeShield,N/A
+spiriva,N/A,COPD likely,Decline,CFG,SafeShield,N/A
+stalevo,N/A,Parkinson's likely,Decline,CFG,SafeShield,N/A
+stelazine,N/A,Schizophrenia likely,Decline,CFG,SafeShield,N/A
+stribild,N/A,HIV,Decline,CFG,SafeShield,N/A
+suboxone,N/A,Substance abuse possible,Decline,CFG,SafeShield,N/A
+subutex,N/A,Substance abuse possible,Decline,CFG,SafeShield,N/A
+sustiva,N/A,HIV treatment likely,Decline,CFG,SafeShield,N/A
+tamoxifen,N/A,Cancer,Decline,CFG,SafeShield,N/A
+targretin,N/A,Cancer,Decline,CFG,SafeShield,N/A
+thiothixene,N/A,Schizophrenia likely,Decline,CFG,SafeShield,N/A
+tivicay,N/A,HIV,Decline,CFG,SafeShield,N/A
+trilafon,N/A,Schizophrenia likely,Decline,CFG,SafeShield,N/A
+trizivir,N/A,HIV treatment likely,Decline,CFG,SafeShield,N/A
+viracept,N/A,HIV treatment likely / Hepatitis,Decline,CFG,SafeShield,N/A
+viramune,N/A,HIV treatment likely / Hepatitis,Decline,CFG,SafeShield,N/A
+viread,N/A,HIV treatment likely / Hepatitis,Decline,CFG,SafeShield,N/A
+zemplar,N/A,Kidney Disease / Failure,Decline,CFG,SafeShield,N/A
+zidovudine,N/A,HIV,Decline,CFG,SafeShield,N/A
+zyprexa,N/A,Psychotic Disorder likely,Decline,CFG,SafeShield,N/A
+zytiga,N/A,Cancer,Decline,CFG,SafeShield,N/A
+abilify,N/A,Psychotic Disorder,Decline,Foresters,Strong Foundation,N/A
+amiodarone hcl,N/A,Arrhythmia,Decline,Foresters,Strong Foundation,N/A
+anastrozole,N/A,Cancer,Decline,Foresters,Strong Foundation,N/A
+anoro ellipta,N/A,Serious COPD,Decline,Foresters,Strong Foundation,N/A
+antabuse,N/A,Alcohol/Drugs,Decline,Foresters,Strong Foundation,N/A
+aricept,N/A,Dementia/Cognitive Disorder,Decline,Foresters,Strong Foundation,N/A
+arimidex,N/A,Cancer,Decline,Foresters,Strong Foundation,N/A
+benlysta,N/A,Systemic Lupus,Decline,Foresters,Strong Foundation,N/A
+bevespi aerosphere,N/A,Serious COPD,Decline,Foresters,Strong Foundation,N/A
+bidil,N/A,CHF,Decline,Foresters,Strong Foundation,N/A
+calcitriol,N/A,Kidney Disease/Failure,Decline,Foresters,Strong Foundation,N/A
+carbidopa-levadopa,N/A,Parkinson’s,Decline,Foresters,Strong Foundation,N/A
+casodex,N/A,Cancer,Decline,Foresters,Strong Foundation,N/A
+clopidogrel,N/A,"Heart Disease, Stroke/TIA,  PVD/PAD",Decline,Foresters,Strong Foundation,N/A
+daliresp,N/A,Serious COPD,Decline,Foresters,Strong Foundation,N/A
+digoxin,N/A,Heart Failure/Arrhythmias,Decline,Foresters,Strong Foundation,N/A
+donepezil hcl,N/A,Dementia/Cognitive Disorder,Decline,Foresters,Strong Foundation,N/A
+effient,N/A,"Heart Disease, Stroke/TIA,  PVD/PAD",Decline,Foresters,Strong Foundation,N/A
+exelon,N/A,Dementia/Cognitive Disorder,Decline,Foresters,Strong Foundation,N/A
+femara,N/A,Cancer,Decline,Foresters,Strong Foundation,N/A
+geodon,N/A,Psychotic Disorder,Decline,Foresters,Strong Foundation,N/A
+hydralazine,N/A,Severe Hypertension,Decline,Foresters,Strong Foundation,N/A
+hydrea,N/A,Cancer,Decline,Foresters,Strong Foundation,N/A
+inspra,N/A,CHF,Decline,Foresters,Strong Foundation,N/A
+isosorbide,N/A,Angina,Decline,Foresters,Strong Foundation,N/A
+lanoxin,N/A,Heart Failure/Arrhythmias,Decline,Foresters,Strong Foundation,N/A
+lithium,N/A,Bi-polar Disorder,Decline,Foresters,Strong Foundation,N/A
+lupron,N/A,Cancer,Decline,Foresters,Strong Foundation,N/A
+methyldopa,N/A,Severe Hypertension,Decline,Foresters,Strong Foundation,N/A
+namenda,N/A,Anti-Dementia,Decline,Foresters,Strong Foundation,N/A
+nitrostat,N/A,Angina/Chest pain,Decline,Foresters,Strong Foundation,N/A
+pegasys,N/A,Hepatitis,Decline,Foresters,Strong Foundation,N/A
+plavix,N/A,"Heart Disease, Stroke/TIA, PVD/PAD",Decline,Foresters,Strong Foundation,N/A
+pletal,N/A,"Heart Disease, Stroke/TIA, PVD/PAD",Decline,Foresters,Strong Foundation,N/A
+ranexa,N/A,Angina/Chest pain,Decline,Foresters,Strong Foundation,N/A
+ribavirin,N/A,Hepatitis,Decline,Foresters,Strong Foundation,N/A
+rilutek,N/A,ALS,Decline,Foresters,Strong Foundation,N/A
+risperdone,N/A,Psychotic Disorder,Decline,Foresters,Strong Foundation,N/A
+sensipar,N/A,Kidney Disease/Failure,Decline,Foresters,Strong Foundation,N/A
+serzone,N/A,Psychotic Disorder,Decline,Foresters,Strong Foundation,N/A
+sinemet,N/A,Parkinson’s,Decline,Foresters,Strong Foundation,N/A
+stiolto respimat,N/A,Serious COPD,Decline,Foresters,Strong Foundation,N/A
+tamoxifen,N/A,Cancer,Decline,Foresters,Strong Foundation,N/A
+trelegy ellipta,N/A,Serious COPD,Decline,Foresters,Strong Foundation,N/A
+utibron neohaler,N/A,Serious COPD,Decline,Foresters,Strong Foundation,N/A
+zemplar,N/A,Kidney Disease/Failure,Decline,Foresters,Strong Foundation,N/A
+zyprexa,N/A,Psychotic Disorder,Decline,Foresters,Strong Foundation,N/A
+abilify,N/A,N/A,Decline,Phoenix,Safe Harbor,N/A
+aripcept,N/A,N/A,Decline,Phoenix,Safe Harbor,N/A
+coumadin,N/A,N/A,Decline,Phoenix,Safe Harbor,N/A
+dexamethasone,N/A,N/A,Decline,Phoenix,Safe Harbor,N/A
+digoxin,N/A,N/A,Decline,Phoenix,Safe Harbor,N/A
+enbrel,N/A,N/A,Decline,Phoenix,Safe Harbor,N/A
+haloperidol,N/A,N/A,Decline,Phoenix,Safe Harbor,N/A
+imuran,N/A,N/A,Decline,Phoenix,Safe Harbor,N/A
+invirase,N/A,N/A,Decline,Phoenix,Safe Harbor,N/A
+isosorbide,N/A,N/A,Decline,Phoenix,Safe Harbor,N/A
+lithium,N/A,N/A,Decline,Phoenix,Safe Harbor,N/A
+lupron,N/A,N/A,Decline,Phoenix,Safe Harbor,N/A
+methadone,N/A,N/A,Decline,Phoenix,Safe Harbor,N/A
+methotrexate,N/A,N/A,Decline,Phoenix,Safe Harbor,N/A
+nitro/nitroglycerin,N/A,N/A,Decline,Phoenix,Safe Harbor,N/A
+prochlorperazine,N/A,N/A,Decline,Phoenix,Safe Harbor,N/A
+quetiapine,N/A,N/A,Decline,Phoenix,Safe Harbor,N/A
+rebif,N/A,N/A,Decline,Phoenix,Safe Harbor,N/A
+remicade,N/A,N/A,Decline,Phoenix,Safe Harbor,N/A
+risperdal,N/A,N/A,Decline,Phoenix,Safe Harbor,N/A
+seroquel,N/A,N/A,Decline,Phoenix,Safe Harbor,N/A
+suboxone,N/A,N/A,Decline,Phoenix,Safe Harbor,N/A
+tamoxifen,N/A,N/A,Decline,Phoenix,Safe Harbor,N/A
+warfarin,N/A,N/A,Decline,Phoenix,Safe Harbor,N/A
+zyprexa,N/A,N/A,Decline,Phoenix,Safe Harbor,N/A
+abacavir,Current,N/A,Decline,Mutual of Omaha,Living Promise,N/A
+abilify,Current,N/A,May Qualify for Graded,Mutual of Omaha,Living Promise,N/A
+alkeran,Current,N/A,Decline,Mutual of Omaha,Living Promise,N/A
+amiodarone,Current,N/A,May Qualify for Graded,Mutual of Omaha,Living Promise,N/A
+ampyra,Current,N/A,May Qualify for Graded,Mutual of Omaha,Living Promise,N/A
+antabuse,Current,N/A,May Qualify for Graded,Mutual of Omaha,Living Promise,N/A
+aricept,Current,N/A,Decline,Mutual of Omaha,Living Promise,N/A
+atripla,Current,N/A,Decline,Mutual of Omaha,Living Promise,N/A
+avonex,Current,N/A,May Qualify for Graded,Mutual of Omaha,Living Promise,N/A
+azilect,Current,N/A,May Qualify for Graded,Mutual of Omaha,Living Promise,N/A
+baraclude,Current,N/A,May Qualify for Graded,Mutual of Omaha,Living Promise,N/A
+betaseron,Current,N/A,May Qualify for Graded,Mutual of Omaha,Living Promise,N/A
+calcium acetate,Current,N/A,May Qualify for Graded,Mutual of Omaha,Living Promise,N/A
+campath,Current,N/A,Decline,Mutual of Omaha,Living Promise,N/A
+campral,Current,N/A,May Qualify for Graded,Mutual of Omaha,Living Promise,N/A
+caprelsa,Current,N/A,Decline,Mutual of Omaha,Living Promise,N/A
+carbidopa/levodopa,Current,N/A,May Qualify for Graded,Mutual of Omaha,Living Promise,N/A
+casodex,Current,N/A,Decline,Mutual of Omaha,Living Promise,N/A
+cellcept,Current,N/A,Decline,Mutual of Omaha,Living Promise,N/A
+chlorpromazine hcl,Current,N/A,May Qualify for Graded,Mutual of Omaha,Living Promise,N/A
+clozapine,Current,N/A,May Qualify for Graded,Mutual of Omaha,Living Promise,N/A
+cognex,Current,N/A,Decline,Mutual of Omaha,Living Promise,N/A
+aggrenox,Current,N/A,More Information Needed,Mutual of Omaha,Living Promise,N/A
+arimidex,Current,N/A,More Information Needed,Mutual of Omaha,Living Promise,N/A
+carvedilol,Current,N/A,More Information Needed,Mutual of Omaha,Living Promise,N/A
+clopidogrel,Current,N/A,More Information Needed,Mutual of Omaha,Living Promise,N/A
+combivir,Current,N/A,Decline,Mutual of Omaha,Living Promise,N/A
+copaxone,Current,N/A,May Qualify for Graded,Mutual of Omaha,Living Promise,N/A
+crixivan,Current,N/A,Decline,Mutual of Omaha,Living Promise,N/A
+cyclosporine,Current,N/A,Decline,Mutual of Omaha,Living Promise,N/A
+cytoxan,Current,N/A,Decline,Mutual of Omaha,Living Promise,N/A
+donepezil,Current,N/A,Decline,Mutual of Omaha,Living Promise,N/A
+droxia,Current,N/A,Decline,Mutual of Omaha,Living Promise,N/A
+eligard,Current,N/A,Decline,Mutual of Omaha,Living Promise,N/A
+eminase,Current,N/A,May Qualify for Graded,Mutual of Omaha,Living Promise,N/A
+epivir hbv,Current,N/A,Decline,Mutual of Omaha,Living Promise,N/A
+ergoloid mesylates,Current,N/A,Decline,Mutual of Omaha,Living Promise,N/A
+exelon,Current,N/A,Decline,Mutual of Omaha,Living Promise,N/A
+floxuridine,Current,N/A,Decline,Mutual of Omaha,Living Promise,N/A
+fluorouracil,Current,N/A,Decline,Mutual of Omaha,Living Promise,N/A
+galantamine,Current,N/A,Decline,Mutual of Omaha,Living Promise,N/A
+hydrobromide,Current,N/A,Decline,Mutual of Omaha,Living Promise,N/A
+gammagard,Current,N/A,Decline,Mutual of Omaha,Living Promise,N/A
+gamunex,Current,N/A,Decline,Mutual of Omaha,Living Promise,N/A
+gengraf,Current,N/A,Decline,Mutual of Omaha,Living Promise,N/A
+geodon,Current,N/A,May Qualify for Graded,Mutual of Omaha,Living Promise,N/A
+haldol,Current,N/A,May Qualify for Graded,Mutual of Omaha,Living Promise,N/A
+haloperidol,Current,N/A,May Qualify for Graded,Mutual of Omaha,Living Promise,N/A
+coreg,Current,N/A,More Information Needed,Mutual of Omaha,Living Promise,N/A
+coumadin,Current,N/A,More Information Needed,Mutual of Omaha,Living Promise,N/A
+digitek,Current,N/A,More Information Needed,Mutual of Omaha,Living Promise,N/A
+digoxin,Current,N/A,More Information Needed,Mutual of Omaha,Living Promise,N/A
+hydrea,Current,N/A,Decline,Mutual of Omaha,Living Promise,N/A
+hydroxyurea,Current,N/A,Decline,Mutual of Omaha,Living Promise,N/A
+infergen,Current,N/A,May Qualify for Graded,Mutual of Omaha,Living Promise,N/A
+invega,Current,N/A,May Qualify for Graded,Mutual of Omaha,Living Promise,N/A
+invirase,Current,N/A,Decline,Mutual of Omaha,Living Promise,N/A
+latuda,Current,N/A,May Qualify for Graded,Mutual of Omaha,Living Promise,N/A
+leucovorin calcium,Current,N/A,Decline,Mutual of Omaha,Living Promise,N/A
+lexiva,Current,N/A,Decline,Mutual of Omaha,Living Promise,N/A
+limbitrol,Current,N/A,May Qualify for Graded,Mutual of Omaha,Living Promise,N/A
+lithium,Current,N/A,May Qualify for Graded,Mutual of Omaha,Living Promise,N/A
+megace,Current,N/A,Decline,Mutual of Omaha,Living Promise,N/A
+megestrol acetate,Current,N/A,Decline,Mutual of Omaha,Living Promise,N/A
+(megace),Current,N/A,Decline,Mutual of Omaha,Living Promise,N/A
+mitomycin,Current,N/A,Decline,Mutual of Omaha,Living Promise,N/A
+mycophenolate mofetil,Current,N/A,Decline,Mutual of Omaha,Living Promise,N/A
+myfortic,Current,N/A,Decline,Mutual of Omaha,Living Promise,N/A
+naloxone hcl,Current,N/A,May Qualify for Graded,Mutual of Omaha,Living Promise,N/A
+naltrexone hcl,Current,N/A,May Qualify for Graded,Mutual of Omaha,Living Promise,N/A
+namenda,Current,N/A,Decline,Mutual of Omaha,Living Promise,N/A
+neupogen,Current,N/A,Decline,Mutual of Omaha,Living Promise,N/A
+panretin,Current,N/A,Decline,Mutual of Omaha,Living Promise,N/A
+pegasys,Current,N/A,May Qualify for Graded,Mutual of Omaha,Living Promise,N/A
+eliquis,Current,N/A,More Information Needed,Mutual of Omaha,Living Promise,N/A
+enoxaparin sodium,Current,N/A,More Information Needed,Mutual of Omaha,Living Promise,N/A
+femara,Current,N/A,More Information Needed,Mutual of Omaha,Living Promise,N/A
+lanoxin,Current,N/A,More Information Needed,Mutual of Omaha,Living Promise,N/A
+peg-intron,Current,N/A,May Qualify for Graded,Mutual of Omaha,Living Promise,N/A
+perphenazine,Current,N/A,May Qualify for Graded,Mutual of Omaha,Living Promise,N/A
+pradaxa,Current,N/A,May Qualify for Graded,Mutual of Omaha,Living Promise,N/A
+prograf,Current,N/A,Decline,Mutual of Omaha,Living Promise,N/A
+ranexa,Current,N/A,May Qualify for Graded,Mutual of Omaha,Living Promise,N/A
+razadyne,Current,N/A,Decline,Mutual of Omaha,Living Promise,N/A
+rebif,Current,N/A,May Qualify for Graded,Mutual of Omaha,Living Promise,N/A
+retrovir,Current,N/A,Decline,Mutual of Omaha,Living Promise,N/A
+revia,Current,N/A,May Qualify for Graded,Mutual of Omaha,Living Promise,N/A
+revlimid,Current,N/A,Decline,Mutual of Omaha,Living Promise,N/A
+ribavirin,Current,N/A,May Qualify for Graded,Mutual of Omaha,Living Promise,N/A
+risperdal,Current,N/A,May Qualify for Graded,Mutual of Omaha,Living Promise,N/A
+rituxan,Current,N/A,Decline,Mutual of Omaha,Living Promise,N/A
+sandimmune,Current,N/A,Decline,Mutual of Omaha,Living Promise,N/A
+saphris,Current,N/A,May Qualify for Graded,Mutual of Omaha,Living Promise,N/A
+seroquel,Current,N/A,May Qualify for Graded,Mutual of Omaha,Living Promise,N/A
+serzone,Current,N/A,May Qualify for Graded,Mutual of Omaha,Living Promise,N/A
+sinemet,Current,N/A,May Qualify for Graded,Mutual of Omaha,Living Promise,N/A
+spiriva,Current,N/A,May Qualify for Graded,Mutual of Omaha,Living Promise,N/A
+stalevo,Current,N/A,May Qualify for Graded,Mutual of Omaha,Living Promise,N/A
+stribild,Current,N/A,Decline,Mutual of Omaha,Living Promise,N/A
+suboxone,Current,N/A,May Qualify for Graded,Mutual of Omaha,Living Promise,N/A
+lovenox,Current,N/A,More Information Needed,Mutual of Omaha,Living Promise,N/A
+plavix,Current,N/A,More Information Needed,Mutual of Omaha,Living Promise,N/A
+tamoxifen,Current,N/A,More Information Needed,Mutual of Omaha,Living Promise,N/A
+warfarin,Current,N/A,More Information Needed,Mutual of Omaha,Living Promise,N/A
+sustiva,Current,N/A,Decline,Mutual of Omaha,Living Promise,N/A
+symbyax,Current,N/A,May Qualify for Graded,Mutual of Omaha,Living Promise,N/A
+targretin,Current,N/A,Decline,Mutual of Omaha,Living Promise,N/A
+teslac,Current,N/A,Decline,Mutual of Omaha,Living Promise,N/A
+truvada,Current,N/A,Decline,Mutual of Omaha,Living Promise,N/A
+viracept,Current,N/A,Decline,Mutual of Omaha,Living Promise,N/A
+viramune,Current,N/A,Decline,Mutual of Omaha,Living Promise,N/A
+viread,Current,N/A,Decline,Mutual of Omaha,Living Promise,N/A
+zenapax,Current,N/A,Decline,Mutual of Omaha,Living Promise,N/A
+zerit,Current,N/A,Decline,Mutual of Omaha,Living Promise,N/A
+ziagen,Current,N/A,Decline,Mutual of Omaha,Living Promise,N/A
+zidovudine,Current,N/A,Decline,Mutual of Omaha,Living Promise,N/A
+zoladex,Current,N/A,Decline,Mutual of Omaha,Living Promise,N/A
+zyprexa,Current,N/A,May Qualify for Graded,Mutual of Omaha,Living Promise,N/A
+xarelto,Current,N/A,More Information Needed,Mutual of Omaha,Living Promise,N/A
+abilify,N/A,N/A,Decline,Phoenix ,Remembrance,N/A
+aripcept,N/A,N/A,Decline,Phoenix ,Remembrance,N/A
+coumadin,N/A,N/A,Decline,Phoenix ,Remembrance,N/A
+dexamethasone,N/A,N/A,Decline,Phoenix ,Remembrance,N/A
+digoxin,N/A,N/A,Decline,Phoenix ,Remembrance,N/A
+enbrel,N/A,N/A,Decline,Phoenix ,Remembrance,N/A
+haloperidol,N/A,N/A,Decline,Phoenix ,Remembrance,N/A
+imuran,N/A,N/A,Decline,Phoenix ,Remembrance,N/A
+invirase,N/A,N/A,Decline,Phoenix ,Remembrance,N/A
+isosorbide,N/A,N/A,Decline,Phoenix ,Remembrance,N/A
+lithium,N/A,N/A,Decline,Phoenix ,Remembrance,N/A
+lupron,N/A,N/A,Decline,Phoenix ,Remembrance,N/A
+methadone,N/A,N/A,Decline,Phoenix ,Remembrance,N/A
+methotrexate,N/A,N/A,Decline,Phoenix ,Remembrance,N/A
+nitro/nitroglycerin,N/A,N/A,Decline,Phoenix ,Remembrance,N/A
+prochlorperazine,N/A,N/A,Decline,Phoenix ,Remembrance,N/A
+quetiapine,N/A,N/A,Decline,Phoenix ,Remembrance,N/A
+rebif,N/A,N/A,Decline,Phoenix ,Remembrance,N/A
+remicade,N/A,N/A,Decline,Phoenix ,Remembrance,N/A
+risperdal,N/A,N/A,Decline,Phoenix ,Remembrance,N/A
+seroquel,N/A,N/A,Decline,Phoenix ,Remembrance,N/A
+suboxone,N/A,N/A,Decline,Phoenix ,Remembrance,N/A
+tamoxifen,N/A,N/A,Decline,Phoenix ,Remembrance,N/A
+warfarin,N/A,N/A,Decline,Phoenix ,Remembrance,N/A
+zyprexa,N/A,N/A,Decline,Phoenix ,Remembrance,N/A
+abacavir,Current,N/A,Decline,Mutual of Omaha,Guranteed Universal Life Express,N/A
+abilify,Current,N/A,Decline,Mutual of Omaha,Guranteed Universal Life Express,N/A
+adcirca,Current,N/A,Decline,Mutual of Omaha,Guranteed Universal Life Express,N/A
+aggrenox,Current,N/A,Decline,Mutual of Omaha,Guranteed Universal Life Express,N/A
+alkeran,Current,N/A,Decline,Mutual of Omaha,Guranteed Universal Life Express,N/A
+amiodarone,Current,N/A,Decline,Mutual of Omaha,Guranteed Universal Life Express,N/A
+ampyra,Current,N/A,Decline,Mutual of Omaha,Guranteed Universal Life Express,N/A
+antabuse,Current,N/A,Decline,Mutual of Omaha,Guranteed Universal Life Express,N/A
+aricept,Current,N/A,Decline,Mutual of Omaha,Guranteed Universal Life Express,N/A
+arimidex,Current,N/A,Decline,Mutual of Omaha,Guranteed Universal Life Express,N/A
+atripla,Current,N/A,Decline,Mutual of Omaha,Guranteed Universal Life Express,N/A
+avonex,Current,N/A,Decline,Mutual of Omaha,Guranteed Universal Life Express,N/A
+azilect,Current,N/A,Decline,Mutual of Omaha,Guranteed Universal Life Express,N/A
+baraclude,Current,N/A,Decline,Mutual of Omaha,Guranteed Universal Life Express,N/A
+betaseron,Current,N/A,Decline,Mutual of Omaha,Guranteed Universal Life Express,N/A
+calcium acetate,Current,N/A,Decline,Mutual of Omaha,Guranteed Universal Life Express,N/A
+campath,Current,N/A,Decline,Mutual of Omaha,Guranteed Universal Life Express,N/A
+campral,Current,N/A,Decline,Mutual of Omaha,Guranteed Universal Life Express,N/A
+caprelsa,Current,N/A,Decline,Mutual of Omaha,Guranteed Universal Life Express,N/A
+carbidopa/levodopa,Current,N/A,Decline,Mutual of Omaha,Guranteed Universal Life Express,N/A
+casodex,Current,N/A,Decline,Mutual of Omaha,Guranteed Universal Life Express,N/A
+cellcept,Current,N/A,Decline,Mutual of Omaha,Guranteed Universal Life Express,N/A
+chlorpromazine hcl,Current,N/A,Decline,Mutual of Omaha,Guranteed Universal Life Express,N/A
+clozapine,Current,N/A,Decline,Mutual of Omaha,Guranteed Universal Life Express,N/A
+cognex,Current,N/A,Decline,Mutual of Omaha,Guranteed Universal Life Express,N/A
+combivir,Current,N/A,Decline,Mutual of Omaha,Guranteed Universal Life Express,N/A
+copaxone,Current,N/A,Decline,Mutual of Omaha,Guranteed Universal Life Express,N/A
+crixivan,Current,N/A,Decline,Mutual of Omaha,Guranteed Universal Life Express,N/A
+cyclosporine,Current,N/A,Decline,Mutual of Omaha,Guranteed Universal Life Express,N/A
+cytoxan,Current,N/A,Decline,Mutual of Omaha,Guranteed Universal Life Express,N/A
+digitek,Current,N/A,Decline,Mutual of Omaha,Guranteed Universal Life Express,N/A
+digoxin,Current,N/A,Decline,Mutual of Omaha,Guranteed Universal Life Express,N/A
+dobutamine hcl,Current,N/A,Decline,Mutual of Omaha,Guranteed Universal Life Express,N/A
+donepezil,Current,N/A,Decline,Mutual of Omaha,Guranteed Universal Life Express,N/A
+droxia,Current,N/A,Decline,Mutual of Omaha,Guranteed Universal Life Express,N/A
+eligard,Current,N/A,Decline,Mutual of Omaha,Guranteed Universal Life Express,N/A
+eliquis,Current,N/A,Decline,Mutual of Omaha,Guranteed Universal Life Express,N/A
+eminase,Current,N/A,Decline,Mutual of Omaha,Guranteed Universal Life Express,N/A
+enbrel,Current,N/A,Decline,Mutual of Omaha,Guranteed Universal Life Express,N/A
+epivir hbv,Current,N/A,Decline,Mutual of Omaha,Guranteed Universal Life Express,N/A
+ergoloid mesylates,Current,N/A,Decline,Mutual of Omaha,Guranteed Universal Life Express,N/A
+exelon,Current,N/A,Decline,Mutual of Omaha,Guranteed Universal Life Express,N/A
+femara,Current,N/A,Decline,Mutual of Omaha,Guranteed Universal Life Express,N/A
+floxuridine,Current,N/A,Decline,Mutual of Omaha,Guranteed Universal Life Express,N/A
+fluorouracil,Current,N/A,Decline,Mutual of Omaha,Guranteed Universal Life Express,N/A
+galantamine,Current,N/A,Decline,Mutual of Omaha,Guranteed Universal Life Express,N/A
+hydrobromide,Current,N/A,Decline,Mutual of Omaha,Guranteed Universal Life Express,N/A
+gammagard,Current,N/A,Decline,Mutual of Omaha,Guranteed Universal Life Express,N/A
+gamunex,Current,N/A,Decline,Mutual of Omaha,Guranteed Universal Life Express,N/A
+gengraf,Current,N/A,Decline,Mutual of Omaha,Guranteed Universal Life Express,N/A
+geodon,Current,N/A,Decline,Mutual of Omaha,Guranteed Universal Life Express,N/A
+haldol,Current,N/A,Decline,Mutual of Omaha,Guranteed Universal Life Express,N/A
+haloperidol,Current,N/A,Decline,Mutual of Omaha,Guranteed Universal Life Express,N/A
+hepsera,Current,N/A,Decline,Mutual of Omaha,Guranteed Universal Life Express,N/A
+humira,Current,N/A,Decline,Mutual of Omaha,Guranteed Universal Life Express,N/A
+hydrea,Current,N/A,Decline,Mutual of Omaha,Guranteed Universal Life Express,N/A
+hydroxyurea,Current,N/A,Decline,Mutual of Omaha,Guranteed Universal Life Express,N/A
+infergen,Current,N/A,Decline,Mutual of Omaha,Guranteed Universal Life Express,N/A
+invega,Current,N/A,Decline,Mutual of Omaha,Guranteed Universal Life Express,N/A
+invirase,Current,N/A,Decline,Mutual of Omaha,Guranteed Universal Life Express,N/A
+kalydeco,Current,N/A,Decline,Mutual of Omaha,Guranteed Universal Life Express,N/A
+lanoxin,Current,N/A,Decline,Mutual of Omaha,Guranteed Universal Life Express,N/A
+latuda,Current,N/A,Decline,Mutual of Omaha,Guranteed Universal Life Express,N/A
+leucovorin calcium,Current,N/A,Decline,Mutual of Omaha,Guranteed Universal Life Express,N/A
+lexiva,Current,N/A,Decline,Mutual of Omaha,Guranteed Universal Life Express,N/A
+limbitrol,Current,N/A,Decline,Mutual of Omaha,Guranteed Universal Life Express,N/A
+lithium,Current,N/A,Decline,Mutual of Omaha,Guranteed Universal Life Express,N/A
+megestrol acetate,Current,N/A,Decline,Mutual of Omaha,Guranteed Universal Life Express,N/A
+(megace),Current,N/A,Decline,Mutual of Omaha,Guranteed Universal Life Express,N/A
+methadone,Current,N/A,Decline,Mutual of Omaha,Guranteed Universal Life Express,N/A
+methotrexate,Current,N/A,Decline,Mutual of Omaha,Guranteed Universal Life Express,N/A
+mitomycin,Current,N/A,Decline,Mutual of Omaha,Guranteed Universal Life Express,N/A
+morphine sulfate,Current,N/A,Decline,Mutual of Omaha,Guranteed Universal Life Express,N/A
+mycophenolate mofetil,Current,N/A,Decline,Mutual of Omaha,Guranteed Universal Life Express,N/A
+myfortic,Current,N/A,Decline,Mutual of Omaha,Guranteed Universal Life Express,N/A
+nabi-hb,Current,N/A,Decline,Mutual of Omaha,Guranteed Universal Life Express,N/A
+naloxone hcl,Current,N/A,Decline,Mutual of Omaha,Guranteed Universal Life Express,N/A
+naltrexone hcl,Current,N/A,Decline,Mutual of Omaha,Guranteed Universal Life Express,N/A
+namenda,Current,N/A,Decline,Mutual of Omaha,Guranteed Universal Life Express,N/A
+neupogen,Current,N/A,Decline,Mutual of Omaha,Guranteed Universal Life Express,N/A
+panretin,Current,N/A,Decline,Mutual of Omaha,Guranteed Universal Life Express,N/A
+pegasys,Current,N/A,Decline,Mutual of Omaha,Guranteed Universal Life Express,N/A
+peg-intron,Current,N/A,Decline,Mutual of Omaha,Guranteed Universal Life Express,N/A
+perphenazine,Current,N/A,Decline,Mutual of Omaha,Guranteed Universal Life Express,N/A
+pradaxa,Current,N/A,Decline,Mutual of Omaha,Guranteed Universal Life Express,N/A
+prograf,Current,N/A,Decline,Mutual of Omaha,Guranteed Universal Life Express,N/A
+ranexa,Current,N/A,Decline,Mutual of Omaha,Guranteed Universal Life Express,N/A
+razadyne,Current,N/A,Decline,Mutual of Omaha,Guranteed Universal Life Express,N/A
+rebif,Current,N/A,Decline,Mutual of Omaha,Guranteed Universal Life Express,N/A
+retrovir,Current,N/A,Decline,Mutual of Omaha,Guranteed Universal Life Express,N/A
+revia,Current,N/A,Decline,Mutual of Omaha,Guranteed Universal Life Express,N/A
+revlimid,Current,N/A,Decline,Mutual of Omaha,Guranteed Universal Life Express,N/A
+ribavirin,Current,N/A,Decline,Mutual of Omaha,Guranteed Universal Life Express,N/A
+risperdal,Current,N/A,Decline,Mutual of Omaha,Guranteed Universal Life Express,N/A
+rituxan,Current,N/A,Decline,Mutual of Omaha,Guranteed Universal Life Express,N/A
+sandimmune,Current,N/A,Decline,Mutual of Omaha,Guranteed Universal Life Express,N/A
+saphris,Current,N/A,Decline,Mutual of Omaha,Guranteed Universal Life Express,N/A
+seroquel,Current,N/A,Decline,Mutual of Omaha,Guranteed Universal Life Express,N/A
+serzone,Current,N/A,Decline,Mutual of Omaha,Guranteed Universal Life Express,N/A
+sinemet,Current,N/A,Decline,Mutual of Omaha,Guranteed Universal Life Express,N/A
+spiriva,Current,N/A,Decline,Mutual of Omaha,Guranteed Universal Life Express,N/A
+stalevo,Current,N/A,Decline,Mutual of Omaha,Guranteed Universal Life Express,N/A
+stribild,Current,N/A,Decline,Mutual of Omaha,Guranteed Universal Life Express,N/A
+suboxone,Current,N/A,Decline,Mutual of Omaha,Guranteed Universal Life Express,N/A
+sustiva,Current,N/A,Decline,Mutual of Omaha,Guranteed Universal Life Express,N/A
+symbyax,Current,N/A,Decline,Mutual of Omaha,Guranteed Universal Life Express,N/A
+tamoxifen,Current,N/A,Decline,Mutual of Omaha,Guranteed Universal Life Express,N/A
+targretin,Current,N/A,Decline,Mutual of Omaha,Guranteed Universal Life Express,N/A
+teslac,Current,N/A,Decline,Mutual of Omaha,Guranteed Universal Life Express,N/A
+truvada,Current,N/A,Decline,Mutual of Omaha,Guranteed Universal Life Express,N/A
+tysabri,Current,N/A,Decline,Mutual of Omaha,Guranteed Universal Life Express,N/A
+viracept,Current,N/A,Decline,Mutual of Omaha,Guranteed Universal Life Express,N/A
+viramune,Current,N/A,Decline,Mutual of Omaha,Guranteed Universal Life Express,N/A
+viread,Current,N/A,Decline,Mutual of Omaha,Guranteed Universal Life Express,N/A
+xarelto,Current,N/A,Decline,Mutual of Omaha,Guranteed Universal Life Express,N/A
+xeljanz,Current,N/A,Decline,Mutual of Omaha,Guranteed Universal Life Express,N/A
+zenapax,Current,N/A,Decline,Mutual of Omaha,Guranteed Universal Life Express,N/A
+zerit,Current,N/A,Decline,Mutual of Omaha,Guranteed Universal Life Express,N/A
+ziagen,Current,N/A,Decline,Mutual of Omaha,Guranteed Universal Life Express,N/A
+zidovudine,Current,N/A,Decline,Mutual of Omaha,Guranteed Universal Life Express,N/A
+zoladex,Current,N/A,Decline,Mutual of Omaha,Guranteed Universal Life Express,N/A
+zyprexa,Current,N/A,Decline,Mutual of Omaha,Guranteed Universal Life Express,N/A
+abacavir,Current,N/A,Decline,Mutual of Omaha,Term Life Express,N/A
+abilify,Current,N/A,Decline,Mutual of Omaha,Term Life Express,N/A
+adcirca,Current,N/A,Decline,Mutual of Omaha,Term Life Express,N/A
+aggrenox,Current,N/A,Decline,Mutual of Omaha,Term Life Express,N/A
+alkeran,Current,N/A,Decline,Mutual of Omaha,Term Life Express,N/A
+amiodarone,Current,N/A,Decline,Mutual of Omaha,Term Life Express,N/A
+ampyra,Current,N/A,Decline,Mutual of Omaha,Term Life Express,N/A
+antabuse,Current,N/A,Decline,Mutual of Omaha,Term Life Express,N/A
+aricept,Current,N/A,Decline,Mutual of Omaha,Term Life Express,N/A
+arimidex,Current,N/A,Decline,Mutual of Omaha,Term Life Express,N/A
+atripla,Current,N/A,Decline,Mutual of Omaha,Term Life Express,N/A
+avonex,Current,N/A,Decline,Mutual of Omaha,Term Life Express,N/A
+azilect,Current,N/A,Decline,Mutual of Omaha,Term Life Express,N/A
+baraclude,Current,N/A,Decline,Mutual of Omaha,Term Life Express,N/A
+betaseron,Current,N/A,Decline,Mutual of Omaha,Term Life Express,N/A
+calcium acetate,Current,N/A,Decline,Mutual of Omaha,Term Life Express,N/A
+campath,Current,N/A,Decline,Mutual of Omaha,Term Life Express,N/A
+campral,Current,N/A,Decline,Mutual of Omaha,Term Life Express,N/A
+caprelsa,Current,N/A,Decline,Mutual of Omaha,Term Life Express,N/A
+carbidopa/levodopa,Current,N/A,Decline,Mutual of Omaha,Term Life Express,N/A
+casodex,Current,N/A,Decline,Mutual of Omaha,Term Life Express,N/A
+cellcept,Current,N/A,Decline,Mutual of Omaha,Term Life Express,N/A
+chlorpromazine hcl,Current,N/A,Decline,Mutual of Omaha,Term Life Express,N/A
+clozapine,Current,N/A,Decline,Mutual of Omaha,Term Life Express,N/A
+cognex,Current,N/A,Decline,Mutual of Omaha,Term Life Express,N/A
+combivir,Current,N/A,Decline,Mutual of Omaha,Term Life Express,N/A
+copaxone,Current,N/A,Decline,Mutual of Omaha,Term Life Express,N/A
+crixivan,Current,N/A,Decline,Mutual of Omaha,Term Life Express,N/A
+cyclosporine,Current,N/A,Decline,Mutual of Omaha,Term Life Express,N/A
+cytoxan,Current,N/A,Decline,Mutual of Omaha,Term Life Express,N/A
+digitek,Current,N/A,Decline,Mutual of Omaha,Term Life Express,N/A
+digoxin,Current,N/A,Decline,Mutual of Omaha,Term Life Express,N/A
+dobutamine hcl,Current,N/A,Decline,Mutual of Omaha,Term Life Express,N/A
+donepezil,Current,N/A,Decline,Mutual of Omaha,Term Life Express,N/A
+droxia,Current,N/A,Decline,Mutual of Omaha,Term Life Express,N/A
+eligard,Current,N/A,Decline,Mutual of Omaha,Term Life Express,N/A
+eliquis,Current,N/A,Decline,Mutual of Omaha,Term Life Express,N/A
+eminase,Current,N/A,Decline,Mutual of Omaha,Term Life Express,N/A
+enbrel,Current,N/A,Decline,Mutual of Omaha,Term Life Express,N/A
+epivir hbv,Current,N/A,Decline,Mutual of Omaha,Term Life Express,N/A
+ergoloid mesylates,Current,N/A,Decline,Mutual of Omaha,Term Life Express,N/A
+exelon,Current,N/A,Decline,Mutual of Omaha,Term Life Express,N/A
+femara,Current,N/A,Decline,Mutual of Omaha,Term Life Express,N/A
+floxuridine,Current,N/A,Decline,Mutual of Omaha,Term Life Express,N/A
+fluorouracil,Current,N/A,Decline,Mutual of Omaha,Term Life Express,N/A
+galantamine,Current,N/A,Decline,Mutual of Omaha,Term Life Express,N/A
+hydrobromide,Current,N/A,Decline,Mutual of Omaha,Term Life Express,N/A
+gammagard,Current,N/A,Decline,Mutual of Omaha,Term Life Express,N/A
+gamunex,Current,N/A,Decline,Mutual of Omaha,Term Life Express,N/A
+gengraf,Current,N/A,Decline,Mutual of Omaha,Term Life Express,N/A
+geodon,Current,N/A,Decline,Mutual of Omaha,Term Life Express,N/A
+haldol,Current,N/A,Decline,Mutual of Omaha,Term Life Express,N/A
+haloperidol,Current,N/A,Decline,Mutual of Omaha,Term Life Express,N/A
+hepsera,Current,N/A,Decline,Mutual of Omaha,Term Life Express,N/A
+humira,Current,N/A,Decline,Mutual of Omaha,Term Life Express,N/A
+hydrea,Current,N/A,Decline,Mutual of Omaha,Term Life Express,N/A
+hydroxyurea,Current,N/A,Decline,Mutual of Omaha,Term Life Express,N/A
+infergen,Current,N/A,Decline,Mutual of Omaha,Term Life Express,N/A
+invega,Current,N/A,Decline,Mutual of Omaha,Term Life Express,N/A
+invirase,Current,N/A,Decline,Mutual of Omaha,Term Life Express,N/A
+kalydeco,Current,N/A,Decline,Mutual of Omaha,Term Life Express,N/A
+lanoxin,Current,N/A,Decline,Mutual of Omaha,Term Life Express,N/A
+latuda,Current,N/A,Decline,Mutual of Omaha,Term Life Express,N/A
+leucovorin calcium,Current,N/A,Decline,Mutual of Omaha,Term Life Express,N/A
+lexiva,Current,N/A,Decline,Mutual of Omaha,Term Life Express,N/A
+limbitrol,Current,N/A,Decline,Mutual of Omaha,Term Life Express,N/A
+lithium,Current,N/A,Decline,Mutual of Omaha,Term Life Express,N/A
+megestrol acetate,Current,N/A,Decline,Mutual of Omaha,Term Life Express,N/A
+(megace),Current,N/A,Decline,Mutual of Omaha,Term Life Express,N/A
+methadone,Current,N/A,Decline,Mutual of Omaha,Term Life Express,N/A
+methotrexate,Current,N/A,Decline,Mutual of Omaha,Term Life Express,N/A
+mitomycin,Current,N/A,Decline,Mutual of Omaha,Term Life Express,N/A
+morphine sulfate,Current,N/A,Decline,Mutual of Omaha,Term Life Express,N/A
+mycophenolate mofetil,Current,N/A,Decline,Mutual of Omaha,Term Life Express,N/A
+myfortic,Current,N/A,Decline,Mutual of Omaha,Term Life Express,N/A
+nabi-hb,Current,N/A,Decline,Mutual of Omaha,Term Life Express,N/A
+naloxone hcl,Current,N/A,Decline,Mutual of Omaha,Term Life Express,N/A
+naltrexone hcl,Current,N/A,Decline,Mutual of Omaha,Term Life Express,N/A
+namenda,Current,N/A,Decline,Mutual of Omaha,Term Life Express,N/A
+neupogen,Current,N/A,Decline,Mutual of Omaha,Term Life Express,N/A
+panretin,Current,N/A,Decline,Mutual of Omaha,Term Life Express,N/A
+pegasys,Current,N/A,Decline,Mutual of Omaha,Term Life Express,N/A
+peg-intron,Current,N/A,Decline,Mutual of Omaha,Term Life Express,N/A
+perphenazine,Current,N/A,Decline,Mutual of Omaha,Term Life Express,N/A
+pradaxa,Current,N/A,Decline,Mutual of Omaha,Term Life Express,N/A
+prograf,Current,N/A,Decline,Mutual of Omaha,Term Life Express,N/A
+ranexa,Current,N/A,Decline,Mutual of Omaha,Term Life Express,N/A
+razadyne,Current,N/A,Decline,Mutual of Omaha,Term Life Express,N/A
+rebif,Current,N/A,Decline,Mutual of Omaha,Term Life Express,N/A
+retrovir,Current,N/A,Decline,Mutual of Omaha,Term Life Express,N/A
+revia,Current,N/A,Decline,Mutual of Omaha,Term Life Express,N/A
+revlimid,Current,N/A,Decline,Mutual of Omaha,Term Life Express,N/A
+ribavirin,Current,N/A,Decline,Mutual of Omaha,Term Life Express,N/A
+risperdal,Current,N/A,Decline,Mutual of Omaha,Term Life Express,N/A
+rituxan,Current,N/A,Decline,Mutual of Omaha,Term Life Express,N/A
+sandimmune,Current,N/A,Decline,Mutual of Omaha,Term Life Express,N/A
+saphris,Current,N/A,Decline,Mutual of Omaha,Term Life Express,N/A
+seroquel,Current,N/A,Decline,Mutual of Omaha,Term Life Express,N/A
+serzone,Current,N/A,Decline,Mutual of Omaha,Term Life Express,N/A
+sinemet,Current,N/A,Decline,Mutual of Omaha,Term Life Express,N/A
+spiriva,Current,N/A,Decline,Mutual of Omaha,Term Life Express,N/A
+stalevo,Current,N/A,Decline,Mutual of Omaha,Term Life Express,N/A
+stribild,Current,N/A,Decline,Mutual of Omaha,Term Life Express,N/A
+suboxone,Current,N/A,Decline,Mutual of Omaha,Term Life Express,N/A
+sustiva,Current,N/A,Decline,Mutual of Omaha,Term Life Express,N/A
+symbyax,Current,N/A,Decline,Mutual of Omaha,Term Life Express,N/A
+tamoxifen,Current,N/A,Decline,Mutual of Omaha,Term Life Express,N/A
+targretin,Current,N/A,Decline,Mutual of Omaha,Term Life Express,N/A
+teslac,Current,N/A,Decline,Mutual of Omaha,Term Life Express,N/A
+truvada,Current,N/A,Decline,Mutual of Omaha,Term Life Express,N/A
+tysabri,Current,N/A,Decline,Mutual of Omaha,Term Life Express,N/A
+viracept,Current,N/A,Decline,Mutual of Omaha,Term Life Express,N/A
+viramune,Current,N/A,Decline,Mutual of Omaha,Term Life Express,N/A
+viread,Current,N/A,Decline,Mutual of Omaha,Term Life Express,N/A
+xarelto,Current,N/A,Decline,Mutual of Omaha,Term Life Express,N/A
+xeljanz,Current,N/A,Decline,Mutual of Omaha,Term Life Express,N/A
+zenapax,Current,N/A,Decline,Mutual of Omaha,Term Life Express,N/A
+zerit,Current,N/A,Decline,Mutual of Omaha,Term Life Express,N/A
+ziagen,Current,N/A,Decline,Mutual of Omaha,Term Life Express,N/A
+zidovudine,Current,N/A,Decline,Mutual of Omaha,Term Life Express,N/A
+zoladex,Current,N/A,Decline,Mutual of Omaha,Term Life Express,N/A
+zyprexa,Current,N/A,Decline,Mutual of Omaha,Term Life Express,N/A
+aggrenox,24 months,Stroke or TIA,Decline if stroke or TIA within 2 years,CFG,Dignified Choice,N/A
+amantadine hcl,36 months,Parkinson's,Decline,CFG,Dignified Choice,N/A
+ambisome,Ever,HIV Treatment likely,Decline,CFG,Dignified Choice,N/A
+anastrozole,Diagnosed or treated 24 months,Cancer,Decline if first fill within 2 years,CFG,Dignified Choice,N/A
+antabuse,Diagnosed or treated 36 months,Alcoholism,Decline,CFG,Dignified Choice,N/A
+aprepitant/emend,Diagnosed or treated 24 months,Cancer induced nausea likely,Decline,CFG,Dignified Choice,N/A
+aptivus,Ever,HIV Treatment likely,Decline,CFG,Dignified Choice,N/A
+aranesp,36 months,Kidney Disease,Decline,CFG,Dignified Choice,N/A
+aricept,Ever,Alzheimers/Dementia,Decline,CFG,Dignified Choice,N/A
+armasin,Diagnosed or treated 24 months,Cancer,Decline,CFG,Dignified Choice,N/A
+arimidex,Diagnosed or treated 24 months,Cancer,Decline if first fill within 2 years,CFG,Dignified Choice,N/A
+atamet,36 months,Parkinson's,Decline,CFG,Dignified Choice,N/A
+atgam,Ever,Organ/Tissue Transplant likely,Decline,CFG,Dignified Choice,N/A
+atripla,Ever,HIV Treatment likely,Decline,CFG,Dignified Choice,N/A
+avenox,36 months,Multiple Sclerosis,Decline,CFG,Dignified Choice,N/A
+avonex/rebif,36 months,Multiple Sclerosis,Decline,CFG,Dignified Choice,N/A
+baclofen,36 months,Multiple Sclerosis,Decline,CFG,Dignified Choice,N/A
+belimumab/benlysta,36 months,Systemic Lupus likely,Decline,CFG,Dignified Choice,N/A
+benlysta,36 months,Systemic Lupus likely,Decline,CFG,Dignified Choice,N/A
+betaseron,36 months,Multiple Sclerosis,Decline,CFG,Dignified Choice,N/A
+bidil,Ever,Congestive Heart Failure likely,Decline,CFG,Dignified Choice,N/A
+calcijex,36 months,Kidney Disease,Decline,CFG,Dignified Choice,N/A
+calcitriol,36 months,Kidney Disease,Decline,CFG,Dignified Choice,N/A
+calcium acetrate,36 months,Kidney Disease,Decline,CFG,Dignified Choice,N/A
+campath,Diagnosed or treated 24 months,Cancer,Decline,CFG,Dignified Choice,N/A
+campral,36 months,Substance Abuse,Decline,CFG,Dignified Choice,N/A
+carbidopa,36 months,Parkinsons,Decline,CFG,Dignified Choice,N/A
+carbidopa,36 months,Parkinson's likely,Decline,CFG,Dignified Choice,N/A
+carnitor,36 months,Kidney Disease,Decline,CFG,Dignified Choice,N/A
+carvedilol,Ever,Congestive Heart Failure possible,Decline if used for CHF,CFG,Dignified Choice,N/A
+casodex,Diagnosed or treated 24 months,Cancer,Decline,CFG,Dignified Choice,N/A
+chlorpromazine,36 months,Schizophrenia likely,Decline if used for Schizophrenia,CFG,Dignified Choice,N/A
+clopidogrel,24 months,Stroke or TIA,Decline if stroke or TIA within 2 years,CFG,Dignified Choice,N/A
+clozapine,"36 months diagnosed or treated
+for schizophrenia",Schizophrenia,Decline,CFG,Dignified Choice,N/A
+clozaril,36 months,Schizophrenia,Decline,CFG,Dignified Choice,N/A
+cognex,Ever,Alzheimers/Dementia,Decline,CFG,Dignified Choice,N/A
+combivir,Ever,HIV treatment likely,Decline,CFG,Dignified Choice,N/A
+copaxone,36 months,Multiple Sclerosis,Decline,CFG,Dignified Choice,N/A
+crofelemer/fulyzaq,Ever,HIV treatment likely,Decline,CFG,Dignified Choice,N/A
+cyclosporine,Ever,Organ Transplant,Decline,CFG,Dignified Choice,N/A
+cystagon,36 months,Kidney Disease,Decline,CFG,Dignified Choice,N/A
+cytogam,Ever,Organ Transplant,Decline,CFG,Dignified Choice,N/A
+digoxin/lanoxin,Ever,Congestive Heart Failure likely,Decline if used for CHF,CFG,Dignified Choice,N/A
+disufram,Diagnosed or treated 36 months,Alcoholism,Decline,CFG,Dignified Choice,N/A
+donepezil,Ever,Alzheimers/Dementia,Decline,CFG,Dignified Choice,N/A
+dornase alpha,Ever,Cystic Fibrosis,Decline,CFG,Dignified Choice,N/A
+emend,Diagnosed or treated 24 months,Cancer,Decline,CFG,Dignified Choice,N/A
+emtriva,Ever,HIV treatment likely,Decline,CFG,Dignified Choice,N/A
+epivir,Ever,HIV treatment likely,Decline,CFG,Dignified Choice,N/A
+esylate,Ever,Pulmonary Fibrosis likely,Decline,CFG,Dignified Choice,N/A
+exelon,Ever,Alzheimers/Dementia,Decline,CFG,Dignified Choice,N/A
+femara,Diagnosed or treated 24 months,Cancer,Decline if first fill within 2 years,CFG,Dignified Choice,N/A
+filgrastim/neupogen,Diagnosed or treated 24 months,Cancer likely,Decline,CFG,Dignified Choice,N/A
+floscavir,Ever,HIV treatment likely,Decline,CFG,Dignified Choice,N/A
+flutamide,Diagnosed or treated 24 months,Cancer,Decline,CFG,Dignified Choice,N/A
+fosrenol,36 months,Kidney Disease,Decline,CFG,Dignified Choice,N/A
+furosemide,Ever or 36 months,CHF/Kidney Disease likely,Decline if used for CHF,CFG,Dignified Choice,N/A
+galantamine,Ever,Alzheimers/Dementia,Decline,CFG,Dignified Choice,N/A
+ganciclovir,Ever,HIV Treatment likely,Decline,CFG,Dignified Choice,N/A
+gengraf,Ever,Organ Transplant,Decline,CFG,Dignified Choice,N/A
+geoden,36 months,Schizophrenia likely,Decline if used for Schizophrenia,CFG,Dignified Choice,N/A
+haldol,36 months,Schizophrenia likely,Decline,CFG,Dignified Choice,N/A
+halperidol/halperidone,36 months,Schizophrenia likely,Decline if used for Schizophrenia,CFG,Dignified Choice,N/A
+hectoral,36 months,Kidney Disease,Decline,CFG,Dignified Choice,N/A
+hydrea,Diagnosed or treated 24 months,Cancer,Decline,CFG,Dignified Choice,N/A
+hydroxyurea,Diagnosed or treated 24 months,Cancer,Decline,CFG,Dignified Choice,N/A
+interferon/ribaviran,Diagnosed or treated 36 months,Hepatitis likely,Decline,CFG,Dignified Choice,N/A
+intron-a,24 or 36 months,Cancer or Hepatitis C,Decline,CFG,Dignified Choice,N/A
+invega,36 months,Schizophrenia likely,Decline if used for schizophrenia,CFG,Dignified Choice,N/A
+invirase,Ever,HIV treatment likely,Decline,CFG,Dignified Choice,N/A
+isosorbide & hydralazine,Ever,Congestive Heart Failure likely,Decline if used in combination,CFG,Dignified Choice,N/A
+lamivudine-zidovudine,Ever,HIV treatment likely,Decline,CFG,Dignified Choice,N/A
+lanoxin,Ever,Congestive Heart Failure possible,Decline if used for CHF,CFG,Dignified Choice,N/A
+laradopa/levodopa,36 months,Parkinsons,Decline,CFG,Dignified Choice,N/A
+lasix,Diagnosed or treated 36 months,Heart/Liver/Kidney disease likely,"Decline if used for CHF, liver or kidney
+disease",CFG,Dignified Choice,N/A
+lexiva,Ever,HIV treatment likely,Decline,CFG,Dignified Choice,N/A
+lupton,Diagnosed or treated 24 months,Cancer,Decline,CFG,Dignified Choice,N/A
+marijuana,36 months,,"May be eligible for all plans depending
+on reason prescribed",CFG,Dignified Choice,N/A
+mercaptopurine,Diagnosed or treated 24 months,Cancer,Decline,CFG,Dignified Choice,N/A
+methadone,Diagnosed or treated 36 months,Substance abuse possible,Decline,CFG,Dignified Choice,N/A
+namenda,Ever,Alzheimers/Dementia,Decline,CFG,Dignified Choice,N/A
+narcan/naloxone/naltrexone,Diagnosed or treated 36 months,Alcohol/Drugs,Decline,CFG,Dignified Choice,N/A
+navene,36 months,Schizophrenia likely,Decline,CFG,Dignified Choice,N/A
+nintedanib,Ever,Pulmonary Fibrosis likely,Decline,CFG,Dignified Choice,N/A
+nitro-dur/nitroquick/nitrostat,24 months,Angina/chest pain,"Decline if used for chest pain/angina
+in the last 24 months",CFG,Dignified Choice,N/A
+nitroglycerin,24 months,Angina/Chest pain,"Decline if used for chest pain/angina
+in the last 24 months",CFG,Dignified Choice,N/A
+norvir,Ever,HIV treatment likely,Decline,CFG,Dignified Choice,N/A
+ofev,Ever,Pulmonary Fibrosis likely,Decline,CFG,Dignified Choice,N/A
+olanzapine,36 months,Schizophrenia possible,Decline if used for Schizophrenia,CFG,Dignified Choice,N/A
+ondansetron,Diagnosed or treated 24 months,Cancer,Decline,CFG,Dignified Choice,N/A
+pegasys/peg-intron,36 months,Liver Disease,Decline,CFG,Dignified Choice,N/A
+prograf,Ever,Organ Transplant,Decline,CFG,Dignified Choice,N/A
+pulmozyme,Ever,Cystic Fibrosis,Decline,CFG,Dignified Choice,N/A
+quetiapine,36 months,Schizophrenia possible,Decline if used for schizophrenia,CFG,Dignified Choice,N/A
+rapamune,Ever,Organ Transplant,Decline,CFG,Dignified Choice,N/A
+razadyne,Ever,Alzheimers/Dementia,Decline,CFG,Dignified Choice,N/A
+rebif,36 months,Multiple Sclerosis,Decline,CFG,Dignified Choice,N/A
+reminyl,Ever,Alzheimers/Dementia,Decline,CFG,Dignified Choice,N/A
+renagel,36 months,Kidney Disease,Decline,CFG,Dignified Choice,N/A
+retrovir,Ever,HIV treatment likely,Decline,CFG,Dignified Choice,N/A
+ribapak,36 months,Liver disease,Decline,CFG,Dignified Choice,N/A
+ribasphere,36 months,Liver Disease,Decline,CFG,Dignified Choice,N/A
+ribaviran,Diagnosed or treated 36 months,Hepatitis C,Decline,CFG,Dignified Choice,N/A
+riluzole/rilutek,Ever,ALS likely,Decline,CFG,Dignified Choice,N/A
+risperdal/risperidone,36 months,Schizophrenia likely,Decline,CFG,Dignified Choice,N/A
+roferon,24 or 36 months,Cancer or Hepatitis C,Decline,CFG,Dignified Choice,N/A
+seroquel,36 months,Schizophrenia likely,Decline if used for schizophrenia,CFG,Dignified Choice,N/A
+spirivia,Ever,COPD likely,Decline,CFG,Dignified Choice,N/A
+spironolactone,Ever,Congestive Heart Failure possible,Decline if used for CHF,CFG,Dignified Choice,N/A
+stalevo,36 months,Parkinson's likely,Decline,CFG,Dignified Choice,N/A
+stelazine,36 months,Schizophrenia likely,Decline,CFG,Dignified Choice,N/A
+suboxone,Diagnosed or treated 36 months,Substance abuse possible,Decline,CFG,Dignified Choice,N/A
+sulfadiazine/primasol,36 months,Kidney Disease,Decline,CFG,Dignified Choice,N/A
+sustiva,Ever,HIV treatment likely,Decline,CFG,Dignified Choice,N/A
+tamoxifen,Diagnosed or treated 24 months,Cancer,Decline if first fill within 2 years,CFG,Dignified Choice,N/A
+targretin,Diagnosed or treated 24 months,Cancer,Decline,CFG,Dignified Choice,N/A
+thorazine,36 months,Schizophrenia likely,Decline,CFG,Dignified Choice,N/A
+trilafon,36 months,Schizophrenia likely,Decline if used for Schizophrenia,CFG,Dignified Choice,N/A
+trizivir,Ever,HIV treatment likely,Decline,CFG,Dignified Choice,N/A
+truvada,Ever,HIV treatment likely,Decline,CFG,Dignified Choice,N/A
+viracept/viramune/viread,Ever,HIV treatment likely,Decline,CFG,Dignified Choice,N/A
+viracept/viread,Ever,HIV treatment likely,Decline,CFG,Dignified Choice,N/A
+zyprexa,36 months,Schizophrenia possible,Decline if used for schizophrenia,CFG,Dignified Choice,N/A
