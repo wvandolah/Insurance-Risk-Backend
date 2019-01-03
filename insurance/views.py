@@ -6,7 +6,8 @@ from django.contrib.auth.models import User
 from rest_framework.decorators import api_view
 from .api import PersonalMetricSerializer, HumanMetricSerializer
 from .models import PersonalMetric, HumanMetric
-from util.checkMed import check
+from util.checkMed import mCheck
+from util.checkPlan import pCheck
 import json
 
 
@@ -43,7 +44,7 @@ def checkBuild(request):
   # not needed right now
   # snippit.save()
   serial = HumanMetricSerializer(snippit)
-  print(serial.data)
+  pCheck(serial.data)
   return JsonResponse({'plans': ['CFG', 'Dignified Choice'], 'user': serial.data})
 # Create your views here.
 
@@ -51,5 +52,5 @@ def checkBuild(request):
 @api_view(["POST"])
 def checkMed(request):
   data = json.loads(request.body)
-  value = check(data['plan'], 'no')
+  value = mCheck(data['plan'], 'no')
   return JsonResponse({'value': value})
