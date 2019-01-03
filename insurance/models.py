@@ -40,3 +40,18 @@ class InsuranceProductBuild(models.Model):
   product2 = models.CharField(max_length=200, default='')
   product3 = models.CharField(max_length=200, default = '')
 
+
+class TopDeath(models.Model):
+  Rank = models.IntegerField(default=0)
+  under1 = models.CharField(max_length=200)
+  one_4 = models.CharField(max_length=200)
+  five_9 = models.CharField(max_length=200)
+  ten_14 = models.CharField(max_length=200)
+  fifteen_24 = models.CharField(max_length=200)
+  twofive_34 = models.CharField(max_length=200)
+  threefive_44 = models.CharField(max_length=200)
+  fourfive_54 = models.CharField(max_length=200)
+  fivefive_64 = models.CharField(max_length=200)
+  over65 = models.CharField(max_length=200)
+  Total = models.CharField(max_length=200)
+

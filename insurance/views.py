@@ -5,8 +5,12 @@ from django.contrib.auth.models import User
 # from django.core.exceptions import ValidationError
 from rest_framework.decorators import api_view
 from .api import PersonalMetricSerializer, HumanMetricSerializer
+
 from .models import PersonalMetric, HumanMetric, InsuranceProductBuild
-from util.checkMed import check
+
+from util.checkMed import mCheck
+from util.checkPlan import pCheck
+
 import json
 
 
@@ -46,14 +50,16 @@ def checkBuild(request):
   print(serial.data)
   products = build_query(age=data['age'],weight=data['weight'],height=data['gender'],gender=data['height'])
   return JsonResponse({'products': products, 'user': serial.data})
+
 # Create your views here.
 
 @csrf_exempt
 @api_view(["POST"])
 def checkMed(request):
   data = json.loads(request.body)
-  value = check(data['plan'], 'no')
+  value = mCheck(data['plan'], 'no')
   return JsonResponse({'value': value})
+
 
 #queries the insurance product table
 def build_query(age,height,weight,gender):
