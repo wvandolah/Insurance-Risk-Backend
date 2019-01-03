@@ -5,7 +5,7 @@ from django.contrib.auth.models import User
 # from django.core.exceptions import ValidationError
 from rest_framework.decorators import api_view
 from .api import PersonalMetricSerializer, HumanMetricSerializer
-from .models import PersonalMetric, HumanMetric
+from .models import PersonalMetric, HumanMetric, InsuranceProductBuild
 from util.checkMed import check
 import json
 
@@ -44,7 +44,8 @@ def checkBuild(request):
   # snippit.save()
   serial = HumanMetricSerializer(snippit)
   print(serial.data)
-  return JsonResponse({'plans': ['CFG', 'Dignified Choice'], 'user': serial.data})
+  products = build_query(age=data['age'],weight=data['weight'],height=data['gender'],gender=data['height'])
+  return JsonResponse({'products': products, 'user': serial.data})
 # Create your views here.
 
 @csrf_exempt
@@ -53,3 +54,14 @@ def checkMed(request):
   data = json.loads(request.body)
   value = check(data['plan'], 'no')
   return JsonResponse({'value': value})
+
+#queries the insurance product table
+def build_query(age,height,weight,gender):
+  hwa = InsuranceProductBuild.objects.filter(height=height).filter(max_weight__gt=weight).filter(min_weight__lt=weight
+  ).filter(min_age__lt=age).filter(max_age__gt=age)
+  if gender == 'male':
+    g = hwa.filter(male=1)
+  else:
+    g = hwa.filter(female=1)
+  
+  return g.values("carrier","product2","product3")
