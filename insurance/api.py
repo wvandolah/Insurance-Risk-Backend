@@ -15,4 +15,4 @@ class PersonalMetricSerializer(serializers.ModelSerializer):
 class HumanMetricSerializer(serializers.ModelSerializer):
   class Meta:
     model = HumanMetric
-    fields = ('id', 'name', 'age', 'weight', 'gender', 'height')
+    fields = ('id', 'age', 'weight', 'gender', 'height')
