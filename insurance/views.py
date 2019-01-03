@@ -4,8 +4,8 @@ from django.http import JsonResponse
 from django.contrib.auth.models import User
 # from django.core.exceptions import ValidationError
 from rest_framework.decorators import api_view
-from .api import PersonalMetricSerializer
-from .models import PersonalMetric
+from .api import PersonalMetricSerializer, HumanMetricSerializer
+from .models import PersonalMetric, HumanMetric
 import json
 
 
@@ -33,5 +33,12 @@ def people(request):
       serial = PersonalMetricSerializer(datap, many=True)
     return JsonResponse(serial.data, safe=False)
 
-
+@csrf_exempt
+@api_view(["POST"])
+def checkBuild(request):
+  data = json.loads(request.body)
+  snippit = HumanMetric(name=data['name'], age=data['age'], weight=data['weight'], gender=data['gender'])
+  snippit.save()
+  serial = HumanMetricSerializer(snippit)
+  return JsonResponse(serial.data)
 # Create your views here.
