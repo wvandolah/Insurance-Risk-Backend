@@ -204,7 +204,8 @@ lithium,N/A,N/A,Decline,Phoenix,Safe Harbor,N/A
 lupron,N/A,N/A,Decline,Phoenix,Safe Harbor,N/A
 methadone,N/A,N/A,Decline,Phoenix,Safe Harbor,N/A
 methotrexate,N/A,N/A,Decline,Phoenix,Safe Harbor,N/A
-nitro/nitroglycerin,N/A,N/A,Decline,Phoenix,Safe Harbor,N/A
+nitroglycerin,N/A,N/A,Decline,Phoenix,Safe Harbor,N/A
+nitro,N/A,N/A,Decline,Phoenix,Safe Harbor,N/A
 prochlorperazine,N/A,N/A,Decline,Phoenix,Safe Harbor,N/A
 quetiapine,N/A,N/A,Decline,Phoenix,Safe Harbor,N/A
 rebif,N/A,N/A,Decline,Phoenix,Safe Harbor,N/A
@@ -231,8 +232,9 @@ calcium acetate,Current,N/A,May Qualify for Graded,Mutual of Omaha,Living Promis
 campath,Current,N/A,Decline,Mutual of Omaha,Living Promise,N/A
 campral,Current,N/A,May Qualify for Graded,Mutual of Omaha,Living Promise,N/A
 caprelsa,Current,N/A,Decline,Mutual of Omaha,Living Promise,N/A
-carbidopa/levodopa,Current,N/A,May Qualify for Graded,Mutual of Omaha,Living Promise,N/A
+carbidopa,Current,N/A,May Qualify for Graded,Mutual of Omaha,Living Promise,N/A
 casodex,Current,N/A,Decline,Mutual of Omaha,Living Promise,N/A
+levodopa,Current,N/A,May Qualify for Graded,Mutual of Omaha,Living Promise,N/A
 cellcept,Current,N/A,Decline,Mutual of Omaha,Living Promise,N/A
 chlorpromazine hcl,Current,N/A,May Qualify for Graded,Mutual of Omaha,Living Promise,N/A
 clozapine,Current,N/A,May Qualify for Graded,Mutual of Omaha,Living Promise,N/A
@@ -348,7 +350,8 @@ lithium,N/A,N/A,Decline,Phoenix ,Remembrance,N/A
 lupron,N/A,N/A,Decline,Phoenix ,Remembrance,N/A
 methadone,N/A,N/A,Decline,Phoenix ,Remembrance,N/A
 methotrexate,N/A,N/A,Decline,Phoenix ,Remembrance,N/A
-nitro/nitroglycerin,N/A,N/A,Decline,Phoenix ,Remembrance,N/A
+nitroglycerin,N/A,N/A,Decline,Phoenix ,Remembrance,N/A
+nitro,N/A,N/A,Decline,Phoenix ,Remembrance,N/A
 prochlorperazine,N/A,N/A,Decline,Phoenix ,Remembrance,N/A
 quetiapine,N/A,N/A,Decline,Phoenix ,Remembrance,N/A
 rebif,N/A,N/A,Decline,Phoenix ,Remembrance,N/A
@@ -378,7 +381,8 @@ calcium acetate,Current,N/A,Decline,Mutual of Omaha,Guranteed Universal Life Exp
 campath,Current,N/A,Decline,Mutual of Omaha,Guranteed Universal Life Express,N/A
 campral,Current,N/A,Decline,Mutual of Omaha,Guranteed Universal Life Express,N/A
 caprelsa,Current,N/A,Decline,Mutual of Omaha,Guranteed Universal Life Express,N/A
-carbidopa/levodopa,Current,N/A,Decline,Mutual of Omaha,Guranteed Universal Life Express,N/A
+carbidopa,Current,N/A,Decline,Mutual of Omaha,Guranteed Universal Life Express,N/A
+levodopa,Current,N/A,Decline,Mutual of Omaha,Guranteed Universal Life Express,N/A
 casodex,Current,N/A,Decline,Mutual of Omaha,Guranteed Universal Life Express,N/A
 cellcept,Current,N/A,Decline,Mutual of Omaha,Guranteed Universal Life Express,N/A
 chlorpromazine hcl,Current,N/A,Decline,Mutual of Omaha,Guranteed Universal Life Express,N/A
@@ -500,7 +504,8 @@ calcium acetate,Current,N/A,Decline,Mutual of Omaha,Term Life Express,N/A
 campath,Current,N/A,Decline,Mutual of Omaha,Term Life Express,N/A
 campral,Current,N/A,Decline,Mutual of Omaha,Term Life Express,N/A
 caprelsa,Current,N/A,Decline,Mutual of Omaha,Term Life Express,N/A
-carbidopa/levodopa,Current,N/A,Decline,Mutual of Omaha,Term Life Express,N/A
+levodopa,Current,N/A,Decline,Mutual of Omaha,Term Life Express,N/A
+carbidopa,Current,N/A,Decline,Mutual of Omaha,Term Life Express,N/A
 casodex,Current,N/A,Decline,Mutual of Omaha,Term Life Express,N/A
 cellcept,Current,N/A,Decline,Mutual of Omaha,Term Life Express,N/A
 chlorpromazine hcl,Current,N/A,Decline,Mutual of Omaha,Term Life Express,N/A
@@ -549,7 +554,7 @@ lexiva,Current,N/A,Decline,Mutual of Omaha,Term Life Express,N/A
 limbitrol,Current,N/A,Decline,Mutual of Omaha,Term Life Express,N/A
 lithium,Current,N/A,Decline,Mutual of Omaha,Term Life Express,N/A
 megestrol acetate,Current,N/A,Decline,Mutual of Omaha,Term Life Express,N/A
-(megace),Current,N/A,Decline,Mutual of Omaha,Term Life Express,N/A
+megace,Current,N/A,Decline,Mutual of Omaha,Term Life Express,N/A
 methadone,Current,N/A,Decline,Mutual of Omaha,Term Life Express,N/A
 methotrexate,Current,N/A,Decline,Mutual of Omaha,Term Life Express,N/A
 mitomycin,Current,N/A,Decline,Mutual of Omaha,Term Life Express,N/A
@@ -608,7 +613,8 @@ amantadine hcl,36 months,Parkinson's,Decline,CFG,Dignified Choice,N/A
 ambisome,Ever,HIV Treatment likely,Decline,CFG,Dignified Choice,N/A
 anastrozole,Diagnosed or treated 24 months,Cancer,Decline if first fill within 2 years,CFG,Dignified Choice,N/A
 antabuse,Diagnosed or treated 36 months,Alcoholism,Decline,CFG,Dignified Choice,N/A
-aprepitant/emend,Diagnosed or treated 24 months,Cancer induced nausea likely,Decline,CFG,Dignified Choice,N/A
+aprepitant,Diagnosed or treated 24 months,Cancer induced nausea likely,Decline,CFG,Dignified Choice,N/A
+emend,Diagnosed or treated 24 months,Cancer induced nausea likely,Decline,CFG,Dignified Choice,N/A
 aptivus,Ever,HIV Treatment likely,Decline,CFG,Dignified Choice,N/A
 aranesp,36 months,Kidney Disease,Decline,CFG,Dignified Choice,N/A
 aricept,Ever,Alzheimers/Dementia,Decline,CFG,Dignified Choice,N/A
@@ -618,9 +624,11 @@ atamet,36 months,Parkinson's,Decline,CFG,Dignified Choice,N/A
 atgam,Ever,Organ/Tissue Transplant likely,Decline,CFG,Dignified Choice,N/A
 atripla,Ever,HIV Treatment likely,Decline,CFG,Dignified Choice,N/A
 avenox,36 months,Multiple Sclerosis,Decline,CFG,Dignified Choice,N/A
-avonex/rebif,36 months,Multiple Sclerosis,Decline,CFG,Dignified Choice,N/A
+avonex,36 months,Multiple Sclerosis,Decline,CFG,Dignified Choice,N/A
+rebif,36 months,Multiple Sclerosis,Decline,CFG,Dignified Choice,N/A
 baclofen,36 months,Multiple Sclerosis,Decline,CFG,Dignified Choice,N/A
-belimumab/benlysta,36 months,Systemic Lupus likely,Decline,CFG,Dignified Choice,N/A
+belimumab,36 months,Systemic Lupus likely,Decline,CFG,Dignified Choice,N/A
+benlysta,36 months,Systemic Lupus likely,Decline,CFG,Dignified Choice,N/A
 benlysta,36 months,Systemic Lupus likely,Decline,CFG,Dignified Choice,N/A
 betaseron,36 months,Multiple Sclerosis,Decline,CFG,Dignified Choice,N/A
 bidil,Ever,Congestive Heart Failure likely,Decline,CFG,Dignified Choice,N/A
@@ -642,11 +650,13 @@ clozaril,36 months,Schizophrenia,Decline,CFG,Dignified Choice,N/A
 cognex,Ever,Alzheimers/Dementia,Decline,CFG,Dignified Choice,N/A
 combivir,Ever,HIV treatment likely,Decline,CFG,Dignified Choice,N/A
 copaxone,36 months,Multiple Sclerosis,Decline,CFG,Dignified Choice,N/A
-crofelemer/fulyzaq,Ever,HIV treatment likely,Decline,CFG,Dignified Choice,N/A
+crofelemer,Ever,HIV treatment likely,Decline,CFG,Dignified Choice,N/A
+fulyzaq,Ever,HIV treatment likely,Decline,CFG,Dignified Choice,N/A
 cyclosporine,Ever,Organ Transplant,Decline,CFG,Dignified Choice,N/A
 cystagon,36 months,Kidney Disease,Decline,CFG,Dignified Choice,N/A
 cytogam,Ever,Organ Transplant,Decline,CFG,Dignified Choice,N/A
-digoxin/lanoxin,Ever,Congestive Heart Failure likely,Decline if used for CHF,CFG,Dignified Choice,N/A
+lanoxin,Ever,Congestive Heart Failure likely,Decline if used for CHF,CFG,Dignified Choice,N/A
+digoxin,Ever,Congestive Heart Failure likely,Decline if used for CHF,CFG,Dignified Choice,N/A
 disufram,Diagnosed or treated 36 months,Alcoholism,Decline,CFG,Dignified Choice,N/A
 donepezil,Ever,Alzheimers/Dementia,Decline,CFG,Dignified Choice,N/A
 dornase alpha,Ever,Cystic Fibrosis,Decline,CFG,Dignified Choice,N/A
@@ -656,7 +666,8 @@ epivir,Ever,HIV treatment likely,Decline,CFG,Dignified Choice,N/A
 esylate,Ever,Pulmonary Fibrosis likely,Decline,CFG,Dignified Choice,N/A
 exelon,Ever,Alzheimers/Dementia,Decline,CFG,Dignified Choice,N/A
 femara,Diagnosed or treated 24 months,Cancer,Decline if first fill within 2 years,CFG,Dignified Choice,N/A
-filgrastim/neupogen,Diagnosed or treated 24 months,Cancer likely,Decline,CFG,Dignified Choice,N/A
+filgrastim,Diagnosed or treated 24 months,Cancer likely,Decline,CFG,Dignified Choice,N/A
+filgrastim,Diagnosed or treated 24 months,Cancer likely,Decline,CFG,Dignified Choice,N/A
 floscavir,Ever,HIV treatment likely,Decline,CFG,Dignified Choice,N/A
 flutamide,Diagnosed or treated 24 months,Cancer,Decline,CFG,Dignified Choice,N/A
 fosrenol,36 months,Kidney Disease,Decline,CFG,Dignified Choice,N/A
@@ -666,18 +677,21 @@ ganciclovir,Ever,HIV Treatment likely,Decline,CFG,Dignified Choice,N/A
 gengraf,Ever,Organ Transplant,Decline,CFG,Dignified Choice,N/A
 geoden,36 months,Schizophrenia likely,Decline if used for Schizophrenia,CFG,Dignified Choice,N/A
 haldol,36 months,Schizophrenia likely,Decline,CFG,Dignified Choice,N/A
-halperidol/halperidone,36 months,Schizophrenia likely,Decline if used for Schizophrenia,CFG,Dignified Choice,N/A
+halperidol,36 months,Schizophrenia likely,Decline if used for Schizophrenia,CFG,Dignified Choice,N/A
+halperidone,36 months,Schizophrenia likely,Decline if used for Schizophrenia,CFG,Dignified Choice,N/A
 hectoral,36 months,Kidney Disease,Decline,CFG,Dignified Choice,N/A
 hydrea,Diagnosed or treated 24 months,Cancer,Decline,CFG,Dignified Choice,N/A
 hydroxyurea,Diagnosed or treated 24 months,Cancer,Decline,CFG,Dignified Choice,N/A
-interferon/ribaviran,Diagnosed or treated 36 months,Hepatitis likely,Decline,CFG,Dignified Choice,N/A
+interferon,Diagnosed or treated 36 months,Hepatitis likely,Decline,CFG,Dignified Choice,N/A
+ribaviran,Diagnosed or treated 36 months,Hepatitis likely,Decline,CFG,Dignified Choice,N/A
 intron-a,24 or 36 months,Cancer or Hepatitis C,Decline,CFG,Dignified Choice,N/A
 invega,36 months,Schizophrenia likely,Decline if used for schizophrenia,CFG,Dignified Choice,N/A
 invirase,Ever,HIV treatment likely,Decline,CFG,Dignified Choice,N/A
 isosorbide & hydralazine,Ever,Congestive Heart Failure likely,Decline if used in combination,CFG,Dignified Choice,N/A
 lamivudine-zidovudine,Ever,HIV treatment likely,Decline,CFG,Dignified Choice,N/A
 lanoxin,Ever,Congestive Heart Failure possible,Decline if used for CHF,CFG,Dignified Choice,N/A
-laradopa/levodopa,36 months,Parkinsons,Decline,CFG,Dignified Choice,N/A
+laradopa,36 months,Parkinsons,Decline,CFG,Dignified Choice,N/A
+levodopa,36 months,Parkinsons,Decline,CFG,Dignified Choice,N/A
 lasix,Diagnosed or treated 36 months,Heart/Liver/Kidney disease likely,"Decline if used for CHF, liver or kidney
 disease",CFG,Dignified Choice,N/A
 lexiva,Ever,HIV treatment likely,Decline,CFG,Dignified Choice,N/A
@@ -688,9 +702,13 @@ mercaptopurine,Diagnosed or treated 24 months,Cancer,Decline,CFG,Dignified Choic
 methadone,Diagnosed or treated 36 months,Substance abuse possible,Decline,CFG,Dignified Choice,N/A
 namenda,Ever,Alzheimers/Dementia,Decline,CFG,Dignified Choice,N/A
 narcan/naloxone/naltrexone,Diagnosed or treated 36 months,Alcohol/Drugs,Decline,CFG,Dignified Choice,N/A
+nitro-dur,24 months,Angina/chest pain,"Decline if used for chest pain/angina
+in the last 24 months",CFG,Dignified Choice,N/A
+nitroquick,24 months,Angina/chest pain,"Decline if used for chest pain/angina
+in the last 24 months",CFG,Dignified Choice,N/A
 navene,36 months,Schizophrenia likely,Decline,CFG,Dignified Choice,N/A
 nintedanib,Ever,Pulmonary Fibrosis likely,Decline,CFG,Dignified Choice,N/A
-nitro-dur/nitroquick/nitrostat,24 months,Angina/chest pain,"Decline if used for chest pain/angina
+nitrostat,24 months,Angina/chest pain,"Decline if used for chest pain/angina
 in the last 24 months",CFG,Dignified Choice,N/A
 nitroglycerin,24 months,Angina/Chest pain,"Decline if used for chest pain/angina
 in the last 24 months",CFG,Dignified Choice,N/A
@@ -698,7 +716,8 @@ norvir,Ever,HIV treatment likely,Decline,CFG,Dignified Choice,N/A
 ofev,Ever,Pulmonary Fibrosis likely,Decline,CFG,Dignified Choice,N/A
 olanzapine,36 months,Schizophrenia possible,Decline if used for Schizophrenia,CFG,Dignified Choice,N/A
 ondansetron,Diagnosed or treated 24 months,Cancer,Decline,CFG,Dignified Choice,N/A
-pegasys/peg-intron,36 months,Liver Disease,Decline,CFG,Dignified Choice,N/A
+peg-intron,36 months,Liver Disease,Decline,CFG,Dignified Choice,N/A
+pegasys,36 months,Liver Disease,Decline,CFG,Dignified Choice,N/A
 prograf,Ever,Organ Transplant,Decline,CFG,Dignified Choice,N/A
 pulmozyme,Ever,Cystic Fibrosis,Decline,CFG,Dignified Choice,N/A
 quetiapine,36 months,Schizophrenia possible,Decline if used for schizophrenia,CFG,Dignified Choice,N/A
@@ -711,8 +730,10 @@ retrovir,Ever,HIV treatment likely,Decline,CFG,Dignified Choice,N/A
 ribapak,36 months,Liver disease,Decline,CFG,Dignified Choice,N/A
 ribasphere,36 months,Liver Disease,Decline,CFG,Dignified Choice,N/A
 ribaviran,Diagnosed or treated 36 months,Hepatitis C,Decline,CFG,Dignified Choice,N/A
-riluzole/rilutek,Ever,ALS likely,Decline,CFG,Dignified Choice,N/A
-risperdal/risperidone,36 months,Schizophrenia likely,Decline,CFG,Dignified Choice,N/A
+rilutek,Ever,ALS likely,Decline,CFG,Dignified Choice,N/A
+riluzole,Ever,ALS likely,Decline,CFG,Dignified Choice,N/A
+risperidone,36 months,Schizophrenia likely,Decline,CFG,Dignified Choice,N/A
+risperdal,36 months,Schizophrenia likely,Decline,CFG,Dignified Choice,N/A
 roferon,24 or 36 months,Cancer or Hepatitis C,Decline,CFG,Dignified Choice,N/A
 seroquel,36 months,Schizophrenia likely,Decline if used for schizophrenia,CFG,Dignified Choice,N/A
 spirivia,Ever,COPD likely,Decline,CFG,Dignified Choice,N/A
@@ -720,7 +741,8 @@ spironolactone,Ever,Congestive Heart Failure possible,Decline if used for CHF,CF
 stalevo,36 months,Parkinson's likely,Decline,CFG,Dignified Choice,N/A
 stelazine,36 months,Schizophrenia likely,Decline,CFG,Dignified Choice,N/A
 suboxone,Diagnosed or treated 36 months,Substance abuse possible,Decline,CFG,Dignified Choice,N/A
-sulfadiazine/primasol,36 months,Kidney Disease,Decline,CFG,Dignified Choice,N/A
+sulfadiazine,36 months,Kidney Disease,Decline,CFG,Dignified Choice,N/A
+primasol,36 months,Kidney Disease,Decline,CFG,Dignified Choice,N/A
 sustiva,Ever,HIV treatment likely,Decline,CFG,Dignified Choice,N/A
 tamoxifen,Diagnosed or treated 24 months,Cancer,Decline if first fill within 2 years,CFG,Dignified Choice,N/A
 targretin,Diagnosed or treated 24 months,Cancer,Decline,CFG,Dignified Choice,N/A
@@ -728,6 +750,7 @@ thorazine,36 months,Schizophrenia likely,Decline,CFG,Dignified Choice,N/A
 trilafon,36 months,Schizophrenia likely,Decline if used for Schizophrenia,CFG,Dignified Choice,N/A
 trizivir,Ever,HIV treatment likely,Decline,CFG,Dignified Choice,N/A
 truvada,Ever,HIV treatment likely,Decline,CFG,Dignified Choice,N/A
-viracept/viramune/viread,Ever,HIV treatment likely,Decline,CFG,Dignified Choice,N/A
-viracept/viread,Ever,HIV treatment likely,Decline,CFG,Dignified Choice,N/A
+viracept,Ever,HIV treatment likely,Decline,CFG,Dignified Choice,N/A
+viramune,Ever,HIV treatment likely,Decline,CFG,Dignified Choice,N/A
+viread,Ever,HIV treatment likely,Decline,CFG,Dignified Choice,N/A
 zyprexa,36 months,Schizophrenia possible,Decline if used for schizophrenia,CFG,Dignified Choice,N/A
