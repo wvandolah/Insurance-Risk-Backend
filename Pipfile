@@ -11,6 +11,8 @@ django-cors-headers = "*"
 django-allauth = "*"
 django-rest-api = "*"
 django-rest-auth = "*"
+gunicorn = "*"
+django-heroku = "*"
 
 [dev-packages]
 
