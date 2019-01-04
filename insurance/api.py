@@ -20,7 +20,7 @@ class HumanMetricSerializer(serializers.ModelSerializer):
 class InsuranceProductSerializer(serializers.ModelSerializer):
   class Meta:
     model = InsuranceProductBuild
-    fields = ('carrier', 'product2', 'product3')
+    fields = ('id', 'carrier', 'product2', 'product3')
 
 class MedicationSerializer(serializers.ModelSerializer):
   class Meta:
