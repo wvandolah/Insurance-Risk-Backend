@@ -78,10 +78,10 @@ def build_query(age, height, weight, gender):
 
 # Medication functions
 
-medication = medication_query(prescription=data['prescription'], carrier=data['carrier'], product2=data['preoduct2'])
+medication = medication_query(prescription=data['prescription'], carrier=data['plan'])
 mSerial = MedicationSerializer(medication)
 
 def medication_query(prescription, carrier, product2):
   rx = MedicationCheck.objects.filter(prescription=prescription)
-  c = rx.filter(carrier=carrier, product2 = product2)
-  return c.values('medication', 'time', 'indication', 'outcome', 'carrier', 'product2')
+  c = rx.filter(plan=plan)
+  return c.values('medication', 'time', 'indication', 'outcome', 'plan')
