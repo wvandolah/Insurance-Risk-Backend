@@ -8,8 +8,6 @@ from .api import PersonalMetricSerializer, HumanMetricSerializer, InsuranceProdu
 
 from .models import PersonalMetric, HumanMetric, InsuranceProductBuild, MedicationCheck
 
-from util.checkMed import mCheck
-# from util.checkPlan import pCheck
 
 import json
 
@@ -47,8 +45,8 @@ def checkBuild(request):
   # not needed right now
   # snippit.save()
   serial = HumanMetricSerializer(snippit)
-  print(serial.data)
   products = build_query(age=data['age'], weight=data['weight'], height=data['height'], gender=data['gender'])
+  print(products)
   hSerial = InsuranceProductSerializer(products, many=True)
   return JsonResponse({'user': serial.data, "plans": hSerial.data})
 
@@ -58,9 +56,19 @@ def checkBuild(request):
 @api_view(["POST"])
 def checkMed(request):
   data = json.loads(request.body)
-  value = mCheck(data['plan'], 'no')
-  delete()
-  return JsonResponse({'value': value})
+  medication = medication_query(prescription=data['prescription'], carrier=data['carrier'], product2=data['product2'])
+  if not medication:
+    return JsonResponse([{
+        "medication": data['prescription'],
+        "time": "N/A",
+        "indication": "Parkinson's",
+        "outcome": "No Data",
+        "carrier": data['carrier'],
+        "product2": data['product2']
+      }], safe=False)
+  else:
+    mSerial = MedicationSerializer(medication, many=True)
+  return JsonResponse(mSerial.data, safe=False)
 
 # queries the insurance product table
 
@@ -78,10 +86,8 @@ def build_query(age, height, weight, gender):
 
 # Medication functions
 
-medication = medication_query(prescription=data['prescription'], carrier=data['carrier'], product2=data['preoduct2'])
-mSerial = MedicationSerializer(medication)
 
 def medication_query(prescription, carrier, product2):
-  rx = MedicationCheck.objects.filter(prescription=prescription)
-  c = rx.filter(carrier=carrier, product2 = product2)
+  rx = MedicationCheck.objects.filter(medication=prescription)
+  c = rx.filter(carrier=carrier, product2 = product2).all()
   return c.values('medication', 'time', 'indication', 'outcome', 'carrier', 'product2')

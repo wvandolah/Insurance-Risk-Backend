@@ -25,4 +25,4 @@ class InsuranceProductSerializer(serializers.ModelSerializer):
 class MedicationSerializer(serializers.ModelSerializer):
   class Meta:
     model = MedicationCheck
-    fields = ('medication', 'time', 'indication', 'outcome', 'carrier', 'product2', 'product3')
+    fields = ('medication', 'time', 'indication', 'outcome', 'carrier', 'product2')
