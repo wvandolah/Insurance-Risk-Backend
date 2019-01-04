@@ -57,15 +57,14 @@ def checkBuild(request):
 @api_view(["POST"])
 def checkMed(request):
   data = json.loads(request.body)
-  medication = medication_query(prescription=data['prescription'], carrier=data['carrier'], product2=data['product2'])
+  medication = medication_query(prescription=data['prescription'], product=data['product'])
   if not medication:
     return JsonResponse([{
         "medication": data['prescription'],
         "time": "N/A",
         "indication": "No Data",
         "outcome": "No Data",
-        "carrier": data['carrier'],
-        "product2": data['product2']
+        "product": data['product']
       }], safe=False)
   else:
     mSerial = MedicationSerializer(medication, many=True)
@@ -75,7 +74,7 @@ def checkMed(request):
 
 def build_query(age, height, weight, gender):
   hwa = InsuranceProductBuild.objects.filter(Q(height=height) | Q(height = 0)).filter(max_weight__gt=weight).filter(min_weight__lt=weight
-  ).filter(min_age__lt=age).filter(max_age__gt=age)
+  ).filter(min_age__lte=age).filter(max_age__gt=age)
 
   if gender == 'male':
     g = hwa.filter(male=1)
@@ -87,7 +86,7 @@ def build_query(age, height, weight, gender):
 # Medication functions
 
 
-def medication_query(prescription, carrier, product2):
+def medication_query(prescription, product):
   rx = MedicationCheck.objects.filter(medication=prescription)
-  c = rx.filter(carrier=carrier, product2 = product2).all()
-  return c.values('medication', 'time', 'indication', 'outcome', 'carrier', 'product2')
+  c = rx.filter(product=product).all()
+  return c.values('medication', 'time', 'indication', 'outcome', 'product')
