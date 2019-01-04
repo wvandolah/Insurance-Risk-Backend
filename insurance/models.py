@@ -30,15 +30,15 @@ def create_user(sender, instance, created, **kwargs):
 class InsuranceProductBuild(models.Model):
   male = models.BooleanField(default=True)
   female = models.BooleanField(default=True)
-  height = models.IntegerField(default =60)
-  min_age = models.IntegerField(default =0)
-  max_age = models.IntegerField(default =85)
+  height = models.IntegerField(default=60)
+  min_age = models.IntegerField(default=0)
+  max_age = models.IntegerField(default=85)
   min_weight = models.IntegerField(default=0)
   max_weight = models.IntegerField(default=450)
-  product_type = models.CharField(max_length=200,default='undefined')
+  product_type = models.CharField(max_length=200, default='undefined')
   carrier = models.CharField(max_length=200, default='Carrier')
   product2 = models.CharField(max_length=200, default='')
-  product3 = models.CharField(max_length=200, default = '')
+  product3 = models.CharField(max_length=200, default='')
 
 
 class TopDeath(models.Model):
@@ -54,4 +54,3 @@ class TopDeath(models.Model):
   fivefive_64 = models.CharField(max_length=200)
   over65 = models.CharField(max_length=200)
   Total = models.CharField(max_length=200)
-

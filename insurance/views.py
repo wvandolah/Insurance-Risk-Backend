@@ -4,12 +4,12 @@ from django.http import JsonResponse
 from django.contrib.auth.models import User
 # from django.core.exceptions import ValidationError
 from rest_framework.decorators import api_view
-from .api import PersonalMetricSerializer, HumanMetricSerializer
+from .api import PersonalMetricSerializer, HumanMetricSerializer, InsuranceProductSerializer
 
 from .models import PersonalMetric, HumanMetric, InsuranceProductBuild
 
 from util.checkMed import mCheck
-from util.checkPlan import pCheck
+# from util.checkPlan import pCheck
 
 import json
 
@@ -48,8 +48,9 @@ def checkBuild(request):
   # snippit.save()
   serial = HumanMetricSerializer(snippit)
   print(serial.data)
-  products = build_query(age=data['age'],weight=data['weight'],height=data['gender'],gender=data['height'])
-  return JsonResponse({'products': products, 'user': serial.data})
+  products = build_query(age=data['age'], weight=data['weight'], height=data['height'], gender=data['gender'])
+  hSerial = InsuranceProductSerializer(products, many=True)
+  return JsonResponse({'user': serial.data, "plans": hSerial.data})
 
 # Create your views here.
 
@@ -61,13 +62,16 @@ def checkMed(request):
   return JsonResponse({'value': value})
 
 
-#queries the insurance product table
-def build_query(age,height,weight,gender):
-  hwa = InsuranceProductBuild.objects.filter(height=height).filter(max_weight__gt=weight).filter(min_weight__lt=weight
-  ).filter(min_age__lt=age).filter(max_age__gt=age)
+# queries the insurance product table
+
+def build_query(age, height, weight, gender):
+  hwa = InsuranceProductBuild.objects.filter(height=height
+                                             ).filter(max_weight__gt=weight).filter(min_weight__lt=weight
+                                                                                    ).filter(min_age__lt=age).filter(max_age__gt=age)
+
   if gender == 'male':
     g = hwa.filter(male=1)
   else:
     g = hwa.filter(female=1)
-  
-  return g.values("carrier","product2","product3")
+
+  return g.values("carrier", "product2", "product3")

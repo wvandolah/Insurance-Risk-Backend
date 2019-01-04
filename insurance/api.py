@@ -20,4 +20,4 @@ class HumanMetricSerializer(serializers.ModelSerializer):
 class InsuranceProductSerializer(serializers.ModelSerializer):
   class Meta:
     model = InsuranceProductBuild
-    fields = ('carrier','product2','product3')
+    fields = ('carrier', 'product2', 'product3')
