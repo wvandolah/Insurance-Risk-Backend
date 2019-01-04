@@ -59,9 +59,11 @@ def checkBuild(request):
 def checkMed(request):
   data = json.loads(request.body)
   value = mCheck(data['plan'], 'no')
+  delete()
   return JsonResponse({'value': value})
 
-
+def delete():
+  hwa = InsuranceProductBuild.objects.filter(product3="N/A").update(product3="")
 # queries the insurance product table
 
 def build_query(age, height, weight, gender):
@@ -74,4 +76,4 @@ def build_query(age, height, weight, gender):
   else:
     g = hwa.filter(female=1)
 
-  return g.values("carrier", "product2", "product3")
+  return g.values("id", "carrier", "product2", "product3")
