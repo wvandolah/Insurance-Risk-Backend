@@ -7,6 +7,7 @@ from rest_framework.decorators import api_view
 from .api import PersonalMetricSerializer, HumanMetricSerializer, InsuranceProductSerializer, MedicationSerializer
 
 from .models import PersonalMetric, HumanMetric, InsuranceProductBuild, MedicationCheck
+from django.db.models import Q
 
 from util.checkMed import mCheck
 # from util.checkPlan import pCheck
@@ -65,9 +66,8 @@ def checkMed(request):
 # queries the insurance product table
 
 def build_query(age, height, weight, gender):
-  hwa = InsuranceProductBuild.objects.filter(height=height
-                                             ).filter(max_weight__gt=weight).filter(min_weight__lt=weight
-                                                                                    ).filter(min_age__lt=age).filter(max_age__gt=age)
+  hwa = InsuranceProductBuild.objects.filter(Q(height=height) | Q(height = 0)).filter(max_weight__gt=weight).filter(min_weight__lt=weight
+  ).filter(min_age__lt=age).filter(max_age__gt=age)
 
   if gender == 'male':
     g = hwa.filter(male=1)
