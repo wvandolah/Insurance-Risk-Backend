@@ -1,862 +1,905 @@
-Male,Female,Height,Min Age,Max Age,Min Weight,Max Weight,Type,Product
-TRUE,FALSE,56,25,44,75,173,Permanent,CFG Dignified Choice Classic Series Elite
-TRUE,FALSE,57,25,44,78,180,Permanent,CFG Dignified Choice Classic Series Elite
-TRUE,FALSE,58,25,44,80,186,Permanent,CFG Dignified Choice Classic Series Elite
-TRUE,FALSE,59,25,44,83,193,Permanent,CFG Dignified Choice Classic Series Elite
-TRUE,FALSE,60,25,44,86,199,Permanent,CFG Dignified Choice Classic Series Elite
-TRUE,FALSE,61,25,44,89,206,Permanent,CFG Dignified Choice Classic Series Elite
-TRUE,FALSE,62,25,44,92,213,Permanent,CFG Dignified Choice Classic Series Elite
-TRUE,FALSE,63,25,44,95,220,Permanent,CFG Dignified Choice Classic Series Elite
-TRUE,FALSE,64,25,44,98,227,Permanent,CFG Dignified Choice Classic Series Elite
-TRUE,FALSE,65,25,44,101,234,Permanent,CFG Dignified Choice Classic Series Elite
-TRUE,FALSE,66,25,44,104,241,Permanent,CFG Dignified Choice Classic Series Elite
-TRUE,FALSE,67,25,44,107,249,Permanent,CFG Dignified Choice Classic Series Elite
-TRUE,FALSE,68,25,44,110,256,Permanent,CFG Dignified Choice Classic Series Elite
-TRUE,FALSE,69,25,44,113,264,Permanent,CFG Dignified Choice Classic Series Elite
-TRUE,FALSE,70,25,44,116,271,Permanent,CFG Dignified Choice Classic Series Elite
-TRUE,FALSE,71,25,44,120,279,Permanent,CFG Dignified Choice Classic Series Elite
-TRUE,FALSE,72,25,44,123,287,Permanent,CFG Dignified Choice Classic Series Elite
-TRUE,FALSE,73,25,44,127,295,Permanent,CFG Dignified Choice Classic Series Elite
-TRUE,FALSE,74,25,44,130,303,Permanent,CFG Dignified Choice Classic Series Elite
-TRUE,FALSE,75,25,44,134,312,Permanent,CFG Dignified Choice Classic Series Elite
-TRUE,FALSE,76,25,44,137,320,Permanent,CFG Dignified Choice Classic Series Elite
-TRUE,FALSE,77,25,44,141,328,Permanent,CFG Dignified Choice Classic Series Elite
-TRUE,FALSE,78,25,44,144,337,Permanent,CFG Dignified Choice Classic Series Elite
-TRUE,FALSE,79,25,44,148,346,Permanent,CFG Dignified Choice Classic Series Elite
-TRUE,FALSE,80,25,44,152,355,Permanent,CFG Dignified Choice Classic Series Elite
-TRUE,FALSE,81,25,44,155,363,Permanent,CFG Dignified Choice Classic Series Elite
-TRUE,FALSE,56,25,44,174,189,Permanent,CFG Dignified Choice Classic Series Select
-TRUE,FALSE,57,25,44,181,196,Permanent,CFG Dignified Choice Classic Series Select
-TRUE,FALSE,58,25,44,187,203,Permanent,CFG Dignified Choice Classic Series Select
-TRUE,FALSE,59,25,44,194,210,Permanent,CFG Dignified Choice Classic Series Select
-TRUE,FALSE,60,25,44,200,217,Permanent,CFG Dignified Choice Classic Series Select
-TRUE,FALSE,61,25,44,207,224,Permanent,CFG Dignified Choice Classic Series Select
-TRUE,FALSE,62,25,44,214,232,Permanent,CFG Dignified Choice Classic Series Select
-TRUE,FALSE,63,25,44,221,239,Permanent,CFG Dignified Choice Classic Series Select
-TRUE,FALSE,64,25,44,228,247,Permanent,CFG Dignified Choice Classic Series Select
-TRUE,FALSE,65,25,44,235,255,Permanent,CFG Dignified Choice Classic Series Select
-TRUE,FALSE,66,25,44,242,263,Permanent,CFG Dignified Choice Classic Series Select
-TRUE,FALSE,67,25,44,250,271,Permanent,CFG Dignified Choice Classic Series Select
-TRUE,FALSE,68,25,44,257,279,Permanent,CFG Dignified Choice Classic Series Select
-TRUE,FALSE,69,25,44,265,287,Permanent,CFG Dignified Choice Classic Series Select
-TRUE,FALSE,70,25,44,272,296,Permanent,CFG Dignified Choice Classic Series Select
-TRUE,FALSE,71,25,44,280,304,Permanent,CFG Dignified Choice Classic Series Select
-TRUE,FALSE,72,25,44,288,313,Permanent,CFG Dignified Choice Classic Series Select
-TRUE,FALSE,73,25,44,296,322,Permanent,CFG Dignified Choice Classic Series Select
-TRUE,FALSE,74,25,44,304,331,Permanent,CFG Dignified Choice Classic Series Select
-TRUE,FALSE,75,25,44,313,340,Permanent,CFG Dignified Choice Classic Series Select
-TRUE,FALSE,76,25,44,321,349,Permanent,CFG Dignified Choice Classic Series Select
-TRUE,FALSE,77,25,44,329,358,Permanent,CFG Dignified Choice Classic Series Select
-TRUE,FALSE,78,25,44,338,367,Permanent,CFG Dignified Choice Classic Series Select
-TRUE,FALSE,79,25,44,347,377,Permanent,CFG Dignified Choice Classic Series Select
-TRUE,FALSE,80,25,44,356,386,Permanent,CFG Dignified Choice Classic Series Select
-TRUE,FALSE,81,25,44,364,396,Permanent,CFG Dignified Choice Classic Series Select
-FALSE,TRUE,56,25,44,75,157,Permanent,CFG Dignified Choice Classic Series Elite
-FALSE,TRUE,57,25,44,78,164,Permanent,CFG Dignified Choice Classic Series Elite
-FALSE,TRUE,58,25,44,80,171,Permanent,CFG Dignified Choice Classic Series Elite
-FALSE,TRUE,59,25,44,83,179,Permanent,CFG Dignified Choice Classic Series Elite
-FALSE,TRUE,60,25,44,86,184,Permanent,CFG Dignified Choice Classic Series Elite
-FALSE,TRUE,61,25,44,89,192,Permanent,CFG Dignified Choice Classic Series Elite
-FALSE,TRUE,62,25,44,92,199,Permanent,CFG Dignified Choice Classic Series Elite
-FALSE,TRUE,63,25,44,95,206,Permanent,CFG Dignified Choice Classic Series Elite
-FALSE,TRUE,64,25,44,98,212,Permanent,CFG Dignified Choice Classic Series Elite
-FALSE,TRUE,65,25,44,101,218,Permanent,CFG Dignified Choice Classic Series Elite
-FALSE,TRUE,66,25,44,104,224,Permanent,CFG Dignified Choice Classic Series Elite
-FALSE,TRUE,67,25,44,107,233,Permanent,CFG Dignified Choice Classic Series Elite
-FALSE,TRUE,68,25,44,110,239,Permanent,CFG Dignified Choice Classic Series Elite
-FALSE,TRUE,69,25,44,113,248,Permanent,CFG Dignified Choice Classic Series Elite
-FALSE,TRUE,70,25,44,116,253,Permanent,CFG Dignified Choice Classic Series Elite
-FALSE,TRUE,71,25,44,120,261,Permanent,CFG Dignified Choice Classic Series Elite
-FALSE,TRUE,72,25,44,123,268,Permanent,CFG Dignified Choice Classic Series Elite
-FALSE,TRUE,73,25,44,127,276,Permanent,CFG Dignified Choice Classic Series Elite
-FALSE,TRUE,74,25,44,130,282,Permanent,CFG Dignified Choice Classic Series Elite
-FALSE,TRUE,75,25,44,134,290,Permanent,CFG Dignified Choice Classic Series Elite
-FALSE,TRUE,76,25,44,137,296,Permanent,CFG Dignified Choice Classic Series Elite
-FALSE,TRUE,77,25,44,141,301,Permanent,CFG Dignified Choice Classic Series Elite
-FALSE,TRUE,78,25,44,144,308,Permanent,CFG Dignified Choice Classic Series Elite
-FALSE,TRUE,79,25,44,148,315,Permanent,CFG Dignified Choice Classic Series Elite
-FALSE,TRUE,80,25,44,152,322,Permanent,CFG Dignified Choice Classic Series Elite
-FALSE,TRUE,81,25,44,155,328,Permanent,CFG Dignified Choice Classic Series Elite
-FALSE,TRUE,56,25,44,158,173,Permanent,CFG Dignified Choice Classic Series Select
-FALSE,TRUE,57,25,44,165,180,Permanent,CFG Dignified Choice Classic Series Select
-FALSE,TRUE,58,25,44,172,188,Permanent,CFG Dignified Choice Classic Series Select
-FALSE,TRUE,59,25,44,180,196,Permanent,CFG Dignified Choice Classic Series Select
-FALSE,TRUE,60,25,44,185,202,Permanent,CFG Dignified Choice Classic Series Select
-FALSE,TRUE,61,25,44,193,210,Permanent,CFG Dignified Choice Classic Series Select
-FALSE,TRUE,62,25,44,200,218,Permanent,CFG Dignified Choice Classic Series Select
-FALSE,TRUE,63,25,44,207,225,Permanent,CFG Dignified Choice Classic Series Select
-FALSE,TRUE,64,25,44,213,232,Permanent,CFG Dignified Choice Classic Series Select
-FALSE,TRUE,65,25,44,219,239,Permanent,CFG Dignified Choice Classic Series Select
-FALSE,TRUE,66,25,44,225,246,Permanent,CFG Dignified Choice Classic Series Select
-FALSE,TRUE,67,25,44,234,255,Permanent,CFG Dignified Choice Classic Series Select
-FALSE,TRUE,68,25,44,240,262,Permanent,CFG Dignified Choice Classic Series Select
-FALSE,TRUE,69,25,44,249,271,Permanent,CFG Dignified Choice Classic Series Select
-FALSE,TRUE,70,25,44,254,278,Permanent,CFG Dignified Choice Classic Series Select
-FALSE,TRUE,71,25,44,262,286,Permanent,CFG Dignified Choice Classic Series Select
-FALSE,TRUE,72,25,44,269,294,Permanent,CFG Dignified Choice Classic Series Select
-FALSE,TRUE,73,25,44,277,303,Permanent,CFG Dignified Choice Classic Series Select
-FALSE,TRUE,74,25,44,283,310,Permanent,CFG Dignified Choice Classic Series Select
-FALSE,TRUE,75,25,44,291,318,Permanent,CFG Dignified Choice Classic Series Select
-FALSE,TRUE,76,25,44,297,325,Permanent,CFG Dignified Choice Classic Series Select
-FALSE,TRUE,77,25,44,302,331,Permanent,CFG Dignified Choice Classic Series Select
-FALSE,TRUE,78,25,44,309,338,Permanent,CFG Dignified Choice Classic Series Select
-FALSE,TRUE,79,25,44,316,346,Permanent,CFG Dignified Choice Classic Series Select
-FALSE,TRUE,80,25,44,322,353,Permanent,CFG Dignified Choice Classic Series Select
-FALSE,TRUE,81,25,44,329,361,Permanent,CFG Dignified Choice Classic Series Select
-TRUE,FALSE,56,45,85,75,178,Permanent,CFG Dignified Choice Classic Series Elite
-TRUE,FALSE,57,45,85,78,184,Permanent,CFG Dignified Choice Classic Series Elite
-TRUE,FALSE,58,45,85,80,191,Permanent,CFG Dignified Choice Classic Series Elite
-TRUE,FALSE,59,45,85,83,198,Permanent,CFG Dignified Choice Classic Series Elite
-TRUE,FALSE,60,45,85,86,204,Permanent,CFG Dignified Choice Classic Series Elite
-TRUE,FALSE,61,45,85,89,211,Permanent,CFG Dignified Choice Classic Series Elite
-TRUE,FALSE,62,45,85,92,218,Permanent,CFG Dignified Choice Classic Series Elite
-TRUE,FALSE,63,45,85,95,225,Permanent,CFG Dignified Choice Classic Series Elite
-TRUE,FALSE,64,45,85,98,233,Permanent,CFG Dignified Choice Classic Series Elite
-TRUE,FALSE,65,45,85,101,240,Permanent,CFG Dignified Choice Classic Series Elite
-TRUE,FALSE,66,45,85,104,247,Permanent,CFG Dignified Choice Classic Series Elite
-TRUE,FALSE,67,45,85,107,255,Permanent,CFG Dignified Choice Classic Series Elite
-TRUE,FALSE,68,45,85,110,263,Permanent,CFG Dignified Choice Classic Series Elite
-TRUE,FALSE,69,45,85,113,270,Permanent,CFG Dignified Choice Classic Series Elite
-TRUE,FALSE,70,45,85,116,278,Permanent,CFG Dignified Choice Classic Series Elite
-TRUE,FALSE,71,45,85,120,286,Permanent,CFG Dignified Choice Classic Series Elite
-TRUE,FALSE,72,45,85,123,294,Permanent,CFG Dignified Choice Classic Series Elite
-TRUE,FALSE,73,45,85,127,303,Permanent,CFG Dignified Choice Classic Series Elite
-TRUE,FALSE,74,45,85,130,311,Permanent,CFG Dignified Choice Classic Series Elite
-TRUE,FALSE,75,45,85,134,320,Permanent,CFG Dignified Choice Classic Series Elite
-TRUE,FALSE,76,45,85,137,328,Permanent,CFG Dignified Choice Classic Series Elite
-TRUE,FALSE,77,45,85,141,337,Permanent,CFG Dignified Choice Classic Series Elite
-TRUE,FALSE,78,45,85,144,346,Permanent,CFG Dignified Choice Classic Series Elite
-TRUE,FALSE,79,45,85,148,355,Permanent,CFG Dignified Choice Classic Series Elite
-TRUE,FALSE,80,45,85,152,364,Permanent,CFG Dignified Choice Classic Series Elite
-TRUE,FALSE,81,45,85,155,373,Permanent,CFG Dignified Choice Classic Series Elite
-TRUE,FALSE,56,45,85,179,189,Permanent,CFG Dignified Choice Classic Series Select
-TRUE,FALSE,57,45,85,185,197,Permanent,CFG Dignified Choice Classic Series Select
-TRUE,FALSE,58,45,85,192,203,Permanent,CFG Dignified Choice Classic Series Select
-TRUE,FALSE,59,45,85,199,210,Permanent,CFG Dignified Choice Classic Series Select
-TRUE,FALSE,60,45,85,205,217,Permanent,CFG Dignified Choice Classic Series Select
-TRUE,FALSE,61,45,85,212,224,Permanent,CFG Dignified Choice Classic Series Select
-TRUE,FALSE,62,45,85,219,232,Permanent,CFG Dignified Choice Classic Series Select
-TRUE,FALSE,63,45,85,226,239,Permanent,CFG Dignified Choice Classic Series Select
-TRUE,FALSE,64,45,85,234,247,Permanent,CFG Dignified Choice Classic Series Select
-TRUE,FALSE,65,45,85,241,255,Permanent,CFG Dignified Choice Classic Series Select
-TRUE,FALSE,66,45,85,247,263,Permanent,CFG Dignified Choice Classic Series Select
-TRUE,FALSE,67,45,85,256,271,Permanent,CFG Dignified Choice Classic Series Select
-TRUE,FALSE,68,45,85,264,279,Permanent,CFG Dignified Choice Classic Series Select
-TRUE,FALSE,69,45,85,271,287,Permanent,CFG Dignified Choice Classic Series Select
-TRUE,FALSE,70,45,85,279,296,Permanent,CFG Dignified Choice Classic Series Select
-TRUE,FALSE,71,45,85,287,304,Permanent,CFG Dignified Choice Classic Series Select
-TRUE,FALSE,72,45,85,295,313,Permanent,CFG Dignified Choice Classic Series Select
-TRUE,FALSE,73,45,85,304,322,Permanent,CFG Dignified Choice Classic Series Select
-TRUE,FALSE,74,45,85,312,331,Permanent,CFG Dignified Choice Classic Series Select
-TRUE,FALSE,75,45,85,321,340,Permanent,CFG Dignified Choice Classic Series Select
-TRUE,FALSE,76,45,85,329,349,Permanent,CFG Dignified Choice Classic Series Select
-TRUE,FALSE,77,45,85,338,358,Permanent,CFG Dignified Choice Classic Series Select
-TRUE,FALSE,78,45,85,347,367,Permanent,CFG Dignified Choice Classic Series Select
-TRUE,FALSE,79,45,85,356,377,Permanent,CFG Dignified Choice Classic Series Select
-TRUE,FALSE,80,45,85,365,386,Permanent,CFG Dignified Choice Classic Series Select
-TRUE,FALSE,81,45,85,374,396,Permanent,CFG Dignified Choice Classic Series Select
-TRUE,FALSE,56,45,85,190,207,Permanent,CFG Dignified Choice Classic Series Advantage
-TRUE,FALSE,57,45,85,197,214,Permanent,CFG Dignified Choice Classic Series Advantage
-TRUE,FALSE,58,45,85,204,222,Permanent,CFG Dignified Choice Classic Series Advantage
-TRUE,FALSE,59,45,85,211,230,Permanent,CFG Dignified Choice Classic Series Advantage
-TRUE,FALSE,60,45,85,218,238,Permanent,CFG Dignified Choice Classic Series Advantage
-TRUE,FALSE,61,45,85,225,246,Permanent,CFG Dignified Choice Classic Series Advantage
-TRUE,FALSE,62,45,85,233,254,Permanent,CFG Dignified Choice Classic Series Advantage
-TRUE,FALSE,63,45,85,240,262,Permanent,CFG Dignified Choice Classic Series Advantage
-TRUE,FALSE,64,45,85,248,270,Permanent,CFG Dignified Choice Classic Series Advantage
-TRUE,FALSE,65,45,85,256,279,Permanent,CFG Dignified Choice Classic Series Advantage
-TRUE,FALSE,66,45,85,264,288,Permanent,CFG Dignified Choice Classic Series Advantage
-TRUE,FALSE,67,45,85,272,296,Permanent,CFG Dignified Choice Classic Series Advantage
-TRUE,FALSE,68,45,85,280,305,Permanent,CFG Dignified Choice Classic Series Advantage
-TRUE,FALSE,69,45,85,288,314,Permanent,CFG Dignified Choice Classic Series Advantage
-TRUE,FALSE,70,45,85,297,324,Permanent,CFG Dignified Choice Classic Series Advantage
-TRUE,FALSE,71,45,85,305,333,Permanent,CFG Dignified Choice Classic Series Advantage
-TRUE,FALSE,72,45,85,314,342,Permanent,CFG Dignified Choice Classic Series Advantage
-TRUE,FALSE,73,45,85,323,352,Permanent,CFG Dignified Choice Classic Series Advantage
-TRUE,FALSE,74,45,85,332,362,Permanent,CFG Dignified Choice Classic Series Advantage
-TRUE,FALSE,75,45,85,341,372,Permanent,CFG Dignified Choice Classic Series Advantage
-TRUE,FALSE,76,45,85,350,382,Permanent,CFG Dignified Choice Classic Series Advantage
-TRUE,FALSE,77,45,85,359,392,Permanent,CFG Dignified Choice Classic Series Advantage
-TRUE,FALSE,78,45,85,368,402,Permanent,CFG Dignified Choice Classic Series Advantage
-TRUE,FALSE,79,45,85,378,412,Permanent,CFG Dignified Choice Classic Series Advantage
-TRUE,FALSE,80,45,85,387,423,Permanent,CFG Dignified Choice Classic Series Advantage
-TRUE,FALSE,81,45,85,397,433,Permanent,CFG Dignified Choice Classic Series Advantage
-TRUE,FALSE,56,45,80,208,216,Permanent,CFG Dignified Choice Classic Series Security
-TRUE,FALSE,57,45,80,215,224,Permanent,CFG Dignified Choice Classic Series Security
-TRUE,FALSE,58,45,80,223,232,Permanent,CFG Dignified Choice Classic Series Security
-TRUE,FALSE,59,45,80,231,240,Permanent,CFG Dignified Choice Classic Series Security
-TRUE,FALSE,60,45,80,239,248,Permanent,CFG Dignified Choice Classic Series Security
-TRUE,FALSE,61,45,80,247,256,Permanent,CFG Dignified Choice Classic Series Security
-TRUE,FALSE,62,45,80,255,265,Permanent,CFG Dignified Choice Classic Series Security
-TRUE,FALSE,63,45,80,263,273,Permanent,CFG Dignified Choice Classic Series Security
-TRUE,FALSE,64,45,80,271,282,Permanent,CFG Dignified Choice Classic Series Security
-TRUE,FALSE,65,45,80,280,291,Permanent,CFG Dignified Choice Classic Series Security
-TRUE,FALSE,66,45,80,289,300,Permanent,CFG Dignified Choice Classic Series Security
-TRUE,FALSE,67,45,80,297,309,Permanent,CFG Dignified Choice Classic Series Security
-TRUE,FALSE,68,45,80,306,318,Permanent,CFG Dignified Choice Classic Series Security
-TRUE,FALSE,69,45,80,315,328,Permanent,CFG Dignified Choice Classic Series Security
-TRUE,FALSE,70,45,80,325,338,Permanent,CFG Dignified Choice Classic Series Security
-TRUE,FALSE,71,45,80,334,347,Permanent,CFG Dignified Choice Classic Series Security
-TRUE,FALSE,72,45,80,343,357,Permanent,CFG Dignified Choice Classic Series Security
-TRUE,FALSE,73,45,80,353,367,Permanent,CFG Dignified Choice Classic Series Security
-TRUE,FALSE,74,45,80,363,377,Permanent,CFG Dignified Choice Classic Series Security
-TRUE,FALSE,75,45,80,373,388,Permanent,CFG Dignified Choice Classic Series Security
-TRUE,FALSE,76,45,80,383,398,Permanent,CFG Dignified Choice Classic Series Security
-TRUE,FALSE,77,45,80,393,408,Permanent,CFG Dignified Choice Classic Series Security
-TRUE,FALSE,78,45,80,403,419,Permanent,CFG Dignified Choice Classic Series Security
-TRUE,FALSE,79,45,80,413,430,Permanent,CFG Dignified Choice Classic Series Security
-TRUE,FALSE,80,45,80,424,441,Permanent,CFG Dignified Choice Classic Series Security
-TRUE,FALSE,81,45,80,434,452,Permanent,CFG Dignified Choice Classic Series Security
-FALSE,TRUE,56,45,85,75,162,Permanent,CFG Dignified Choice Classic Series Elite
-FALSE,TRUE,57,45,85,78,168,Permanent,CFG Dignified Choice Classic Series Elite
-FALSE,TRUE,58,45,85,80,176,Permanent,CFG Dignified Choice Classic Series Elite
-FALSE,TRUE,59,45,85,83,184,Permanent,CFG Dignified Choice Classic Series Elite
-FALSE,TRUE,60,45,85,86,189,Permanent,CFG Dignified Choice Classic Series Elite
-FALSE,TRUE,61,45,85,89,197,Permanent,CFG Dignified Choice Classic Series Elite
-FALSE,TRUE,62,45,85,92,204,Permanent,CFG Dignified Choice Classic Series Elite
-FALSE,TRUE,63,45,85,95,211,Permanent,CFG Dignified Choice Classic Series Elite
-FALSE,TRUE,64,45,85,98,218,Permanent,CFG Dignified Choice Classic Series Elite
-FALSE,TRUE,65,45,85,101,224,Permanent,CFG Dignified Choice Classic Series Elite
-FALSE,TRUE,66,45,85,104,230,Permanent,CFG Dignified Choice Classic Series Elite
-FALSE,TRUE,67,45,85,107,239,Permanent,CFG Dignified Choice Classic Series Elite
-FALSE,TRUE,68,45,85,110,246,Permanent,CFG Dignified Choice Classic Series Elite
-FALSE,TRUE,69,45,85,113,254,Permanent,CFG Dignified Choice Classic Series Elite
-FALSE,TRUE,70,45,85,116,260,Permanent,CFG Dignified Choice Classic Series Elite
-FALSE,TRUE,71,45,85,120,268,Permanent,CFG Dignified Choice Classic Series Elite
-FALSE,TRUE,72,45,85,123,275,Permanent,CFG Dignified Choice Classic Series Elite
-FALSE,TRUE,73,45,85,127,284,Permanent,CFG Dignified Choice Classic Series Elite
-FALSE,TRUE,74,45,85,130,290,Permanent,CFG Dignified Choice Classic Series Elite
-FALSE,TRUE,75,45,85,134,298,Permanent,CFG Dignified Choice Classic Series Elite
-FALSE,TRUE,76,45,85,137,304,Permanent,CFG Dignified Choice Classic Series Elite
-FALSE,TRUE,77,45,85,141,310,Permanent,CFG Dignified Choice Classic Series Elite
-FALSE,TRUE,78,45,85,144,317,Permanent,CFG Dignified Choice Classic Series Elite
-FALSE,TRUE,79,45,85,148,324,Permanent,CFG Dignified Choice Classic Series Elite
-FALSE,TRUE,80,45,85,152,331,Permanent,CFG Dignified Choice Classic Series Elite
-FALSE,TRUE,81,45,85,155,338,Permanent,CFG Dignified Choice Classic Series Elite
-FALSE,TRUE,56,45,85,163,173,Permanent,CFG Dignified Choice Classic Series Select
-FALSE,TRUE,57,45,85,169,180,Permanent,CFG Dignified Choice Classic Series Select
-FALSE,TRUE,58,45,85,177,188,Permanent,CFG Dignified Choice Classic Series Select
-FALSE,TRUE,59,45,85,185,196,Permanent,CFG Dignified Choice Classic Series Select
-FALSE,TRUE,60,45,85,190,202,Permanent,CFG Dignified Choice Classic Series Select
-FALSE,TRUE,61,45,85,198,210,Permanent,CFG Dignified Choice Classic Series Select
-FALSE,TRUE,62,45,85,205,218,Permanent,CFG Dignified Choice Classic Series Select
-FALSE,TRUE,63,45,85,212,225,Permanent,CFG Dignified Choice Classic Series Select
-FALSE,TRUE,64,45,85,219,232,Permanent,CFG Dignified Choice Classic Series Select
-FALSE,TRUE,65,45,85,225,239,Permanent,CFG Dignified Choice Classic Series Select
-FALSE,TRUE,66,45,85,231,246,Permanent,CFG Dignified Choice Classic Series Select
-FALSE,TRUE,67,45,85,240,255,Permanent,CFG Dignified Choice Classic Series Select
-FALSE,TRUE,68,45,85,247,262,Permanent,CFG Dignified Choice Classic Series Select
-FALSE,TRUE,69,45,85,255,271,Permanent,CFG Dignified Choice Classic Series Select
-FALSE,TRUE,70,45,85,261,278,Permanent,CFG Dignified Choice Classic Series Select
-FALSE,TRUE,71,45,85,269,286,Permanent,CFG Dignified Choice Classic Series Select
-FALSE,TRUE,72,45,85,276,294,Permanent,CFG Dignified Choice Classic Series Select
-FALSE,TRUE,73,45,85,285,303,Permanent,CFG Dignified Choice Classic Series Select
-FALSE,TRUE,74,45,85,291,310,Permanent,CFG Dignified Choice Classic Series Select
-FALSE,TRUE,75,45,85,299,318,Permanent,CFG Dignified Choice Classic Series Select
-FALSE,TRUE,76,45,85,305,325,Permanent,CFG Dignified Choice Classic Series Select
-FALSE,TRUE,77,45,85,311,331,Permanent,CFG Dignified Choice Classic Series Select
-FALSE,TRUE,78,45,85,318,338,Permanent,CFG Dignified Choice Classic Series Select
-FALSE,TRUE,79,45,85,325,346,Permanent,CFG Dignified Choice Classic Series Select
-FALSE,TRUE,80,45,85,332,353,Permanent,CFG Dignified Choice Classic Series Select
-FALSE,TRUE,81,45,85,339,361,Permanent,CFG Dignified Choice Classic Series Select
-FALSE,TRUE,56,45,85,174,191,Permanent,CFG Dignified Choice Classic Series Advantage
-FALSE,TRUE,57,45,85,181,198,Permanent,CFG Dignified Choice Classic Series Advantage
-FALSE,TRUE,58,45,85,189,207,Permanent,CFG Dignified Choice Classic Series Advantage
-FALSE,TRUE,59,45,85,197,216,Permanent,CFG Dignified Choice Classic Series Advantage
-FALSE,TRUE,60,45,85,203,223,Permanent,CFG Dignified Choice Classic Series Advantage
-FALSE,TRUE,61,45,85,211,232,Permanent,CFG Dignified Choice Classic Series Advantage
-FALSE,TRUE,62,45,85,219,240,Permanent,CFG Dignified Choice Classic Series Advantage
-FALSE,TRUE,63,45,85,226,248,Permanent,CFG Dignified Choice Classic Series Advantage
-FALSE,TRUE,64,45,85,233,255,Permanent,CFG Dignified Choice Classic Series Advantage
-FALSE,TRUE,65,45,85,240,263,Permanent,CFG Dignified Choice Classic Series Advantage
-FALSE,TRUE,66,45,85,247,271,Permanent,CFG Dignified Choice Classic Series Advantage
-FALSE,TRUE,67,45,85,256,280,Permanent,CFG Dignified Choice Classic Series Advantage
-FALSE,TRUE,68,45,85,263,288,Permanent,CFG Dignified Choice Classic Series Advantage
-FALSE,TRUE,69,45,85,272,298,Permanent,CFG Dignified Choice Classic Series Advantage
-FALSE,TRUE,70,45,85,279,306,Permanent,CFG Dignified Choice Classic Series Advantage
-FALSE,TRUE,71,45,85,287,315,Permanent,CFG Dignified Choice Classic Series Advantage
-FALSE,TRUE,72,45,85,295,323,Permanent,CFG Dignified Choice Classic Series Advantage
-FALSE,TRUE,73,45,85,304,333,Permanent,CFG Dignified Choice Classic Series Advantage
-FALSE,TRUE,74,45,85,311,341,Permanent,CFG Dignified Choice Classic Series Advantage
-FALSE,TRUE,75,45,85,319,350,Permanent,CFG Dignified Choice Classic Series Advantage
-FALSE,TRUE,76,45,85,326,358,Permanent,CFG Dignified Choice Classic Series Advantage
-FALSE,TRUE,77,45,85,332,365,Permanent,CFG Dignified Choice Classic Series Advantage
-FALSE,TRUE,78,45,85,339,373,Permanent,CFG Dignified Choice Classic Series Advantage
-FALSE,TRUE,79,45,85,347,381,Permanent,CFG Dignified Choice Classic Series Advantage
-FALSE,TRUE,80,45,85,354,390,Permanent,CFG Dignified Choice Classic Series Advantage
-FALSE,TRUE,81,45,85,362,398,Permanent,CFG Dignified Choice Classic Series Advantage
-FALSE,TRUE,56,45,80,192,200,Permanent,CFG Dignified Choice Classic Series Security
-FALSE,TRUE,57,45,80,199,208,Permanent,CFG Dignified Choice Classic Series Security
-FALSE,TRUE,58,45,80,208,217,Permanent,CFG Dignified Choice Classic Series Security
-FALSE,TRUE,59,45,80,217,226,Permanent,CFG Dignified Choice Classic Series Security
-FALSE,TRUE,60,45,80,224,233,Permanent,CFG Dignified Choice Classic Series Security
-FALSE,TRUE,61,45,80,233,424,Permanent,CFG Dignified Choice Classic Series Security
-FALSE,TRUE,62,45,80,241,251,Permanent,CFG Dignified Choice Classic Series Security
-FALSE,TRUE,63,45,80,249,259,Permanent,CFG Dignified Choice Classic Series Security
-FALSE,TRUE,64,45,80,256,267,Permanent,CFG Dignified Choice Classic Series Security
-FALSE,TRUE,65,45,80,264,275,Permanent,CFG Dignified Choice Classic Series Security
-FALSE,TRUE,66,45,80,272,283,Permanent,CFG Dignified Choice Classic Series Security
-FALSE,TRUE,67,45,80,281,293,Permanent,CFG Dignified Choice Classic Series Security
-FALSE,TRUE,68,45,80,289,301,Permanent,CFG Dignified Choice Classic Series Security
-FALSE,TRUE,69,45,80,299,312,Permanent,CFG Dignified Choice Classic Series Security
-FALSE,TRUE,70,45,80,307,320,Permanent,CFG Dignified Choice Classic Series Security
-FALSE,TRUE,71,45,80,316,329,Permanent,CFG Dignified Choice Classic Series Security
-FALSE,TRUE,72,45,80,324,338,Permanent,CFG Dignified Choice Classic Series Security
-FALSE,TRUE,73,45,80,334,348,Permanent,CFG Dignified Choice Classic Series Security
-FALSE,TRUE,74,45,80,342,356,Permanent,CFG Dignified Choice Classic Series Security
-FALSE,TRUE,75,45,80,351,366,Permanent,CFG Dignified Choice Classic Series Security
-FALSE,TRUE,76,45,80,359,374,Permanent,CFG Dignified Choice Classic Series Security
-FALSE,TRUE,77,45,80,366,381,Permanent,CFG Dignified Choice Classic Series Security
-FALSE,TRUE,78,45,80,374,390,Permanent,CFG Dignified Choice Classic Series Security
-FALSE,TRUE,79,45,80,382,399,Permanent,CFG Dignified Choice Classic Series Security
-FALSE,TRUE,80,45,80,391,408,Permanent,CFG Dignified Choice Classic Series Security
-FALSE,TRUE,81,45,80,399,417,Permanent,CFG Dignified Choice Classic Series Security
-TRUE,TRUE,57,18,44,79,198,Permanent,Phoenix Remembrance
-TRUE,TRUE,58,18,44,81,207,Permanent,Phoenix Remembrance
-TRUE,TRUE,59,18,44,84,212,Permanent,Phoenix Remembrance
-TRUE,TRUE,60,18,44,87,220,Permanent,Phoenix Remembrance
-TRUE,TRUE,61,18,44,90,227,Permanent,Phoenix Remembrance
-TRUE,TRUE,62,18,44,93,234,Permanent,Phoenix Remembrance
-TRUE,TRUE,63,18,44,96,241,Permanent,Phoenix Remembrance
-TRUE,TRUE,64,18,44,99,250,Permanent,Phoenix Remembrance
-TRUE,TRUE,65,18,44,102,257,Permanent,Phoenix Remembrance
-TRUE,TRUE,66,18,44,105,262,Permanent,Phoenix Remembrance
-TRUE,TRUE,67,18,44,109,272,Permanent,Phoenix Remembrance
-TRUE,TRUE,68,18,44,112,279,Permanent,Phoenix Remembrance
-TRUE,TRUE,69,18,44,115,288,Permanent,Phoenix Remembrance
-TRUE,TRUE,70,18,44,118,298,Permanent,Phoenix Remembrance
-TRUE,TRUE,71,18,44,122,306,Permanent,Phoenix Remembrance
-TRUE,TRUE,72,18,44,125,314,Permanent,Phoenix Remembrance
-TRUE,TRUE,73,18,44,129,322,Permanent,Phoenix Remembrance
-TRUE,TRUE,74,18,44,132,330,Permanent,Phoenix Remembrance
-TRUE,TRUE,75,18,44,136,338,Permanent,Phoenix Remembrance
-TRUE,TRUE,76,18,44,140,345,Permanent,Phoenix Remembrance
-TRUE,TRUE,77,18,44,143,352,Permanent,Phoenix Remembrance
-TRUE,TRUE,78,18,44,147,365,Permanent,Phoenix Remembrance
-TRUE,TRUE,79,18,44,151,370,Permanent,Phoenix Remembrance
-TRUE,TRUE,80,18,44,155,378,Permanent,Phoenix Remembrance
-TRUE,TRUE,57,45,85,79,212,Permanent,Phoenix Remembrance
-TRUE,TRUE,58,45,85,81,219,Permanent,Phoenix Remembrance
-TRUE,TRUE,59,45,85,84,223,Permanent,Phoenix Remembrance
-TRUE,TRUE,60,45,85,87,234,Permanent,Phoenix Remembrance
-TRUE,TRUE,61,45,85,90,242,Permanent,Phoenix Remembrance
-TRUE,TRUE,62,45,85,93,246,Permanent,Phoenix Remembrance
-TRUE,TRUE,63,45,85,96,259,Permanent,Phoenix Remembrance
-TRUE,TRUE,64,45,85,99,266,Permanent,Phoenix Remembrance
-TRUE,TRUE,65,45,85,102,273,Permanent,Phoenix Remembrance
-TRUE,TRUE,66,45,85,105,281,Permanent,Phoenix Remembrance
-TRUE,TRUE,67,45,85,109,292,Permanent,Phoenix Remembrance
-TRUE,TRUE,68,45,85,112,300,Permanent,Phoenix Remembrance
-TRUE,TRUE,69,45,85,115,313,Permanent,Phoenix Remembrance
-TRUE,TRUE,70,45,85,118,320,Permanent,Phoenix Remembrance
-TRUE,TRUE,71,45,85,122,327,Permanent,Phoenix Remembrance
-TRUE,TRUE,72,45,85,125,336,Permanent,Phoenix Remembrance
-TRUE,TRUE,73,45,85,129,343,Permanent,Phoenix Remembrance
-TRUE,TRUE,74,45,85,132,353,Permanent,Phoenix Remembrance
-TRUE,TRUE,75,45,85,136,363,Permanent,Phoenix Remembrance
-TRUE,TRUE,76,45,85,140,374,Permanent,Phoenix Remembrance
-TRUE,TRUE,77,45,85,143,384,Permanent,Phoenix Remembrance
-TRUE,TRUE,78,45,85,147,395,Permanent,Phoenix Remembrance
-TRUE,TRUE,79,45,85,151,406,Permanent,Phoenix Remembrance
-TRUE,TRUE,80,45,85,155,413,Permanent,Phoenix Remembrance
-TRUE,TRUE,53,14,44,0,166,Permanent,Transamerica Preferred
-TRUE,TRUE,54,14,44,0,172,Permanent,Transamerica Preferred
-TRUE,TRUE,55,14,44,0,179,Permanent,Transamerica Preferred
-TRUE,TRUE,56,14,44,0,185,Permanent,Transamerica Preferred
-TRUE,TRUE,57,14,44,0,192,Permanent,Transamerica Preferred
-TRUE,TRUE,58,14,44,0,199,Permanent,Transamerica Preferred
-TRUE,TRUE,59,14,44,0,206,Permanent,Transamerica Preferred
-TRUE,TRUE,60,14,44,0,213,Permanent,Transamerica Preferred
-TRUE,TRUE,61,14,44,0,220,Permanent,Transamerica Preferred
-TRUE,TRUE,62,14,44,0,227,Permanent,Transamerica Preferred
-TRUE,TRUE,63,14,44,0,234,Permanent,Transamerica Preferred
-TRUE,TRUE,64,14,44,0,242,Permanent,Transamerica Preferred
-TRUE,TRUE,65,14,44,0,250,Permanent,Transamerica Preferred
-TRUE,TRUE,66,14,44,0,257,Permanent,Transamerica Preferred
-TRUE,TRUE,67,14,44,0,265,Permanent,Transamerica Preferred
-TRUE,TRUE,68,14,44,0,273,Permanent,Transamerica Preferred
-TRUE,TRUE,69,14,44,0,281,Permanent,Transamerica Preferred
-TRUE,TRUE,70,14,44,0,290,Permanent,Transamerica Preferred
-TRUE,TRUE,71,14,44,0,298,Permanent,Transamerica Preferred
-TRUE,TRUE,72,14,44,0,306,Permanent,Transamerica Preferred
-TRUE,TRUE,73,14,44,0,315,Permanent,Transamerica Preferred
-TRUE,TRUE,74,14,44,0,324,Permanent,Transamerica Preferred
-TRUE,TRUE,75,14,44,0,333,Permanent,Transamerica Preferred
-TRUE,TRUE,76,14,44,0,341,Permanent,Transamerica Preferred
-TRUE,TRUE,77,14,44,0,350,Permanent,Transamerica Preferred
-TRUE,TRUE,78,14,44,0,359,Permanent,Transamerica Preferred
-TRUE,TRUE,79,14,44,0,369,Permanent,Transamerica Preferred
-TRUE,TRUE,80,14,44,0,379,Permanent,Transamerica Preferred
-TRUE,TRUE,81,14,44,0,387,Permanent,Transamerica Preferred
-TRUE,TRUE,82,14,44,0,397,Permanent,Transamerica Preferred
-TRUE,TRUE,83,14,44,0,407,Permanent,Transamerica Preferred
-TRUE,TRUE,84,14,44,0,417,Permanent,Transamerica Preferred
-TRUE,TRUE,53,14,44,0,184,Permanent,Transamerica Standard
-TRUE,TRUE,54,14,44,0,191,Permanent,Transamerica Standard
-TRUE,TRUE,55,14,44,0,198,Permanent,Transamerica Standard
-TRUE,TRUE,56,14,44,0,205,Permanent,Transamerica Standard
-TRUE,TRUE,57,14,44,0,213,Permanent,Transamerica Standard
-TRUE,TRUE,58,14,44,0,220,Permanent,Transamerica Standard
-TRUE,TRUE,59,14,44,0,228,Permanent,Transamerica Standard
-TRUE,TRUE,60,14,44,0,236,Permanent,Transamerica Standard
-TRUE,TRUE,61,14,44,0,244,Permanent,Transamerica Standard
-TRUE,TRUE,62,14,44,0,252,Permanent,Transamerica Standard
-TRUE,TRUE,63,14,44,0,260,Permanent,Transamerica Standard
-TRUE,TRUE,64,14,44,0,268,Permanent,Transamerica Standard
-TRUE,TRUE,65,14,44,0,277,Permanent,Transamerica Standard
-TRUE,TRUE,66,14,44,0,285,Permanent,Transamerica Standard
-TRUE,TRUE,67,14,44,0,294,Permanent,Transamerica Standard
-TRUE,TRUE,68,14,44,0,303,Permanent,Transamerica Standard
-TRUE,TRUE,69,14,44,0,312,Permanent,Transamerica Standard
-TRUE,TRUE,70,14,44,0,321,Permanent,Transamerica Standard
-TRUE,TRUE,71,14,44,0,330,Permanent,Transamerica Standard
-TRUE,TRUE,72,14,44,0,339,Permanent,Transamerica Standard
-TRUE,TRUE,73,14,44,0,349,Permanent,Transamerica Standard
-TRUE,TRUE,74,14,44,0,359,Permanent,Transamerica Standard
-TRUE,TRUE,75,14,44,0,369,Permanent,Transamerica Standard
-TRUE,TRUE,76,14,44,0,378,Permanent,Transamerica Standard
-TRUE,TRUE,77,14,44,0,388,Permanent,Transamerica Standard
-TRUE,TRUE,78,14,44,0,398,Permanent,Transamerica Standard
-TRUE,TRUE,79,14,44,0,408,Permanent,Transamerica Standard
-TRUE,TRUE,80,14,44,0,419,Permanent,Transamerica Standard
-TRUE,TRUE,81,14,44,0,429,Permanent,Transamerica Standard
-TRUE,TRUE,82,14,44,0,440,Permanent,Transamerica Standard
-TRUE,TRUE,83,14,44,0,451,Permanent,Transamerica Standard
-TRUE,TRUE,84,14,44,0,462,Permanent,Transamerica Standard
-TRUE,TRUE,53,14,44,0,192,Permanent,Transamerica Graded
-TRUE,TRUE,54,14,44,0,199,Permanent,Transamerica Graded
-TRUE,TRUE,55,14,44,0,207,Permanent,Transamerica Graded
-TRUE,TRUE,56,14,44,0,214,Permanent,Transamerica Graded
-TRUE,TRUE,57,14,44,0,222,Permanent,Transamerica Graded
-TRUE,TRUE,58,14,44,0,230,Permanent,Transamerica Graded
-TRUE,TRUE,59,14,44,0,238,Permanent,Transamerica Graded
-TRUE,TRUE,60,14,44,0,246,Permanent,Transamerica Graded
-TRUE,TRUE,61,14,44,0,254,Permanent,Transamerica Graded
-TRUE,TRUE,62,14,44,0,263,Permanent,Transamerica Graded
-TRUE,TRUE,63,14,44,0,271,Permanent,Transamerica Graded
-TRUE,TRUE,64,14,44,0,280,Permanent,Transamerica Graded
-TRUE,TRUE,65,14,44,0,289,Permanent,Transamerica Graded
-TRUE,TRUE,66,14,44,0,298,Permanent,Transamerica Graded
-TRUE,TRUE,67,14,44,0,307,Permanent,Transamerica Graded
-TRUE,TRUE,68,14,44,0,316,Permanent,Transamerica Graded
-TRUE,TRUE,69,14,44,0,325,Permanent,Transamerica Graded
-TRUE,TRUE,70,14,44,0,335,Permanent,Transamerica Graded
-TRUE,TRUE,71,14,44,0,344,Permanent,Transamerica Graded
-TRUE,TRUE,72,14,44,0,354,Permanent,Transamerica Graded
-TRUE,TRUE,73,14,44,0,364,Permanent,Transamerica Graded
-TRUE,TRUE,74,14,44,0,374,Permanent,Transamerica Graded
-TRUE,TRUE,75,14,44,0,385,Permanent,Transamerica Graded
-TRUE,TRUE,76,14,44,0,395,Permanent,Transamerica Graded
-TRUE,TRUE,77,14,44,0,405,Permanent,Transamerica Graded
-TRUE,TRUE,78,14,44,0,416,Permanent,Transamerica Graded
-TRUE,TRUE,79,14,44,0,426,Permanent,Transamerica Graded
-TRUE,TRUE,80,14,44,0,437,Permanent,Transamerica Graded
-TRUE,TRUE,81,14,44,0,448,Permanent,Transamerica Graded
-TRUE,TRUE,82,14,44,0,459,Permanent,Transamerica Graded
-TRUE,TRUE,83,14,44,0,470,Permanent,Transamerica Graded
-TRUE,TRUE,84,14,44,0,482,Permanent,Transamerica Graded
-TRUE,TRUE,56,0,85,74,201,Permanent,Foresters PlanRight Level
-TRUE,TRUE,57,0,85,77,208,Permanent,Foresters PlanRight Level
-TRUE,TRUE,58,0,85,80,215,Permanent,Foresters PlanRight Level
-TRUE,TRUE,59,0,85,83,222,Permanent,Foresters PlanRight Level
-TRUE,TRUE,60,0,85,86,229,Permanent,Foresters PlanRight Level
-TRUE,TRUE,61,0,85,89,237,Permanent,Foresters PlanRight Level
-TRUE,TRUE,62,0,85,92,246,Permanent,Foresters PlanRight Level
-TRUE,TRUE,63,0,85,95,253,Permanent,Foresters PlanRight Level
-TRUE,TRUE,64,0,85,98,260,Permanent,Foresters PlanRight Level
-TRUE,TRUE,65,0,85,101,268,Permanent,Foresters PlanRight Level
-TRUE,TRUE,66,0,85,104,275,Permanent,Foresters PlanRight Level
-TRUE,TRUE,67,0,85,107,284,Permanent,Foresters PlanRight Level
-TRUE,TRUE,68,0,85,110,292,Permanent,Foresters PlanRight Level
-TRUE,TRUE,69,0,85,113,299,Permanent,Foresters PlanRight Level
-TRUE,TRUE,70,0,85,117,308,Permanent,Foresters PlanRight Level
-TRUE,TRUE,71,0,85,121,316,Permanent,Foresters PlanRight Level
-TRUE,TRUE,72,0,85,125,325,Permanent,Foresters PlanRight Level
-TRUE,TRUE,73,0,85,129,333,Permanent,Foresters PlanRight Level
-TRUE,TRUE,74,0,85,133,341,Permanent,Foresters PlanRight Level
-TRUE,TRUE,75,0,85,137,349,Permanent,Foresters PlanRight Level
-TRUE,TRUE,76,0,85,142,357,Permanent,Foresters PlanRight Level
-TRUE,TRUE,77,0,85,147,365,Permanent,Foresters PlanRight Level
-TRUE,TRUE,78,0,85,152,373,Permanent,Foresters PlanRight Level
-TRUE,TRUE,79,0,85,159,381,Permanent,Foresters PlanRight Level
-TRUE,TRUE,80,0,85,162,389,Permanent,Foresters PlanRight Level
-TRUE,TRUE,81,0,85,167,397,Permanent,Foresters PlanRight Level
-TRUE,TRUE,56,0,85,74,216,Permanent,Foresters PlanRight Graded
-TRUE,TRUE,57,0,85,77,223,Permanent,Foresters PlanRight Graded
-TRUE,TRUE,58,0,85,80,230,Permanent,Foresters PlanRight Graded
-TRUE,TRUE,59,0,85,83,237,Permanent,Foresters PlanRight Graded
-TRUE,TRUE,60,0,85,86,245,Permanent,Foresters PlanRight Graded
-TRUE,TRUE,61,0,85,89,253,Permanent,Foresters PlanRight Graded
-TRUE,TRUE,62,0,85,92,262,Permanent,Foresters PlanRight Graded
-TRUE,TRUE,63,0,85,95,269,Permanent,Foresters PlanRight Graded
-TRUE,TRUE,64,0,85,98,278,Permanent,Foresters PlanRight Graded
-TRUE,TRUE,65,0,85,101,286,Permanent,Foresters PlanRight Graded
-TRUE,TRUE,66,0,85,104,294,Permanent,Foresters PlanRight Graded
-TRUE,TRUE,67,0,85,107,304,Permanent,Foresters PlanRight Graded
-TRUE,TRUE,68,0,85,110,313,Permanent,Foresters PlanRight Graded
-TRUE,TRUE,69,0,85,113,321,Permanent,Foresters PlanRight Graded
-TRUE,TRUE,70,0,85,117,330,Permanent,Foresters PlanRight Graded
-TRUE,TRUE,71,0,85,121,339,Permanent,Foresters PlanRight Graded
-TRUE,TRUE,72,0,85,125,348,Permanent,Foresters PlanRight Graded
-TRUE,TRUE,73,0,85,129,356,Permanent,Foresters PlanRight Graded
-TRUE,TRUE,74,0,85,133,366,Permanent,Foresters PlanRight Graded
-TRUE,TRUE,75,0,85,137,373,Permanent,Foresters PlanRight Graded
-TRUE,TRUE,76,0,85,142,382,Permanent,Foresters PlanRight Graded
-TRUE,TRUE,77,0,85,147,392,Permanent,Foresters PlanRight Graded
-TRUE,TRUE,78,0,85,152,406,Permanent,Foresters PlanRight Graded
-TRUE,TRUE,79,0,85,159,413,Permanent,Foresters PlanRight Graded
-TRUE,TRUE,80,0,85,162,421,Permanent,Foresters PlanRight Graded
-TRUE,TRUE,81,0,85,167,430,Permanent,Foresters PlanRight Graded
-TRUE,TRUE,56,0,85,74,232,Permanent,Foresters PlanRight Modified
-TRUE,TRUE,57,0,85,77,239,Permanent,Foresters PlanRight Modified
-TRUE,TRUE,58,0,85,80,246,Permanent,Foresters PlanRight Modified
-TRUE,TRUE,59,0,85,83,253,Permanent,Foresters PlanRight Modified
-TRUE,TRUE,60,0,85,86,262,Permanent,Foresters PlanRight Modified
-TRUE,TRUE,61,0,85,89,271,Permanent,Foresters PlanRight Modified
-TRUE,TRUE,62,0,85,92,280,Permanent,Foresters PlanRight Modified
-TRUE,TRUE,63,0,85,95,288,Permanent,Foresters PlanRight Modified
-TRUE,TRUE,64,0,85,98,297,Permanent,Foresters PlanRight Modified
-TRUE,TRUE,65,0,85,101,306,Permanent,Foresters PlanRight Modified
-TRUE,TRUE,66,0,85,104,315,Permanent,Foresters PlanRight Modified
-TRUE,TRUE,67,0,85,107,325,Permanent,Foresters PlanRight Modified
-TRUE,TRUE,68,0,85,110,334,Permanent,Foresters PlanRight Modified
-TRUE,TRUE,69,0,85,113,343,Permanent,Foresters PlanRight Modified
-TRUE,TRUE,70,0,85,117,353,Permanent,Foresters PlanRight Modified
-TRUE,TRUE,71,0,85,121,362,Permanent,Foresters PlanRight Modified
-TRUE,TRUE,72,0,85,125,372,Permanent,Foresters PlanRight Modified
-TRUE,TRUE,73,0,85,129,381,Permanent,Foresters PlanRight Modified
-TRUE,TRUE,74,0,85,133,391,Permanent,Foresters PlanRight Modified
-TRUE,TRUE,75,0,85,137,399,Permanent,Foresters PlanRight Modified
-TRUE,TRUE,76,0,85,142,409,Permanent,Foresters PlanRight Modified
-TRUE,TRUE,77,0,85,147,419,Permanent,Foresters PlanRight Modified
-TRUE,TRUE,78,0,85,152,434,Permanent,Foresters PlanRight Modified
-TRUE,TRUE,79,0,85,159,442,Permanent,Foresters PlanRight Modified
-TRUE,TRUE,80,0,85,162,450,Permanent,Foresters PlanRight Modified
-TRUE,TRUE,81,0,85,167,460,Permanent,Foresters PlanRight Modified
-TRUE,TRUE,18,0,9,5,19,Term,Foresters Strong Foundation Term 
-TRUE,TRUE,19,0,9,5,19,Term,Foresters Strong Foundation Term 
-TRUE,TRUE,20,0,9,5,19,Term,Foresters Strong Foundation Term 
-TRUE,TRUE,21,0,9,6,22,Term,Foresters Strong Foundation Term 
-TRUE,TRUE,22,0,9,7,24,Term,Foresters Strong Foundation Term 
-TRUE,TRUE,23,0,9,8,26,Term,Foresters Strong Foundation Term 
-TRUE,TRUE,24,0,9,9,28,Term,Foresters Strong Foundation Term 
-TRUE,TRUE,25,0,9,10,30,Term,Foresters Strong Foundation Term 
-TRUE,TRUE,26,0,9,11,32,Term,Foresters Strong Foundation Term 
-TRUE,TRUE,27,0,9,12,34,Term,Foresters Strong Foundation Term 
-TRUE,TRUE,28,0,9,13,36,Term,Foresters Strong Foundation Term 
-TRUE,TRUE,29,0,9,14,38,Term,Foresters Strong Foundation Term 
-TRUE,TRUE,30,0,9,16,41,Term,Foresters Strong Foundation Term 
-TRUE,TRUE,31,0,9,17,43,Term,Foresters Strong Foundation Term 
-TRUE,TRUE,32,0,9,18,45,Term,Foresters Strong Foundation Term 
-TRUE,TRUE,33,0,9,19,47,Term,Foresters Strong Foundation Term 
-TRUE,TRUE,34,0,9,21,49,Term,Foresters Strong Foundation Term 
-TRUE,TRUE,35,0,9,22,51,Term,Foresters Strong Foundation Term 
-TRUE,TRUE,36,0,9,23,53,Term,Foresters Strong Foundation Term 
-TRUE,TRUE,37,0,9,24,56,Term,Foresters Strong Foundation Term 
-TRUE,TRUE,38,0,9,26,59,Term,Foresters Strong Foundation Term 
-TRUE,TRUE,39,0,9,28,62,Term,Foresters Strong Foundation Term 
-TRUE,TRUE,40,0,9,29,64,Term,Foresters Strong Foundation Term 
-TRUE,TRUE,41,0,9,30,67,Term,Foresters Strong Foundation Term 
-TRUE,TRUE,42,0,9,32,70,Term,Foresters Strong Foundation Term 
-TRUE,TRUE,43,0,9,34,73,Term,Foresters Strong Foundation Term 
-TRUE,TRUE,44,0,9,35,75,Term,Foresters Strong Foundation Term 
-TRUE,TRUE,45,0,9,37,79,Term,Foresters Strong Foundation Term 
-TRUE,TRUE,46,0,9,39,83,Term,Foresters Strong Foundation Term 
-TRUE,TRUE,47,0,9,41,87,Term,Foresters Strong Foundation Term 
-TRUE,TRUE,48,0,9,42,89,Term,Foresters Strong Foundation Term 
-TRUE,TRUE,49,0,9,44,93,Term,Foresters Strong Foundation Term 
-TRUE,TRUE,50,0,9,46,97,Term,Foresters Strong Foundation Term 
-TRUE,TRUE,51,0,9,49,101,Term,Foresters Strong Foundation Term 
-TRUE,TRUE,52,0,9,51,105,Term,Foresters Strong Foundation Term 
-TRUE,TRUE,53,0,9,54,109,Term,Foresters Strong Foundation Term 
-TRUE,TRUE,54,0,9,56,113,Term,Foresters Strong Foundation Term 
-TRUE,TRUE,55,0,9,59,118,Term,Foresters Strong Foundation Term 
-TRUE,TRUE,56,0,9,61,122,Term,Foresters Strong Foundation Term 
-TRUE,TRUE,57,0,9,64,127,Term,Foresters Strong Foundation Term 
-TRUE,TRUE,58,0,9,66,131,Term,Foresters Strong Foundation Term 
-TRUE,TRUE,59,0,9,69,136,Term,Foresters Strong Foundation Term 
-TRUE,TRUE,60,0,9,71,140,Term,Foresters Strong Foundation Term 
-TRUE,TRUE,48,10,15,42,123,Term,Foresters Strong Foundation Term 
-TRUE,TRUE,49,10,15,43,127,Term,Foresters Strong Foundation Term 
-TRUE,TRUE,50,10,15,47,131,Term,Foresters Strong Foundation Term 
-TRUE,TRUE,51,10,15,49,136,Term,Foresters Strong Foundation Term 
-TRUE,TRUE,52,10,15,50,141,Term,Foresters Strong Foundation Term 
-TRUE,TRUE,53,10,15,57,142,Term,Foresters Strong Foundation Term 
-TRUE,TRUE,54,10,15,63,143,Term,Foresters Strong Foundation Term 
-TRUE,TRUE,55,10,15,66,147,Term,Foresters Strong Foundation Term 
-TRUE,TRUE,56,10,15,68,151,Term,Foresters Strong Foundation Term 
-TRUE,TRUE,57,10,15,71,154,Term,Foresters Strong Foundation Term 
-TRUE,TRUE,58,10,15,73,157,Term,Foresters Strong Foundation Term 
-TRUE,TRUE,59,10,15,73,161,Term,Foresters Strong Foundation Term 
-TRUE,TRUE,60,10,15,74,165,Term,Foresters Strong Foundation Term 
-TRUE,TRUE,61,10,15,77,169,Term,Foresters Strong Foundation Term 
-TRUE,TRUE,62,10,15,80,173,Term,Foresters Strong Foundation Term 
-TRUE,TRUE,63,10,15,86,179,Term,Foresters Strong Foundation Term 
-TRUE,TRUE,64,10,15,91,184,Term,Foresters Strong Foundation Term 
-TRUE,TRUE,65,10,15,94,189,Term,Foresters Strong Foundation Term 
-TRUE,TRUE,66,10,15,97,194,Term,Foresters Strong Foundation Term 
-TRUE,TRUE,67,10,15,101,199,Term,Foresters Strong Foundation Term 
-TRUE,TRUE,68,10,15,104,204,Term,Foresters Strong Foundation Term 
-TRUE,TRUE,69,10,15,107,210,Term,Foresters Strong Foundation Term 
-TRUE,TRUE,70,10,15,110,216,Term,Foresters Strong Foundation Term 
-TRUE,TRUE,71,10,15,114,221,Term,Foresters Strong Foundation Term 
-TRUE,TRUE,72,10,15,117,226,Term,Foresters Strong Foundation Term 
-TRUE,TRUE,73,10,15,121,231,Term,Foresters Strong Foundation Term 
-TRUE,TRUE,74,10,15,124,236,Term,Foresters Strong Foundation Term 
-TRUE,TRUE,75,10,15,128,241,Term,Foresters Strong Foundation Term 
-TRUE,TRUE,76,10,15,131,246,Term,Foresters Strong Foundation Term 
-TRUE,TRUE,56,0,85,0,185,Term,Forester Strong Foundation Term Maximum Build Chart
-TRUE,TRUE,57,0,85,0,193,Term,Forester Strong Foundation Term Maximum Build Chart
-TRUE,TRUE,58,0,85,0,198,Term,Forester Strong Foundation Term Maximum Build Chart
-TRUE,TRUE,59,0,85,0,207,Term,Forester Strong Foundation Term Maximum Build Chart
-TRUE,TRUE,60,0,85,0,212,Term,Forester Strong Foundation Term Maximum Build Chart
-TRUE,TRUE,61,0,85,0,221,Term,Forester Strong Foundation Term Maximum Build Chart
-TRUE,TRUE,62,0,85,0,225,Term,Forester Strong Foundation Term Maximum Build Chart
-TRUE,TRUE,63,0,85,0,234,Term,Forester Strong Foundation Term Maximum Build Chart
-TRUE,TRUE,64,0,85,0,243,Term,Forester Strong Foundation Term Maximum Build Chart
-TRUE,TRUE,65,0,85,0,250,Term,Forester Strong Foundation Term Maximum Build Chart
-TRUE,TRUE,66,0,85,0,259,Term,Forester Strong Foundation Term Maximum Build Chart
-TRUE,TRUE,67,0,85,0,265,Term,Forester Strong Foundation Term Maximum Build Chart
-TRUE,TRUE,68,0,85,0,274,Term,Forester Strong Foundation Term Maximum Build Chart
-TRUE,TRUE,69,0,85,0,281,Term,Forester Strong Foundation Term Maximum Build Chart
-TRUE,TRUE,70,0,85,0,292,Term,Forester Strong Foundation Term Maximum Build Chart
-TRUE,TRUE,71,0,85,0,298,Term,Forester Strong Foundation Term Maximum Build Chart
-TRUE,TRUE,72,0,85,0,307,Term,Forester Strong Foundation Term Maximum Build Chart
-TRUE,TRUE,73,0,85,0,314,Term,Forester Strong Foundation Term Maximum Build Chart
-TRUE,TRUE,74,0,85,0,325,Term,Forester Strong Foundation Term Maximum Build Chart
-TRUE,TRUE,75,0,85,0,336,Term,Forester Strong Foundation Term Maximum Build Chart
-TRUE,TRUE,76,0,85,0,342,Term,Forester Strong Foundation Term Maximum Build Chart
-TRUE,TRUE,77,0,85,0,353,Term,Forester Strong Foundation Term Maximum Build Chart
-TRUE,TRUE,78,0,85,0,360,Term,Forester Strong Foundation Term Maximum Build Chart
-TRUE,TRUE,56,0,85,0,140,Term,Forester Strong Foundation Term Standard Build Chart Non-Medical
-TRUE,TRUE,57,0,85,0,145,Term,Forester Strong Foundation Term Standard Build Chart Non-Medical
-TRUE,TRUE,58,0,85,0,150,Term,Forester Strong Foundation Term Standard Build Chart Non-Medical
-TRUE,TRUE,59,0,85,0,155,Term,Forester Strong Foundation Term Standard Build Chart Non-Medical
-TRUE,TRUE,60,0,85,0,161,Term,Forester Strong Foundation Term Standard Build Chart Non-Medical
-TRUE,TRUE,61,0,85,0,166,Term,Forester Strong Foundation Term Standard Build Chart Non-Medical
-TRUE,TRUE,62,0,85,0,172,Term,Forester Strong Foundation Term Standard Build Chart Non-Medical
-TRUE,TRUE,63,0,85,0,177,Term,Forester Strong Foundation Term Standard Build Chart Non-Medical
-TRUE,TRUE,64,0,85,0,183,Term,Forester Strong Foundation Term Standard Build Chart Non-Medical
-TRUE,TRUE,65,0,85,0,189,Term,Forester Strong Foundation Term Standard Build Chart Non-Medical
-TRUE,TRUE,66,0,85,0,195,Term,Forester Strong Foundation Term Standard Build Chart Non-Medical
-TRUE,TRUE,67,0,85,0,201,Term,Forester Strong Foundation Term Standard Build Chart Non-Medical
-TRUE,TRUE,68,0,85,0,207,Term,Forester Strong Foundation Term Standard Build Chart Non-Medical
-TRUE,TRUE,69,0,85,0,213,Term,Forester Strong Foundation Term Standard Build Chart Non-Medical
-TRUE,TRUE,70,0,85,0,219,Term,Forester Strong Foundation Term Standard Build Chart Non-Medical
-TRUE,TRUE,71,0,85,0,225,Term,Forester Strong Foundation Term Standard Build Chart Non-Medical
-TRUE,TRUE,72,0,85,0,232,Term,Forester Strong Foundation Term Standard Build Chart Non-Medical
-TRUE,TRUE,73,0,85,0,238,Term,Forester Strong Foundation Term Standard Build Chart Non-Medical
-TRUE,TRUE,74,0,85,0,245,Term,Forester Strong Foundation Term Standard Build Chart Non-Medical
-TRUE,TRUE,75,0,85,0,252,Term,Forester Strong Foundation Term Standard Build Chart Non-Medical
-TRUE,TRUE,76,0,85,0,258,Term,Forester Strong Foundation Term Standard Build Chart Non-Medical
-TRUE,TRUE,77,0,85,0,265,Term,Forester Strong Foundation Term Standard Build Chart Non-Medical
-TRUE,TRUE,78,0,85,0,272,Term,Forester Strong Foundation Term Standard Build Chart Non-Medical
-TRUE,TRUE,56,0,85,0,189,Term,CFG SafeShiled Term
-TRUE,TRUE,57,0,85,0,196,Term,CFG SafeShiled Term
-TRUE,TRUE,58,0,85,0,203,Term,CFG SafeShiled Term
-TRUE,TRUE,59,0,85,0,210,Term,CFG SafeShiled Term
-TRUE,TRUE,60,0,85,0,217,Term,CFG SafeShiled Term
-TRUE,TRUE,61,0,85,0,224,Term,CFG SafeShiled Term
-TRUE,TRUE,62,0,85,0,232,Term,CFG SafeShiled Term
-TRUE,TRUE,63,0,85,0,239,Term,CFG SafeShiled Term
-TRUE,TRUE,64,0,85,0,247,Term,CFG SafeShiled Term
-TRUE,TRUE,65,0,85,0,255,Term,CFG SafeShiled Term
-TRUE,TRUE,66,0,85,0,263,Term,CFG SafeShiled Term
-TRUE,TRUE,67,0,85,0,271,Term,CFG SafeShiled Term
-TRUE,TRUE,68,0,85,0,279,Term,CFG SafeShiled Term
-TRUE,TRUE,69,0,85,0,287,Term,CFG SafeShiled Term
-TRUE,TRUE,70,0,85,0,296,Term,CFG SafeShiled Term
-TRUE,TRUE,71,0,85,0,304,Term,CFG SafeShiled Term
-TRUE,TRUE,72,0,85,0,313,Term,CFG SafeShiled Term
-TRUE,TRUE,73,0,85,0,322,Term,CFG SafeShiled Term
-TRUE,TRUE,74,0,85,0,331,Term,CFG SafeShiled Term
-TRUE,TRUE,75,0,85,0,340,Term,CFG SafeShiled Term
-TRUE,TRUE,76,0,85,0,349,Term,CFG SafeShiled Term
-TRUE,TRUE,77,0,85,0,358,Term,CFG SafeShiled Term
-TRUE,TRUE,78,0,85,0,367,Term,CFG SafeShiled Term
-TRUE,TRUE,79,0,85,0,377,Term,CFG SafeShiled Term
-TRUE,TRUE,80,0,85,0,386,Term,CFG SafeShiled Term
-TRUE,TRUE,81,0,85,0,396,Term,CFG SafeShiled Term
-TRUE,TRUE,56,0,85,74,197,Tern,"TL, GUL, Express, Living Promise "
-TRUE,TRUE,57,0,85,77,202,Tern,"TL, GUL, Express, Living Promise "
-TRUE,TRUE,58,0,85,79,208,Tern,"TL, GUL, Express, Living Promise "
-TRUE,TRUE,59,0,85,82,214,Tern,"TL, GUL, Express, Living Promise "
-TRUE,TRUE,60,0,85,85,220,Tern,"TL, GUL, Express, Living Promise "
-TRUE,TRUE,61,0,85,88,226,Tern,"TL, GUL, Express, Living Promise "
-TRUE,TRUE,62,0,85,91,232,Tern,"TL, GUL, Express, Living Promise "
-TRUE,TRUE,63,0,85,94,238,Tern,"TL, GUL, Express, Living Promise "
-TRUE,TRUE,64,0,85,97,245,Tern,"TL, GUL, Express, Living Promise "
-TRUE,TRUE,65,0,85,100,251,Tern,"TL, GUL, Express, Living Promise "
-TRUE,TRUE,66,0,85,103,258,Tern,"TL, GUL, Express, Living Promise "
-TRUE,TRUE,67,0,85,106,265,Tern,"TL, GUL, Express, Living Promise "
-TRUE,TRUE,68,0,85,109,274,Tern,"TL, GUL, Express, Living Promise "
-TRUE,TRUE,69,0,85,112,282,Tern,"TL, GUL, Express, Living Promise "
-TRUE,TRUE,70,0,85,115,289,Tern,"TL, GUL, Express, Living Promise "
-TRUE,TRUE,71,0,85,119,298,Tern,"TL, GUL, Express, Living Promise "
-TRUE,TRUE,72,0,85,122,305,Tern,"TL, GUL, Express, Living Promise "
-TRUE,TRUE,73,0,85,126,313,Tern,"TL, GUL, Express, Living Promise "
-TRUE,TRUE,74,0,85,129,321,Tern,"TL, GUL, Express, Living Promise "
-TRUE,TRUE,75,0,85,133,329,Tern,"TL, GUL, Express, Living Promise "
-TRUE,TRUE,76,0,85,136,338,Tern,"TL, GUL, Express, Living Promise "
-TRUE,TRUE,77,0,85,140,347,Tern,"TL, GUL, Express, Living Promise "
-TRUE,TRUE,78,0,85,143,358,Tern,"TL, GUL, Express, Living Promise "
-TRUE,TRUE,79,0,85,147,367,Tern,"TL, GUL, Express, Living Promise "
-TRUE,TRUE,80,0,85,151,376,Tern,"TL, GUL, Express, Living Promise "
-TRUE,TRUE,81,0,85,154,385,Tern,"TL, GUL, Express, Living Promise "
-TRUE,TRUE,82,0,85,158,395,Tern,"TL, GUL, Express, Living Promise "
-TRUE,TRUE,56,0,85,0,170,Tern,DI Rider
-TRUE,TRUE,57,0,85,0,176,Tern,DI Rider
-TRUE,TRUE,58,0,85,0,182,Tern,DI Rider
-TRUE,TRUE,59,0,85,0,187,Tern,DI Rider
-TRUE,TRUE,60,0,85,0,193,Tern,DI Rider
-TRUE,TRUE,61,0,85,0,199,Tern,DI Rider
-TRUE,TRUE,62,0,85,0,205,Tern,DI Rider
-TRUE,TRUE,63,0,85,0,213,Tern,DI Rider
-TRUE,TRUE,64,0,85,0,221,Tern,DI Rider
-TRUE,TRUE,65,0,85,0,226,Tern,DI Rider
-TRUE,TRUE,66,0,85,0,232,Tern,DI Rider
-TRUE,TRUE,67,0,85,0,239,Tern,DI Rider
-TRUE,TRUE,68,0,85,0,246,Tern,DI Rider
-TRUE,TRUE,69,0,85,0,254,Tern,DI Rider
-TRUE,TRUE,70,0,85,0,262,Tern,DI Rider
-TRUE,TRUE,71,0,85,0,269,Tern,DI Rider
-TRUE,TRUE,72,0,85,0,275,Tern,DI Rider
-TRUE,TRUE,73,0,85,0,282,Tern,DI Rider
-TRUE,TRUE,74,0,85,0,289,Tern,DI Rider
-TRUE,TRUE,75,0,85,0,296,Tern,DI Rider
-TRUE,TRUE,76,0,85,0,3011,Tern,DI Rider
-TRUE,TRUE,77,0,85,0,307,Tern,DI Rider
-TRUE,TRUE,78,0,85,0,313,Tern,DI Rider
-TRUE,TRUE,79,0,85,0,320,Tern,DI Rider
-TRUE,TRUE,80,0,85,0,327,Tern,DI Rider
-TRUE,TRUE,81,0,85,0,335,Tern,DI Rider
-TRUE,TRUE,82,0,85,0,343,Tern,DI Rider
-TRUE,TRUE,56,0,85,0,184,Tern,"Table 2 Max Weight, Mulitple Impairments"
-TRUE,TRUE,57,0,85,0,189,Tern,"Table 2 Max Weight, Mulitple Impairments"
-TRUE,TRUE,58,0,85,0,194,Tern,"Table 2 Max Weight, Mulitple Impairments"
-TRUE,TRUE,59,0,85,0,199,Tern,"Table 2 Max Weight, Mulitple Impairments"
-TRUE,TRUE,60,0,85,0,205,Tern,"Table 2 Max Weight, Mulitple Impairments"
-TRUE,TRUE,61,0,85,0,211,Tern,"Table 2 Max Weight, Mulitple Impairments"
-TRUE,TRUE,62,0,85,0,215,Tern,"Table 2 Max Weight, Mulitple Impairments"
-TRUE,TRUE,63,0,85,0,220,Tern,"Table 2 Max Weight, Mulitple Impairments"
-TRUE,TRUE,64,0,85,0,225,Tern,"Table 2 Max Weight, Mulitple Impairments"
-TRUE,TRUE,65,0,85,0,231,Tern,"Table 2 Max Weight, Mulitple Impairments"
-TRUE,TRUE,66,0,85,0,239,Tern,"Table 2 Max Weight, Mulitple Impairments"
-TRUE,TRUE,67,0,85,0,245,Tern,"Table 2 Max Weight, Mulitple Impairments"
-TRUE,TRUE,68,0,85,0,251,Tern,"Table 2 Max Weight, Mulitple Impairments"
-TRUE,TRUE,69,0,85,0,258,Tern,"Table 2 Max Weight, Mulitple Impairments"
-TRUE,TRUE,70,0,85,0,266,Tern,"Table 2 Max Weight, Mulitple Impairments"
-TRUE,TRUE,71,0,85,0,274,Tern,"Table 2 Max Weight, Mulitple Impairments"
-TRUE,TRUE,72,0,85,0,281,Tern,"Table 2 Max Weight, Mulitple Impairments"
-TRUE,TRUE,73,0,85,0,289,Tern,"Table 2 Max Weight, Mulitple Impairments"
-TRUE,TRUE,74,0,85,0,296,Tern,"Table 2 Max Weight, Mulitple Impairments"
-TRUE,TRUE,75,0,85,0,303,Tern,"Table 2 Max Weight, Mulitple Impairments"
-TRUE,TRUE,76,0,85,0,311,Tern,"Table 2 Max Weight, Mulitple Impairments"
-TRUE,TRUE,77,0,85,0,319,Tern,"Table 2 Max Weight, Mulitple Impairments"
-TRUE,TRUE,78,0,85,0,328,Tern,"Table 2 Max Weight, Mulitple Impairments"
-TRUE,TRUE,79,0,85,0,336,Tern,"Table 2 Max Weight, Mulitple Impairments"
-TRUE,TRUE,80,0,85,0,345,Tern,"Table 2 Max Weight, Mulitple Impairments"
-TRUE,TRUE,81,0,85,0,352,Tern,"Table 2 Max Weight, Mulitple Impairments"
-TRUE,TRUE,82,0,85,0,359,Tern,"Table 2 Max Weight, Mulitple Impairments"
-TRUE,TRUE,56,0,85,0,204,Tern,Living Promise Level Benefit
-TRUE,TRUE,57,0,85,0,209,Tern,Living Promise Level Benefit
-TRUE,TRUE,58,0,85,0,214,Tern,Living Promise Level Benefit
-TRUE,TRUE,59,0,85,0,220,Tern,Living Promise Level Benefit
-TRUE,TRUE,60,0,85,0,226,Tern,Living Promise Level Benefit
-TRUE,TRUE,61,0,85,0,233,Tern,Living Promise Level Benefit
-TRUE,TRUE,62,0,85,0,239,Tern,Living Promise Level Benefit
-TRUE,TRUE,63,0,85,0,246,Tern,Living Promise Level Benefit
-TRUE,TRUE,64,0,85,0,252,Tern,Living Promise Level Benefit
-TRUE,TRUE,65,0,85,0,259,Tern,Living Promise Level Benefit
-TRUE,TRUE,66,0,85,0,268,Tern,Living Promise Level Benefit
-TRUE,TRUE,67,0,85,0,275,Tern,Living Promise Level Benefit
-TRUE,TRUE,68,0,85,0,283,Tern,Living Promise Level Benefit
-TRUE,TRUE,69,0,85,0,291,Tern,Living Promise Level Benefit
-TRUE,TRUE,70,0,85,0,300,Tern,Living Promise Level Benefit
-TRUE,TRUE,71,0,85,0,307,Tern,Living Promise Level Benefit
-TRUE,TRUE,72,0,85,0,315,Tern,Living Promise Level Benefit
-TRUE,TRUE,73,0,85,0,322,Tern,Living Promise Level Benefit
-TRUE,TRUE,74,0,85,0,331,Tern,Living Promise Level Benefit
-TRUE,TRUE,75,0,85,0,339,Tern,Living Promise Level Benefit
-TRUE,TRUE,76,0,85,0,348,Tern,Living Promise Level Benefit
-TRUE,TRUE,77,0,85,0,357,Tern,Living Promise Level Benefit
-TRUE,TRUE,78,0,85,0,366,Tern,Living Promise Level Benefit
-TRUE,TRUE,79,0,85,0,375,Tern,Living Promise Level Benefit
-TRUE,TRUE,80,0,85,0,385,Tern,Living Promise Level Benefit
-TRUE,TRUE,81,0,85,0,395,Tern,Living Promise Level Benefit
-TRUE,TRUE,82,0,85,0,407,Tern,Living Promise Level Benefit
-TRUE,TRUE,56,0,85,0,221,Tern,Living Promise Graded Benefit
-TRUE,TRUE,57,0,85,0,225,Tern,Living Promise Graded Benefit
-TRUE,TRUE,58,0,85,0,231,Tern,Living Promise Graded Benefit
-TRUE,TRUE,59,0,85,0,237,Tern,Living Promise Graded Benefit
-TRUE,TRUE,60,0,85,0,244,Tern,Living Promise Graded Benefit
-TRUE,TRUE,61,0,85,0,250,Tern,Living Promise Graded Benefit
-TRUE,TRUE,62,0,85,0,257,Tern,Living Promise Graded Benefit
-TRUE,TRUE,63,0,85,0,264,Tern,Living Promise Graded Benefit
-TRUE,TRUE,64,0,85,0,270,Tern,Living Promise Graded Benefit
-TRUE,TRUE,65,0,85,0,277,Tern,Living Promise Graded Benefit
-TRUE,TRUE,66,0,85,0,285,Tern,Living Promise Graded Benefit
-TRUE,TRUE,67,0,85,0,293,Tern,Living Promise Graded Benefit
-TRUE,TRUE,68,0,85,0,300,Tern,Living Promise Graded Benefit
-TRUE,TRUE,69,0,85,0,309,Tern,Living Promise Graded Benefit
-TRUE,TRUE,70,0,85,0,316,Tern,Living Promise Graded Benefit
-TRUE,TRUE,71,0,85,0,325,Tern,Living Promise Graded Benefit
-TRUE,TRUE,72,0,85,0,333,Tern,Living Promise Graded Benefit
-TRUE,TRUE,73,0,85,0,340,Tern,Living Promise Graded Benefit
-TRUE,TRUE,74,0,85,0,349,Tern,Living Promise Graded Benefit
-TRUE,TRUE,75,0,85,0,358,Tern,Living Promise Graded Benefit
-TRUE,TRUE,76,0,85,0,367,Tern,Living Promise Graded Benefit
-TRUE,TRUE,77,0,85,0,376,Tern,Living Promise Graded Benefit
-TRUE,TRUE,78,0,85,0,385,Tern,Living Promise Graded Benefit
-TRUE,TRUE,79,0,85,0,394,Tern,Living Promise Graded Benefit
-TRUE,TRUE,80,0,85,0,405,Tern,Living Promise Graded Benefit
-TRUE,TRUE,81,0,85,0,415,Tern,Living Promise Graded Benefit
-TRUE,TRUE,82,0,85,0,427,Tern,Living Promise Graded Benefit
-TRUE,TRUE,56,0,85,0,193,Term,Phoenix Safe Harbor
-TRUE,TRUE,57,0,85,79,199,Term,Phoenix Safe Harbor
-TRUE,TRUE,58,0,85,81,206,Term,Phoenix Safe Harbor
-TRUE,TRUE,59,0,85,84,213,Term,Phoenix Safe Harbor
-TRUE,TRUE,60,0,85,87,220,Term,Phoenix Safe Harbor
-TRUE,TRUE,61,0,85,90,227,Term,Phoenix Safe Harbor
-TRUE,TRUE,62,0,85,93,234,Term,Phoenix Safe Harbor
-TRUE,TRUE,63,0,85,96,241,Term,Phoenix Safe Harbor
-TRUE,TRUE,64,0,85,99,248,Term,Phoenix Safe Harbor
-TRUE,TRUE,65,0,85,102,256,Term,Phoenix Safe Harbor
-TRUE,TRUE,66,0,85,105,264,Term,Phoenix Safe Harbor
-TRUE,TRUE,67,0,85,109,272,Term,Phoenix Safe Harbor
-TRUE,TRUE,68,0,85,112,280,Term,Phoenix Safe Harbor
-TRUE,TRUE,69,0,85,115,288,Term,Phoenix Safe Harbor
-TRUE,TRUE,70,0,85,118,296,Term,Phoenix Safe Harbor
-TRUE,TRUE,71,0,85,122,304,Term,Phoenix Safe Harbor
-TRUE,TRUE,72,0,85,125,312,Term,Phoenix Safe Harbor
-TRUE,TRUE,73,0,85,129,321,Term,Phoenix Safe Harbor
-TRUE,TRUE,74,0,85,132,330,Term,Phoenix Safe Harbor
-TRUE,TRUE,75,0,85,136,339,Term,Phoenix Safe Harbor
-TRUE,TRUE,76,0,85,140,348,Term,Phoenix Safe Harbor
-TRUE,TRUE,77,0,85,143,357,Term,Phoenix Safe Harbor
-TRUE,TRUE,78,0,85,147,366,Term,Phoenix Safe Harbor
-TRUE,TRUE,79,0,85,151,372,Term,Phoenix Safe Harbor
-TRUE,TRUE,56,0,85,74,189,Term,NWL Term
-TRUE,TRUE,57,0,85,77,192,Term,NWL Term
-TRUE,TRUE,58,0,85,79,199,Term,NWL Term
-TRUE,TRUE,59,0,85,82,206,Term,NWL Term
-TRUE,TRUE,60,0,85,85,213,Term,NWL Term
-TRUE,TRUE,61,0,85,88,220,Term,NWL Term
-TRUE,TRUE,62,0,85,91,228,Term,NWL Term
-TRUE,TRUE,63,0,85,94,235,Term,NWL Term
-TRUE,TRUE,64,0,85,97,243,Term,NWL Term
-TRUE,TRUE,65,0,85,100,250,Term,NWL Term
-TRUE,TRUE,66,0,85,103,258,Term,NWL Term
-TRUE,TRUE,67,0,85,106,266,Term,NWL Term
-TRUE,TRUE,68,0,85,110,274,Term,NWL Term
-TRUE,TRUE,69,0,85,112,282,Term,NWL Term
-TRUE,TRUE,70,0,85,115,291,Term,NWL Term
-TRUE,TRUE,71,0,85,119,299,Term,NWL Term
-TRUE,TRUE,72,0,85,122,308,Term,NWL Term
-TRUE,TRUE,73,0,85,126,316,Term,NWL Term
-TRUE,TRUE,74,0,85,129,325,Term,NWL Term
-TRUE,TRUE,75,0,85,133,334,Term,NWL Term
-TRUE,TRUE,76,0,85,136,343,Term,NWL Term
-TRUE,TRUE,77,0,85,140,352,Term,NWL Term
-TRUE,TRUE,78,0,85,143,361,Term,NWL Term
-TRUE,TRUE,79,0,85,147,371,Term,NWL Term
+Male,Female,Height,Min Age,Max Age,Min Weight,Max Weight,Type,Product 1,Product 2,Product 3
+TRUE,FALSE,56,25,44,75,173,Permanent,CFG,Dignified Choice,Elite
+TRUE,FALSE,57,25,44,78,180,Permanent,CFG,Dignified Choice,Elite
+TRUE,FALSE,58,25,44,80,186,Permanent,CFG,Dignified Choice,Elite
+TRUE,FALSE,59,25,44,83,193,Permanent,CFG,Dignified Choice,Elite
+TRUE,FALSE,60,25,44,86,199,Permanent,CFG,Dignified Choice,Elite
+TRUE,FALSE,61,25,44,89,206,Permanent,CFG,Dignified Choice,Elite
+TRUE,FALSE,62,25,44,92,213,Permanent,CFG,Dignified Choice,Elite
+TRUE,FALSE,63,25,44,95,220,Permanent,CFG,Dignified Choice,Elite
+TRUE,FALSE,64,25,44,98,227,Permanent,CFG,Dignified Choice,Elite
+TRUE,FALSE,65,25,44,101,234,Permanent,CFG,Dignified Choice,Elite
+TRUE,FALSE,66,25,44,104,241,Permanent,CFG,Dignified Choice,Elite
+TRUE,FALSE,67,25,44,107,249,Permanent,CFG,Dignified Choice,Elite
+TRUE,FALSE,68,25,44,110,256,Permanent,CFG,Dignified Choice,Elite
+TRUE,FALSE,69,25,44,113,264,Permanent,CFG,Dignified Choice,Elite
+TRUE,FALSE,70,25,44,116,271,Permanent,CFG,Dignified Choice,Elite
+TRUE,FALSE,71,25,44,120,279,Permanent,CFG,Dignified Choice,Elite
+TRUE,FALSE,72,25,44,123,287,Permanent,CFG,Dignified Choice,Elite
+TRUE,FALSE,73,25,44,127,295,Permanent,CFG,Dignified Choice,Elite
+TRUE,FALSE,74,25,44,130,303,Permanent,CFG,Dignified Choice,Elite
+TRUE,FALSE,75,25,44,134,312,Permanent,CFG,Dignified Choice,Elite
+TRUE,FALSE,76,25,44,137,320,Permanent,CFG,Dignified Choice,Elite
+TRUE,FALSE,77,25,44,141,328,Permanent,CFG,Dignified Choice,Elite
+TRUE,FALSE,78,25,44,144,337,Permanent,CFG,Dignified Choice,Elite
+TRUE,FALSE,79,25,44,148,346,Permanent,CFG,Dignified Choice,Elite
+TRUE,FALSE,80,25,44,152,355,Permanent,CFG,Dignified Choice,Elite
+TRUE,FALSE,81,25,44,155,363,Permanent,CFG,Dignified Choice,Elite
+TRUE,FALSE,56,25,44,174,189,Permanent,CFG,Dignified Choice,Select
+TRUE,FALSE,57,25,44,181,196,Permanent,CFG,Dignified Choice,Select
+TRUE,FALSE,58,25,44,187,203,Permanent,CFG,Dignified Choice,Select
+TRUE,FALSE,59,25,44,194,210,Permanent,CFG,Dignified Choice,Select
+TRUE,FALSE,60,25,44,200,217,Permanent,CFG,Dignified Choice,Select
+TRUE,FALSE,61,25,44,207,224,Permanent,CFG,Dignified Choice,Select
+TRUE,FALSE,62,25,44,214,232,Permanent,CFG,Dignified Choice,Select
+TRUE,FALSE,63,25,44,221,239,Permanent,CFG,Dignified Choice,Select
+TRUE,FALSE,64,25,44,228,247,Permanent,CFG,Dignified Choice,Select
+TRUE,FALSE,65,25,44,235,255,Permanent,CFG,Dignified Choice,Select
+TRUE,FALSE,66,25,44,242,263,Permanent,CFG,Dignified Choice,Select
+TRUE,FALSE,67,25,44,250,271,Permanent,CFG,Dignified Choice,Select
+TRUE,FALSE,68,25,44,257,279,Permanent,CFG,Dignified Choice,Select
+TRUE,FALSE,69,25,44,265,287,Permanent,CFG,Dignified Choice,Select
+TRUE,FALSE,70,25,44,272,296,Permanent,CFG,Dignified Choice,Select
+TRUE,FALSE,71,25,44,280,304,Permanent,CFG,Dignified Choice,Select
+TRUE,FALSE,72,25,44,288,313,Permanent,CFG,Dignified Choice,Select
+TRUE,FALSE,73,25,44,296,322,Permanent,CFG,Dignified Choice,Select
+TRUE,FALSE,74,25,44,304,331,Permanent,CFG,Dignified Choice,Select
+TRUE,FALSE,75,25,44,313,340,Permanent,CFG,Dignified Choice,Select
+TRUE,FALSE,76,25,44,321,349,Permanent,CFG,Dignified Choice,Select
+TRUE,FALSE,77,25,44,329,358,Permanent,CFG,Dignified Choice,Select
+TRUE,FALSE,78,25,44,338,367,Permanent,CFG,Dignified Choice,Select
+TRUE,FALSE,79,25,44,347,377,Permanent,CFG,Dignified Choice,Select
+TRUE,FALSE,80,25,44,356,386,Permanent,CFG,Dignified Choice,Select
+TRUE,FALSE,81,25,44,364,396,Permanent,CFG,Dignified Choice,Select
+FALSE,TRUE,56,25,44,75,157,Permanent,CFG,Dignified Choice,Elite
+FALSE,TRUE,57,25,44,78,164,Permanent,CFG,Dignified Choice,Elite
+FALSE,TRUE,58,25,44,80,171,Permanent,CFG,Dignified Choice,Elite
+FALSE,TRUE,59,25,44,83,179,Permanent,CFG,Dignified Choice,Elite
+FALSE,TRUE,60,25,44,86,184,Permanent,CFG,Dignified Choice,Elite
+FALSE,TRUE,61,25,44,89,192,Permanent,CFG,Dignified Choice,Elite
+FALSE,TRUE,62,25,44,92,199,Permanent,CFG,Dignified Choice,Elite
+FALSE,TRUE,63,25,44,95,206,Permanent,CFG,Dignified Choice,Elite
+FALSE,TRUE,64,25,44,98,212,Permanent,CFG,Dignified Choice,Elite
+FALSE,TRUE,65,25,44,101,218,Permanent,CFG,Dignified Choice,Elite
+FALSE,TRUE,66,25,44,104,224,Permanent,CFG,Dignified Choice,Elite
+FALSE,TRUE,67,25,44,107,233,Permanent,CFG,Dignified Choice,Elite
+FALSE,TRUE,68,25,44,110,239,Permanent,CFG,Dignified Choice,Elite
+FALSE,TRUE,69,25,44,113,248,Permanent,CFG,Dignified Choice,Elite
+FALSE,TRUE,70,25,44,116,253,Permanent,CFG,Dignified Choice,Elite
+FALSE,TRUE,71,25,44,120,261,Permanent,CFG,Dignified Choice,Elite
+FALSE,TRUE,72,25,44,123,268,Permanent,CFG,Dignified Choice,Elite
+FALSE,TRUE,73,25,44,127,276,Permanent,CFG,Dignified Choice,Elite
+FALSE,TRUE,74,25,44,130,282,Permanent,CFG,Dignified Choice,Elite
+FALSE,TRUE,75,25,44,134,290,Permanent,CFG,Dignified Choice,Elite
+FALSE,TRUE,76,25,44,137,296,Permanent,CFG,Dignified Choice,Elite
+FALSE,TRUE,77,25,44,141,301,Permanent,CFG,Dignified Choice,Elite
+FALSE,TRUE,78,25,44,144,308,Permanent,CFG,Dignified Choice,Elite
+FALSE,TRUE,79,25,44,148,315,Permanent,CFG,Dignified Choice,Elite
+FALSE,TRUE,80,25,44,152,322,Permanent,CFG,Dignified Choice,Elite
+FALSE,TRUE,81,25,44,155,328,Permanent,CFG,Dignified Choice,Elite
+FALSE,TRUE,56,25,44,158,173,Permanent,CFG,Dignified Choice,Select
+FALSE,TRUE,57,25,44,165,180,Permanent,CFG,Dignified Choice,Select
+FALSE,TRUE,58,25,44,172,188,Permanent,CFG,Dignified Choice,Select
+FALSE,TRUE,59,25,44,180,196,Permanent,CFG,Dignified Choice,Select
+FALSE,TRUE,60,25,44,185,202,Permanent,CFG,Dignified Choice,Select
+FALSE,TRUE,61,25,44,193,210,Permanent,CFG,Dignified Choice,Select
+FALSE,TRUE,62,25,44,200,218,Permanent,CFG,Dignified Choice,Select
+FALSE,TRUE,63,25,44,207,225,Permanent,CFG,Dignified Choice,Select
+FALSE,TRUE,64,25,44,213,232,Permanent,CFG,Dignified Choice,Select
+FALSE,TRUE,65,25,44,219,239,Permanent,CFG,Dignified Choice,Select
+FALSE,TRUE,66,25,44,225,246,Permanent,CFG,Dignified Choice,Select
+FALSE,TRUE,67,25,44,234,255,Permanent,CFG,Dignified Choice,Select
+FALSE,TRUE,68,25,44,240,262,Permanent,CFG,Dignified Choice,Select
+FALSE,TRUE,69,25,44,249,271,Permanent,CFG,Dignified Choice,Select
+FALSE,TRUE,70,25,44,254,278,Permanent,CFG,Dignified Choice,Select
+FALSE,TRUE,71,25,44,262,286,Permanent,CFG,Dignified Choice,Select
+FALSE,TRUE,72,25,44,269,294,Permanent,CFG,Dignified Choice,Select
+FALSE,TRUE,73,25,44,277,303,Permanent,CFG,Dignified Choice,Select
+FALSE,TRUE,74,25,44,283,310,Permanent,CFG,Dignified Choice,Select
+FALSE,TRUE,75,25,44,291,318,Permanent,CFG,Dignified Choice,Select
+FALSE,TRUE,76,25,44,297,325,Permanent,CFG,Dignified Choice,Select
+FALSE,TRUE,77,25,44,302,331,Permanent,CFG,Dignified Choice,Select
+FALSE,TRUE,78,25,44,309,338,Permanent,CFG,Dignified Choice,Select
+FALSE,TRUE,79,25,44,316,346,Permanent,CFG,Dignified Choice,Select
+FALSE,TRUE,80,25,44,322,353,Permanent,CFG,Dignified Choice,Select
+FALSE,TRUE,81,25,44,329,361,Permanent,CFG,Dignified Choice,Select
+TRUE,FALSE,56,45,85,75,178,Permanent,CFG,Dignified Choice,Elite
+TRUE,FALSE,57,45,85,78,184,Permanent,CFG,Dignified Choice,Elite
+TRUE,FALSE,58,45,85,80,191,Permanent,CFG,Dignified Choice,Elite
+TRUE,FALSE,59,45,85,83,198,Permanent,CFG,Dignified Choice,Elite
+TRUE,FALSE,60,45,85,86,204,Permanent,CFG,Dignified Choice,Elite
+TRUE,FALSE,61,45,85,89,211,Permanent,CFG,Dignified Choice,Elite
+TRUE,FALSE,62,45,85,92,218,Permanent,CFG,Dignified Choice,Elite
+TRUE,FALSE,63,45,85,95,225,Permanent,CFG,Dignified Choice,Elite
+TRUE,FALSE,64,45,85,98,233,Permanent,CFG,Dignified Choice,Elite
+TRUE,FALSE,65,45,85,101,240,Permanent,CFG,Dignified Choice,Elite
+TRUE,FALSE,66,45,85,104,247,Permanent,CFG,Dignified Choice,Elite
+TRUE,FALSE,67,45,85,107,255,Permanent,CFG,Dignified Choice,Elite
+TRUE,FALSE,68,45,85,110,263,Permanent,CFG,Dignified Choice,Elite
+TRUE,FALSE,69,45,85,113,270,Permanent,CFG,Dignified Choice,Elite
+TRUE,FALSE,70,45,85,116,278,Permanent,CFG,Dignified Choice,Elite
+TRUE,FALSE,71,45,85,120,286,Permanent,CFG,Dignified Choice,Elite
+TRUE,FALSE,72,45,85,123,294,Permanent,CFG,Dignified Choice,Elite
+TRUE,FALSE,73,45,85,127,303,Permanent,CFG,Dignified Choice,Elite
+TRUE,FALSE,74,45,85,130,311,Permanent,CFG,Dignified Choice,Elite
+TRUE,FALSE,75,45,85,134,320,Permanent,CFG,Dignified Choice,Elite
+TRUE,FALSE,76,45,85,137,328,Permanent,CFG,Dignified Choice,Elite
+TRUE,FALSE,77,45,85,141,337,Permanent,CFG,Dignified Choice,Elite
+TRUE,FALSE,78,45,85,144,346,Permanent,CFG,Dignified Choice,Elite
+TRUE,FALSE,79,45,85,148,355,Permanent,CFG,Dignified Choice,Elite
+TRUE,FALSE,80,45,85,152,364,Permanent,CFG,Dignified Choice,Elite
+TRUE,FALSE,81,45,85,155,373,Permanent,CFG,Dignified Choice,Elite
+TRUE,FALSE,56,45,85,179,189,Permanent,CFG,Dignified Choice,Select
+TRUE,FALSE,57,45,85,185,197,Permanent,CFG,Dignified Choice,Select
+TRUE,FALSE,58,45,85,192,203,Permanent,CFG,Dignified Choice,Select
+TRUE,FALSE,59,45,85,199,210,Permanent,CFG,Dignified Choice,Select
+TRUE,FALSE,60,45,85,205,217,Permanent,CFG,Dignified Choice,Select
+TRUE,FALSE,61,45,85,212,224,Permanent,CFG,Dignified Choice,Select
+TRUE,FALSE,62,45,85,219,232,Permanent,CFG,Dignified Choice,Select
+TRUE,FALSE,63,45,85,226,239,Permanent,CFG,Dignified Choice,Select
+TRUE,FALSE,64,45,85,234,247,Permanent,CFG,Dignified Choice,Select
+TRUE,FALSE,65,45,85,241,255,Permanent,CFG,Dignified Choice,Select
+TRUE,FALSE,66,45,85,247,263,Permanent,CFG,Dignified Choice,Select
+TRUE,FALSE,67,45,85,256,271,Permanent,CFG,Dignified Choice,Select
+TRUE,FALSE,68,45,85,264,279,Permanent,CFG,Dignified Choice,Select
+TRUE,FALSE,69,45,85,271,287,Permanent,CFG,Dignified Choice,Select
+TRUE,FALSE,70,45,85,279,296,Permanent,CFG,Dignified Choice,Select
+TRUE,FALSE,71,45,85,287,304,Permanent,CFG,Dignified Choice,Select
+TRUE,FALSE,72,45,85,295,313,Permanent,CFG,Dignified Choice,Select
+TRUE,FALSE,73,45,85,304,322,Permanent,CFG,Dignified Choice,Select
+TRUE,FALSE,74,45,85,312,331,Permanent,CFG,Dignified Choice,Select
+TRUE,FALSE,75,45,85,321,340,Permanent,CFG,Dignified Choice,Select
+TRUE,FALSE,76,45,85,329,349,Permanent,CFG,Dignified Choice,Select
+TRUE,FALSE,77,45,85,338,358,Permanent,CFG,Dignified Choice,Select
+TRUE,FALSE,78,45,85,347,367,Permanent,CFG,Dignified Choice,Select
+TRUE,FALSE,79,45,85,356,377,Permanent,CFG,Dignified Choice,Select
+TRUE,FALSE,80,45,85,365,386,Permanent,CFG,Dignified Choice,Select
+TRUE,FALSE,81,45,85,374,396,Permanent,CFG,Dignified Choice,Select
+TRUE,FALSE,56,45,85,190,207,Permanent,CFG,Dignified Choice,Advantage
+TRUE,FALSE,57,45,85,197,214,Permanent,CFG,Dignified Choice,Advantage
+TRUE,FALSE,58,45,85,204,222,Permanent,CFG,Dignified Choice,Advantage
+TRUE,FALSE,59,45,85,211,230,Permanent,CFG,Dignified Choice,Advantage
+TRUE,FALSE,60,45,85,218,238,Permanent,CFG,Dignified Choice,Advantage
+TRUE,FALSE,61,45,85,225,246,Permanent,CFG,Dignified Choice,Advantage
+TRUE,FALSE,62,45,85,233,254,Permanent,CFG,Dignified Choice,Advantage
+TRUE,FALSE,63,45,85,240,262,Permanent,CFG,Dignified Choice,Advantage
+TRUE,FALSE,64,45,85,248,270,Permanent,CFG,Dignified Choice,Advantage
+TRUE,FALSE,65,45,85,256,279,Permanent,CFG,Dignified Choice,Advantage
+TRUE,FALSE,66,45,85,264,288,Permanent,CFG,Dignified Choice,Advantage
+TRUE,FALSE,67,45,85,272,296,Permanent,CFG,Dignified Choice,Advantage
+TRUE,FALSE,68,45,85,280,305,Permanent,CFG,Dignified Choice,Advantage
+TRUE,FALSE,69,45,85,288,314,Permanent,CFG,Dignified Choice,Advantage
+TRUE,FALSE,70,45,85,297,324,Permanent,CFG,Dignified Choice,Advantage
+TRUE,FALSE,71,45,85,305,333,Permanent,CFG,Dignified Choice,Advantage
+TRUE,FALSE,72,45,85,314,342,Permanent,CFG,Dignified Choice,Advantage
+TRUE,FALSE,73,45,85,323,352,Permanent,CFG,Dignified Choice,Advantage
+TRUE,FALSE,74,45,85,332,362,Permanent,CFG,Dignified Choice,Advantage
+TRUE,FALSE,75,45,85,341,372,Permanent,CFG,Dignified Choice,Advantage
+TRUE,FALSE,76,45,85,350,382,Permanent,CFG,Dignified Choice,Advantage
+TRUE,FALSE,77,45,85,359,392,Permanent,CFG,Dignified Choice,Advantage
+TRUE,FALSE,78,45,85,368,402,Permanent,CFG,Dignified Choice,Advantage
+TRUE,FALSE,79,45,85,378,412,Permanent,CFG,Dignified Choice,Advantage
+TRUE,FALSE,80,45,85,387,423,Permanent,CFG,Dignified Choice,Advantage
+TRUE,FALSE,81,45,85,397,433,Permanent,CFG,Dignified Choice,Advantage
+TRUE,FALSE,56,45,85,208,216,Permanent,CFG,Dignified Choice,Security
+TRUE,FALSE,57,45,85,215,224,Permanent,CFG,Dignified Choice,Security
+TRUE,FALSE,58,45,85,223,232,Permanent,CFG,Dignified Choice,Security
+TRUE,FALSE,59,45,85,231,240,Permanent,CFG,Dignified Choice,Security
+TRUE,FALSE,60,45,85,239,248,Permanent,CFG,Dignified Choice,Security
+TRUE,FALSE,61,45,85,247,256,Permanent,CFG,Dignified Choice,Security
+TRUE,FALSE,62,45,85,255,265,Permanent,CFG,Dignified Choice,Security
+TRUE,FALSE,63,45,85,263,273,Permanent,CFG,Dignified Choice,Security
+TRUE,FALSE,64,45,85,271,282,Permanent,CFG,Dignified Choice,Security
+TRUE,FALSE,65,45,85,280,291,Permanent,CFG,Dignified Choice,Security
+TRUE,FALSE,66,45,85,289,300,Permanent,CFG,Dignified Choice,Security
+TRUE,FALSE,67,45,85,297,309,Permanent,CFG,Dignified Choice,Security
+TRUE,FALSE,68,45,85,306,318,Permanent,CFG,Dignified Choice,Security
+TRUE,FALSE,69,45,85,315,328,Permanent,CFG,Dignified Choice,Security
+TRUE,FALSE,70,45,85,325,338,Permanent,CFG,Dignified Choice,Security
+TRUE,FALSE,71,45,85,334,347,Permanent,CFG,Dignified Choice,Security
+TRUE,FALSE,72,45,85,343,357,Permanent,CFG,Dignified Choice,Security
+TRUE,FALSE,73,45,85,353,367,Permanent,CFG,Dignified Choice,Security
+TRUE,FALSE,74,45,85,363,377,Permanent,CFG,Dignified Choice,Security
+TRUE,FALSE,75,45,85,373,388,Permanent,CFG,Dignified Choice,Security
+TRUE,FALSE,76,45,85,383,398,Permanent,CFG,Dignified Choice,Security
+TRUE,FALSE,77,45,85,393,408,Permanent,CFG,Dignified Choice,Security
+TRUE,FALSE,78,45,85,403,419,Permanent,CFG,Dignified Choice,Security
+TRUE,FALSE,79,45,85,413,430,Permanent,CFG,Dignified Choice,Security
+TRUE,FALSE,80,45,85,424,441,Permanent,CFG,Dignified Choice,Security
+TRUE,FALSE,81,45,85,434,452,Permanent,CFG,Dignified Choice,Security
+FALSE,TRUE,56,45,85,75,162,Permanent,CFG,Dignified Choice,Elite
+FALSE,TRUE,57,45,85,78,168,Permanent,CFG,Dignified Choice,Elite
+FALSE,TRUE,58,45,85,80,176,Permanent,CFG,Dignified Choice,Elite
+FALSE,TRUE,59,45,85,83,184,Permanent,CFG,Dignified Choice,Elite
+FALSE,TRUE,60,45,85,86,189,Permanent,CFG,Dignified Choice,Elite
+FALSE,TRUE,61,45,85,89,197,Permanent,CFG,Dignified Choice,Elite
+FALSE,TRUE,62,45,85,92,204,Permanent,CFG,Dignified Choice,Elite
+FALSE,TRUE,63,45,85,95,211,Permanent,CFG,Dignified Choice,Elite
+FALSE,TRUE,64,45,85,98,218,Permanent,CFG,Dignified Choice,Elite
+FALSE,TRUE,65,45,85,101,224,Permanent,CFG,Dignified Choice,Elite
+FALSE,TRUE,66,45,85,104,230,Permanent,CFG,Dignified Choice,Elite
+FALSE,TRUE,67,45,85,107,239,Permanent,CFG,Dignified Choice,Elite
+FALSE,TRUE,68,45,85,110,246,Permanent,CFG,Dignified Choice,Elite
+FALSE,TRUE,69,45,85,113,254,Permanent,CFG,Dignified Choice,Elite
+FALSE,TRUE,70,45,85,116,260,Permanent,CFG,Dignified Choice,Elite
+FALSE,TRUE,71,45,85,120,268,Permanent,CFG,Dignified Choice,Elite
+FALSE,TRUE,72,45,85,123,275,Permanent,CFG,Dignified Choice,Elite
+FALSE,TRUE,73,45,85,127,284,Permanent,CFG,Dignified Choice,Elite
+FALSE,TRUE,74,45,85,130,290,Permanent,CFG,Dignified Choice,Elite
+FALSE,TRUE,75,45,85,134,298,Permanent,CFG,Dignified Choice,Elite
+FALSE,TRUE,76,45,85,137,304,Permanent,CFG,Dignified Choice,Elite
+FALSE,TRUE,77,45,85,141,310,Permanent,CFG,Dignified Choice,Elite
+FALSE,TRUE,78,45,85,144,317,Permanent,CFG,Dignified Choice,Elite
+FALSE,TRUE,79,45,85,148,324,Permanent,CFG,Dignified Choice,Elite
+FALSE,TRUE,80,45,85,152,331,Permanent,CFG,Dignified Choice,Elite
+FALSE,TRUE,81,45,85,155,338,Permanent,CFG,Dignified Choice,Elite
+FALSE,TRUE,56,45,85,163,173,Permanent,CFG,Dignified Choice,Select
+FALSE,TRUE,57,45,85,169,180,Permanent,CFG,Dignified Choice,Select
+FALSE,TRUE,58,45,85,177,188,Permanent,CFG,Dignified Choice,Select
+FALSE,TRUE,59,45,85,185,196,Permanent,CFG,Dignified Choice,Select
+FALSE,TRUE,60,45,85,190,202,Permanent,CFG,Dignified Choice,Select
+FALSE,TRUE,61,45,85,198,210,Permanent,CFG,Dignified Choice,Select
+FALSE,TRUE,62,45,85,205,218,Permanent,CFG,Dignified Choice,Select
+FALSE,TRUE,63,45,85,212,225,Permanent,CFG,Dignified Choice,Select
+FALSE,TRUE,64,45,85,219,232,Permanent,CFG,Dignified Choice,Select
+FALSE,TRUE,65,45,85,225,239,Permanent,CFG,Dignified Choice,Select
+FALSE,TRUE,66,45,85,231,246,Permanent,CFG,Dignified Choice,Select
+FALSE,TRUE,67,45,85,240,255,Permanent,CFG,Dignified Choice,Select
+FALSE,TRUE,68,45,85,247,262,Permanent,CFG,Dignified Choice,Select
+FALSE,TRUE,69,45,85,255,271,Permanent,CFG,Dignified Choice,Select
+FALSE,TRUE,70,45,85,261,278,Permanent,CFG,Dignified Choice,Select
+FALSE,TRUE,71,45,85,269,286,Permanent,CFG,Dignified Choice,Select
+FALSE,TRUE,72,45,85,276,294,Permanent,CFG,Dignified Choice,Select
+FALSE,TRUE,73,45,85,285,303,Permanent,CFG,Dignified Choice,Select
+FALSE,TRUE,74,45,85,291,310,Permanent,CFG,Dignified Choice,Select
+FALSE,TRUE,75,45,85,299,318,Permanent,CFG,Dignified Choice,Select
+FALSE,TRUE,76,45,85,305,325,Permanent,CFG,Dignified Choice,Select
+FALSE,TRUE,77,45,85,311,331,Permanent,CFG,Dignified Choice,Select
+FALSE,TRUE,78,45,85,318,338,Permanent,CFG,Dignified Choice,Select
+FALSE,TRUE,79,45,85,325,346,Permanent,CFG,Dignified Choice,Select
+FALSE,TRUE,80,45,85,332,353,Permanent,CFG,Dignified Choice,Select
+FALSE,TRUE,81,45,85,339,361,Permanent,CFG,Dignified Choice,Select
+FALSE,TRUE,56,45,85,174,191,Permanent,CFG,Dignified Choice,Advantage
+FALSE,TRUE,57,45,85,181,198,Permanent,CFG,Dignified Choice,Advantage
+FALSE,TRUE,58,45,85,189,207,Permanent,CFG,Dignified Choice,Advantage
+FALSE,TRUE,59,45,85,197,216,Permanent,CFG,Dignified Choice,Advantage
+FALSE,TRUE,60,45,85,203,223,Permanent,CFG,Dignified Choice,Advantage
+FALSE,TRUE,61,45,85,211,232,Permanent,CFG,Dignified Choice,Advantage
+FALSE,TRUE,62,45,85,219,240,Permanent,CFG,Dignified Choice,Advantage
+FALSE,TRUE,63,45,85,226,248,Permanent,CFG,Dignified Choice,Advantage
+FALSE,TRUE,64,45,85,233,255,Permanent,CFG,Dignified Choice,Advantage
+FALSE,TRUE,65,45,85,240,263,Permanent,CFG,Dignified Choice,Advantage
+FALSE,TRUE,66,45,85,247,271,Permanent,CFG,Dignified Choice,Advantage
+FALSE,TRUE,67,45,85,256,280,Permanent,CFG,Dignified Choice,Advantage
+FALSE,TRUE,68,45,85,263,288,Permanent,CFG,Dignified Choice,Advantage
+FALSE,TRUE,69,45,85,272,298,Permanent,CFG,Dignified Choice,Advantage
+FALSE,TRUE,70,45,85,279,306,Permanent,CFG,Dignified Choice,Advantage
+FALSE,TRUE,71,45,85,287,315,Permanent,CFG,Dignified Choice,Advantage
+FALSE,TRUE,72,45,85,295,323,Permanent,CFG,Dignified Choice,Advantage
+FALSE,TRUE,73,45,85,304,333,Permanent,CFG,Dignified Choice,Advantage
+FALSE,TRUE,74,45,85,311,341,Permanent,CFG,Dignified Choice,Advantage
+FALSE,TRUE,75,45,85,319,350,Permanent,CFG,Dignified Choice,Advantage
+FALSE,TRUE,76,45,85,326,358,Permanent,CFG,Dignified Choice,Advantage
+FALSE,TRUE,77,45,85,332,365,Permanent,CFG,Dignified Choice,Advantage
+FALSE,TRUE,78,45,85,339,373,Permanent,CFG,Dignified Choice,Advantage
+FALSE,TRUE,79,45,85,347,381,Permanent,CFG,Dignified Choice,Advantage
+FALSE,TRUE,80,45,85,354,390,Permanent,CFG,Dignified Choice,Advantage
+FALSE,TRUE,81,45,85,362,398,Permanent,CFG,Dignified Choice,Advantage
+FALSE,TRUE,56,45,85,192,200,Permanent,CFG,Dignified Choice,Security
+FALSE,TRUE,57,45,85,199,208,Permanent,CFG,Dignified Choice,Security
+FALSE,TRUE,58,45,85,208,217,Permanent,CFG,Dignified Choice,Security
+FALSE,TRUE,59,45,85,217,226,Permanent,CFG,Dignified Choice,Security
+FALSE,TRUE,60,45,85,224,233,Permanent,CFG,Dignified Choice,Security
+FALSE,TRUE,61,45,85,233,424,Permanent,CFG,Dignified Choice,Security
+FALSE,TRUE,62,45,85,241,251,Permanent,CFG,Dignified Choice,Security
+FALSE,TRUE,63,45,85,249,259,Permanent,CFG,Dignified Choice,Security
+FALSE,TRUE,64,45,85,256,267,Permanent,CFG,Dignified Choice,Security
+FALSE,TRUE,65,45,85,264,275,Permanent,CFG,Dignified Choice,Security
+FALSE,TRUE,66,45,85,272,283,Permanent,CFG,Dignified Choice,Security
+FALSE,TRUE,67,45,85,281,293,Permanent,CFG,Dignified Choice,Security
+FALSE,TRUE,68,45,85,289,301,Permanent,CFG,Dignified Choice,Security
+FALSE,TRUE,69,45,85,299,312,Permanent,CFG,Dignified Choice,Security
+FALSE,TRUE,70,45,85,307,320,Permanent,CFG,Dignified Choice,Security
+FALSE,TRUE,71,45,85,316,329,Permanent,CFG,Dignified Choice,Security
+FALSE,TRUE,72,45,85,324,338,Permanent,CFG,Dignified Choice,Security
+FALSE,TRUE,73,45,85,334,348,Permanent,CFG,Dignified Choice,Security
+FALSE,TRUE,74,45,85,342,356,Permanent,CFG,Dignified Choice,Security
+FALSE,TRUE,75,45,85,351,366,Permanent,CFG,Dignified Choice,Security
+FALSE,TRUE,76,45,85,359,374,Permanent,CFG,Dignified Choice,Security
+FALSE,TRUE,77,45,85,366,381,Permanent,CFG,Dignified Choice,Security
+FALSE,TRUE,78,45,85,374,390,Permanent,CFG,Dignified Choice,Security
+FALSE,TRUE,79,45,85,382,399,Permanent,CFG,Dignified Choice,Security
+FALSE,TRUE,80,45,85,391,408,Permanent,CFG,Dignified Choice,Security
+FALSE,TRUE,81,45,85,399,417,Permanent,CFG,Dignified Choice,Security
+TRUE,TRUE,57,18,44,79,198,Permanent,Phoenix,Remembrance,N/A
+TRUE,TRUE,58,18,44,81,207,Permanent,Phoenix,Remembrance,N/A
+TRUE,TRUE,59,18,44,84,212,Permanent,Phoenix,Remembrance,N/A
+TRUE,TRUE,60,18,44,87,220,Permanent,Phoenix,Remembrance,N/A
+TRUE,TRUE,61,18,44,90,227,Permanent,Phoenix,Remembrance,N/A
+TRUE,TRUE,62,18,44,93,234,Permanent,Phoenix,Remembrance,N/A
+TRUE,TRUE,63,18,44,96,241,Permanent,Phoenix,Remembrance,N/A
+TRUE,TRUE,64,18,44,99,250,Permanent,Phoenix,Remembrance,N/A
+TRUE,TRUE,65,18,44,102,257,Permanent,Phoenix,Remembrance,N/A
+TRUE,TRUE,66,18,44,105,262,Permanent,Phoenix,Remembrance,N/A
+TRUE,TRUE,67,18,44,109,272,Permanent,Phoenix,Remembrance,N/A
+TRUE,TRUE,68,18,44,112,279,Permanent,Phoenix,Remembrance,N/A
+TRUE,TRUE,69,18,44,115,288,Permanent,Phoenix,Remembrance,N/A
+TRUE,TRUE,70,18,44,118,298,Permanent,Phoenix,Remembrance,N/A
+TRUE,TRUE,71,18,44,122,306,Permanent,Phoenix,Remembrance,N/A
+TRUE,TRUE,72,18,44,125,314,Permanent,Phoenix,Remembrance,N/A
+TRUE,TRUE,73,18,44,129,322,Permanent,Phoenix,Remembrance,N/A
+TRUE,TRUE,74,18,44,132,330,Permanent,Phoenix,Remembrance,N/A
+TRUE,TRUE,75,18,44,136,338,Permanent,Phoenix,Remembrance,N/A
+TRUE,TRUE,76,18,44,140,345,Permanent,Phoenix,Remembrance,N/A
+TRUE,TRUE,77,18,44,143,352,Permanent,Phoenix,Remembrance,N/A
+TRUE,TRUE,78,18,44,147,365,Permanent,Phoenix,Remembrance,N/A
+TRUE,TRUE,79,18,44,151,370,Permanent,Phoenix,Remembrance,N/A
+TRUE,TRUE,80,18,44,155,378,Permanent,Phoenix,Remembrance,N/A
+TRUE,TRUE,57,45,80,79,212,Permanent,Phoenix,Remembrance,N/A
+TRUE,TRUE,58,45,80,81,219,Permanent,Phoenix,Remembrance,N/A
+TRUE,TRUE,59,45,80,84,223,Permanent,Phoenix,Remembrance,N/A
+TRUE,TRUE,60,45,80,87,234,Permanent,Phoenix,Remembrance,N/A
+TRUE,TRUE,61,45,80,90,242,Permanent,Phoenix,Remembrance,N/A
+TRUE,TRUE,62,45,80,93,246,Permanent,Phoenix,Remembrance,N/A
+TRUE,TRUE,63,45,80,96,259,Permanent,Phoenix,Remembrance,N/A
+TRUE,TRUE,64,45,80,99,266,Permanent,Phoenix,Remembrance,N/A
+TRUE,TRUE,65,45,80,102,273,Permanent,Phoenix,Remembrance,N/A
+TRUE,TRUE,66,45,80,105,281,Permanent,Phoenix,Remembrance,N/A
+TRUE,TRUE,67,45,80,109,292,Permanent,Phoenix,Remembrance,N/A
+TRUE,TRUE,68,45,80,112,300,Permanent,Phoenix,Remembrance,N/A
+TRUE,TRUE,69,45,80,115,313,Permanent,Phoenix,Remembrance,N/A
+TRUE,TRUE,70,45,80,118,320,Permanent,Phoenix,Remembrance,N/A
+TRUE,TRUE,71,45,80,122,327,Permanent,Phoenix,Remembrance,N/A
+TRUE,TRUE,72,45,80,125,336,Permanent,Phoenix,Remembrance,N/A
+TRUE,TRUE,73,45,80,129,343,Permanent,Phoenix,Remembrance,N/A
+TRUE,TRUE,74,45,80,132,353,Permanent,Phoenix,Remembrance,N/A
+TRUE,TRUE,75,45,80,136,363,Permanent,Phoenix,Remembrance,N/A
+TRUE,TRUE,76,45,80,140,374,Permanent,Phoenix,Remembrance,N/A
+TRUE,TRUE,77,45,80,143,384,Permanent,Phoenix,Remembrance,N/A
+TRUE,TRUE,78,45,80,147,395,Permanent,Phoenix,Remembrance,N/A
+TRUE,TRUE,79,45,80,151,406,Permanent,Phoenix,Remembrance,N/A
+TRUE,TRUE,80,45,80,155,413,Permanent,Phoenix,Remembrance,N/A
+TRUE,TRUE,53,14,44,0,166,Permanent,Transamerica,Preferred 0-44,N/A
+TRUE,TRUE,54,14,44,0,172,Permanent,Transamerica,Preferred 0-44,N/A
+TRUE,TRUE,55,14,44,0,179,Permanent,Transamerica,Preferred 0-44,N/A
+TRUE,TRUE,56,14,44,0,185,Permanent,Transamerica,Preferred 0-44,N/A
+TRUE,TRUE,57,14,44,0,192,Permanent,Transamerica,Preferred 0-44,N/A
+TRUE,TRUE,58,14,44,0,199,Permanent,Transamerica,Preferred 0-44,N/A
+TRUE,TRUE,59,14,44,0,206,Permanent,Transamerica,Preferred 0-44,N/A
+TRUE,TRUE,60,14,44,0,213,Permanent,Transamerica,Preferred 0-44,N/A
+TRUE,TRUE,61,14,44,0,220,Permanent,Transamerica,Preferred 0-44,N/A
+TRUE,TRUE,62,14,44,0,227,Permanent,Transamerica,Preferred 0-44,N/A
+TRUE,TRUE,63,14,44,0,234,Permanent,Transamerica,Preferred 0-44,N/A
+TRUE,TRUE,64,14,44,0,242,Permanent,Transamerica,Preferred 0-44,N/A
+TRUE,TRUE,65,14,44,0,250,Permanent,Transamerica,Preferred 0-44,N/A
+TRUE,TRUE,66,14,44,0,257,Permanent,Transamerica,Preferred 0-44,N/A
+TRUE,TRUE,67,14,44,0,265,Permanent,Transamerica,Preferred 0-44,N/A
+TRUE,TRUE,68,14,44,0,273,Permanent,Transamerica,Preferred 0-44,N/A
+TRUE,TRUE,69,14,44,0,281,Permanent,Transamerica,Preferred 0-44,N/A
+TRUE,TRUE,70,14,44,0,290,Permanent,Transamerica,Preferred 0-44,N/A
+TRUE,TRUE,71,14,44,0,298,Permanent,Transamerica,Preferred 0-44,N/A
+TRUE,TRUE,72,14,44,0,306,Permanent,Transamerica,Preferred 0-44,N/A
+TRUE,TRUE,73,14,44,0,315,Permanent,Transamerica,Preferred 0-44,N/A
+TRUE,TRUE,74,14,44,0,324,Permanent,Transamerica,Preferred 0-44,N/A
+TRUE,TRUE,75,14,44,0,333,Permanent,Transamerica,Preferred 0-44,N/A
+TRUE,TRUE,76,14,44,0,341,Permanent,Transamerica,Preferred 0-44,N/A
+TRUE,TRUE,77,14,44,0,350,Permanent,Transamerica,Preferred 0-44,N/A
+TRUE,TRUE,78,14,44,0,359,Permanent,Transamerica,Preferred 0-44,N/A
+TRUE,TRUE,79,14,44,0,369,Permanent,Transamerica,Preferred 0-44,N/A
+TRUE,TRUE,80,14,44,0,379,Permanent,Transamerica,Preferred 0-44,N/A
+TRUE,TRUE,81,14,44,0,387,Permanent,Transamerica,Preferred 0-44,N/A
+TRUE,TRUE,82,14,44,0,397,Permanent,Transamerica,Preferred 0-44,N/A
+TRUE,TRUE,83,14,44,0,407,Permanent,Transamerica,Preferred 0-44,N/A
+TRUE,TRUE,84,14,44,0,417,Permanent,Transamerica,Preferred 0-44,N/A
+TRUE,TRUE,53,14,44,0,184,Permanent,Transamerica,Standard 0-44,N/A
+TRUE,TRUE,54,14,44,0,191,Permanent,Transamerica,Standard 0-44,N/A
+TRUE,TRUE,55,14,44,0,198,Permanent,Transamerica,Standard 0-44,N/A
+TRUE,TRUE,56,14,44,0,205,Permanent,Transamerica,Standard 0-44,N/A
+TRUE,TRUE,57,14,44,0,213,Permanent,Transamerica,Standard 0-44,N/A
+TRUE,TRUE,58,14,44,0,220,Permanent,Transamerica,Standard 0-44,N/A
+TRUE,TRUE,59,14,44,0,228,Permanent,Transamerica,Standard 0-44,N/A
+TRUE,TRUE,60,14,44,0,236,Permanent,Transamerica,Standard 0-44,N/A
+TRUE,TRUE,61,14,44,0,244,Permanent,Transamerica,Standard 0-44,N/A
+TRUE,TRUE,62,14,44,0,252,Permanent,Transamerica,Standard 0-44,N/A
+TRUE,TRUE,63,14,44,0,260,Permanent,Transamerica,Standard 0-44,N/A
+TRUE,TRUE,64,14,44,0,268,Permanent,Transamerica,Standard 0-44,N/A
+TRUE,TRUE,65,14,44,0,277,Permanent,Transamerica,Standard 0-44,N/A
+TRUE,TRUE,66,14,44,0,285,Permanent,Transamerica,Standard 0-44,N/A
+TRUE,TRUE,67,14,44,0,294,Permanent,Transamerica,Standard 0-44,N/A
+TRUE,TRUE,68,14,44,0,303,Permanent,Transamerica,Standard 0-44,N/A
+TRUE,TRUE,69,14,44,0,312,Permanent,Transamerica,Standard 0-44,N/A
+TRUE,TRUE,70,14,44,0,321,Permanent,Transamerica,Standard 0-44,N/A
+TRUE,TRUE,71,14,44,0,330,Permanent,Transamerica,Standard 0-44,N/A
+TRUE,TRUE,72,14,44,0,339,Permanent,Transamerica,Standard 0-44,N/A
+TRUE,TRUE,73,14,44,0,349,Permanent,Transamerica,Standard 0-44,N/A
+TRUE,TRUE,74,14,44,0,359,Permanent,Transamerica,Standard 0-44,N/A
+TRUE,TRUE,75,14,44,0,369,Permanent,Transamerica,Standard 0-44,N/A
+TRUE,TRUE,76,14,44,0,378,Permanent,Transamerica,Standard 0-44,N/A
+TRUE,TRUE,77,14,44,0,388,Permanent,Transamerica,Standard 0-44,N/A
+TRUE,TRUE,78,14,44,0,398,Permanent,Transamerica,Standard 0-44,N/A
+TRUE,TRUE,79,14,44,0,408,Permanent,Transamerica,Standard 0-44,N/A
+TRUE,TRUE,80,14,44,0,419,Permanent,Transamerica,Standard 0-44,N/A
+TRUE,TRUE,81,14,44,0,429,Permanent,Transamerica,Standard 0-44,N/A
+TRUE,TRUE,82,14,44,0,440,Permanent,Transamerica,Standard 0-44,N/A
+TRUE,TRUE,83,14,44,0,451,Permanent,Transamerica,Standard 0-44,N/A
+TRUE,TRUE,84,14,44,0,462,Permanent,Transamerica,Standard 0-44,N/A
+TRUE,TRUE,53,14,18,80,192,Permanent,Transamerica,Graded,N/A
+TRUE,TRUE,54,14,18,80,199,Permanent,Transamerica,Graded,N/A
+TRUE,TRUE,55,14,18,80,207,Permanent,Transamerica,Graded,N/A
+TRUE,TRUE,56,14,18,80,214,Permanent,Transamerica,Graded,N/A
+TRUE,TRUE,57,14,18,80,222,Permanent,Transamerica,Graded,N/A
+TRUE,TRUE,58,14,18,80,230,Permanent,Transamerica,Graded,N/A
+TRUE,TRUE,59,14,18,80,238,Permanent,Transamerica,Graded,N/A
+TRUE,TRUE,60,14,18,80,246,Permanent,Transamerica,Graded,N/A
+TRUE,TRUE,61,14,18,80,254,Permanent,Transamerica,Graded,N/A
+TRUE,TRUE,62,14,18,80,263,Permanent,Transamerica,Graded,N/A
+TRUE,TRUE,63,14,18,0,271,Permanent,Transamerica,Graded,N/A
+TRUE,TRUE,64,14,18,0,280,Permanent,Transamerica,Graded,N/A
+TRUE,TRUE,65,14,18,0,289,Permanent,Transamerica,Graded,N/A
+TRUE,TRUE,66,14,18,0,298,Permanent,Transamerica,Graded,N/A
+TRUE,TRUE,67,14,18,0,307,Permanent,Transamerica,Graded,N/A
+TRUE,TRUE,68,14,18,0,316,Permanent,Transamerica,Graded,N/A
+TRUE,TRUE,69,14,18,0,325,Permanent,Transamerica,Graded,N/A
+TRUE,TRUE,70,14,18,0,335,Permanent,Transamerica,Graded,N/A
+TRUE,TRUE,71,14,18,0,344,Permanent,Transamerica,Graded,N/A
+TRUE,TRUE,72,14,18,0,354,Permanent,Transamerica,Graded,N/A
+TRUE,TRUE,73,14,18,0,364,Permanent,Transamerica,Graded,N/A
+TRUE,TRUE,74,14,18,0,374,Permanent,Transamerica,Graded,N/A
+TRUE,TRUE,75,14,18,0,385,Permanent,Transamerica,Graded,N/A
+TRUE,TRUE,76,14,18,0,395,Permanent,Transamerica,Graded,N/A
+TRUE,TRUE,77,14,18,0,405,Permanent,Transamerica,Graded,N/A
+TRUE,TRUE,78,14,18,0,416,Permanent,Transamerica,Graded,N/A
+TRUE,TRUE,79,14,18,0,426,Permanent,Transamerica,Graded,N/A
+TRUE,TRUE,80,14,18,0,437,Permanent,Transamerica,Graded,N/A
+TRUE,TRUE,81,14,18,0,448,Permanent,Transamerica,Graded,N/A
+TRUE,TRUE,82,14,18,0,459,Permanent,Transamerica,Graded,N/A
+TRUE,TRUE,83,14,18,0,470,Permanent,Transamerica,Graded,N/A
+TRUE,TRUE,84,14,18,0,482,Permanent,Transamerica,Graded,N/A
+TRUE,TRUE,56,0,200,74,201,Permanent,Foresters,PlanRight,Level
+TRUE,TRUE,57,0,200,77,208,Permanent,Foresters,PlanRight,Level
+TRUE,TRUE,58,0,200,80,215,Permanent,Foresters,PlanRight,Level
+TRUE,TRUE,59,0,200,83,222,Permanent,Foresters,PlanRight,Level
+TRUE,TRUE,60,0,200,86,229,Permanent,Foresters,PlanRight,Level
+TRUE,TRUE,61,0,200,89,237,Permanent,Foresters,PlanRight,Level
+TRUE,TRUE,62,0,200,92,246,Permanent,Foresters,PlanRight,Level
+TRUE,TRUE,63,0,200,95,253,Permanent,Foresters,PlanRight,Level
+TRUE,TRUE,64,0,200,98,260,Permanent,Foresters,PlanRight,Level
+TRUE,TRUE,65,0,200,101,268,Permanent,Foresters,PlanRight,Level
+TRUE,TRUE,66,0,200,104,275,Permanent,Foresters,PlanRight,Level
+TRUE,TRUE,67,0,200,107,284,Permanent,Foresters,PlanRight,Level
+TRUE,TRUE,68,0,200,110,292,Permanent,Foresters,PlanRight,Level
+TRUE,TRUE,69,0,200,113,299,Permanent,Foresters,PlanRight,Level
+TRUE,TRUE,70,0,200,117,308,Permanent,Foresters,PlanRight,Level
+TRUE,TRUE,71,0,200,121,316,Permanent,Foresters,PlanRight,Level
+TRUE,TRUE,72,0,200,125,325,Permanent,Foresters,PlanRight,Level
+TRUE,TRUE,73,0,200,129,333,Permanent,Foresters,PlanRight,Level
+TRUE,TRUE,74,0,200,133,341,Permanent,Foresters,PlanRight,Level
+TRUE,TRUE,75,0,200,137,349,Permanent,Foresters,PlanRight,Level
+TRUE,TRUE,76,0,200,142,357,Permanent,Foresters,PlanRight,Level
+TRUE,TRUE,77,0,200,147,365,Permanent,Foresters,PlanRight,Level
+TRUE,TRUE,78,0,200,152,373,Permanent,Foresters,PlanRight,Level
+TRUE,TRUE,79,0,200,159,381,Permanent,Foresters,PlanRight,Level
+TRUE,TRUE,80,0,200,162,389,Permanent,Foresters,PlanRight,Level
+TRUE,TRUE,81,0,200,167,397,Permanent,Foresters,PlanRight,Level
+TRUE,TRUE,56,0,200,74,216,Permanent,Foresters,PlanRight,Graded
+TRUE,TRUE,57,0,200,77,223,Permanent,Foresters,PlanRight,Graded
+TRUE,TRUE,58,0,200,80,230,Permanent,Foresters,PlanRight,Graded
+TRUE,TRUE,59,0,200,83,237,Permanent,Foresters,PlanRight,Graded
+TRUE,TRUE,60,0,200,86,245,Permanent,Foresters,PlanRight,Graded
+TRUE,TRUE,61,0,200,89,253,Permanent,Foresters,PlanRight,Graded
+TRUE,TRUE,62,0,200,92,262,Permanent,Foresters,PlanRight,Graded
+TRUE,TRUE,63,0,200,95,269,Permanent,Foresters,PlanRight,Graded
+TRUE,TRUE,64,0,200,98,278,Permanent,Foresters,PlanRight,Graded
+TRUE,TRUE,65,0,200,101,286,Permanent,Foresters,PlanRight,Graded
+TRUE,TRUE,66,0,200,104,294,Permanent,Foresters,PlanRight,Graded
+TRUE,TRUE,67,0,200,107,304,Permanent,Foresters,PlanRight,Graded
+TRUE,TRUE,68,0,200,110,313,Permanent,Foresters,PlanRight,Graded
+TRUE,TRUE,69,0,200,113,321,Permanent,Foresters,PlanRight,Graded
+TRUE,TRUE,70,0,200,117,330,Permanent,Foresters,PlanRight,Graded
+TRUE,TRUE,71,0,200,121,339,Permanent,Foresters,PlanRight,Graded
+TRUE,TRUE,72,0,200,125,348,Permanent,Foresters,PlanRight,Graded
+TRUE,TRUE,73,0,200,129,356,Permanent,Foresters,PlanRight,Graded
+TRUE,TRUE,74,0,200,133,366,Permanent,Foresters,PlanRight,Graded
+TRUE,TRUE,75,0,200,137,373,Permanent,Foresters,PlanRight,Graded
+TRUE,TRUE,76,0,200,142,382,Permanent,Foresters,PlanRight,Graded
+TRUE,TRUE,77,0,200,147,392,Permanent,Foresters,PlanRight,Graded
+TRUE,TRUE,78,0,200,152,406,Permanent,Foresters,PlanRight,Graded
+TRUE,TRUE,79,0,200,159,413,Permanent,Foresters,PlanRight,Graded
+TRUE,TRUE,80,0,200,162,421,Permanent,Foresters,PlanRight,Graded
+TRUE,TRUE,81,0,200,167,430,Permanent,Foresters,PlanRight,Graded
+TRUE,TRUE,56,0,200,74,232,Permanent,Foresters,PlanRight,Modified
+TRUE,TRUE,57,0,200,77,239,Permanent,Foresters,PlanRight,Modified
+TRUE,TRUE,58,0,200,80,246,Permanent,Foresters,PlanRight,Modified
+TRUE,TRUE,59,0,200,83,253,Permanent,Foresters,PlanRight,Modified
+TRUE,TRUE,60,0,200,86,262,Permanent,Foresters,PlanRight,Modified
+TRUE,TRUE,61,0,200,89,271,Permanent,Foresters,PlanRight,Modified
+TRUE,TRUE,62,0,200,92,280,Permanent,Foresters,PlanRight,Modified
+TRUE,TRUE,63,0,200,95,288,Permanent,Foresters,PlanRight,Modified
+TRUE,TRUE,64,0,200,98,297,Permanent,Foresters,PlanRight,Modified
+TRUE,TRUE,65,0,200,101,306,Permanent,Foresters,PlanRight,Modified
+TRUE,TRUE,66,0,200,104,315,Permanent,Foresters,PlanRight,Modified
+TRUE,TRUE,67,0,200,107,325,Permanent,Foresters,PlanRight,Modified
+TRUE,TRUE,68,0,200,110,334,Permanent,Foresters,PlanRight,Modified
+TRUE,TRUE,69,0,200,113,343,Permanent,Foresters,PlanRight,Modified
+TRUE,TRUE,70,0,200,117,353,Permanent,Foresters,PlanRight,Modified
+TRUE,TRUE,71,0,200,121,362,Permanent,Foresters,PlanRight,Modified
+TRUE,TRUE,72,0,200,125,372,Permanent,Foresters,PlanRight,Modified
+TRUE,TRUE,73,0,200,129,381,Permanent,Foresters,PlanRight,Modified
+TRUE,TRUE,74,0,200,133,391,Permanent,Foresters,PlanRight,Modified
+TRUE,TRUE,75,0,200,137,399,Permanent,Foresters,PlanRight,Modified
+TRUE,TRUE,76,0,200,142,409,Permanent,Foresters,PlanRight,Modified
+TRUE,TRUE,77,0,200,147,419,Permanent,Foresters,PlanRight,Modified
+TRUE,TRUE,78,0,200,152,434,Permanent,Foresters,PlanRight,Modified
+TRUE,TRUE,79,0,200,159,442,Permanent,Foresters,PlanRight,Modified
+TRUE,TRUE,80,0,200,162,450,Permanent,Foresters,PlanRight,Modified
+TRUE,TRUE,81,0,200,167,460,Permanent,Foresters,PlanRight,Modified
+TRUE,TRUE,18,0,9,5,19,Term,Foresters,Strong Foundation Term,N/A
+TRUE,TRUE,19,0,9,5,19,Term,Foresters,Strong Foundation Term,N/A
+TRUE,TRUE,20,0,9,5,19,Term,Foresters,Strong Foundation Term,N/A
+TRUE,TRUE,21,0,9,6,22,Term,Foresters,Strong Foundation Term,N/A
+TRUE,TRUE,22,0,9,7,24,Term,Foresters,Strong Foundation Term,N/A
+TRUE,TRUE,23,0,9,8,26,Term,Foresters,Strong Foundation Term,N/A
+TRUE,TRUE,24,0,9,9,28,Term,Foresters,Strong Foundation Term,N/A
+TRUE,TRUE,25,0,9,10,30,Term,Foresters,Strong Foundation Term,N/A
+TRUE,TRUE,26,0,9,11,32,Term,Foresters,Strong Foundation Term,N/A
+TRUE,TRUE,27,0,9,12,34,Term,Foresters,Strong Foundation Term,N/A
+TRUE,TRUE,28,0,9,13,36,Term,Foresters,Strong Foundation Term,N/A
+TRUE,TRUE,29,0,9,14,38,Term,Foresters,Strong Foundation Term,N/A
+TRUE,TRUE,30,0,9,16,41,Term,Foresters,Strong Foundation Term,N/A
+TRUE,TRUE,31,0,9,17,43,Term,Foresters,Strong Foundation Term,N/A
+TRUE,TRUE,32,0,9,18,45,Term,Foresters,Strong Foundation Term,N/A
+TRUE,TRUE,33,0,9,19,47,Term,Foresters,Strong Foundation Term,N/A
+TRUE,TRUE,34,0,9,21,49,Term,Foresters,Strong Foundation Term,N/A
+TRUE,TRUE,35,0,9,22,51,Term,Foresters,Strong Foundation Term,N/A
+TRUE,TRUE,36,0,9,23,53,Term,Foresters,Strong Foundation Term,N/A
+TRUE,TRUE,37,0,9,24,56,Term,Foresters,Strong Foundation Term,N/A
+TRUE,TRUE,38,0,9,26,59,Term,Foresters,Strong Foundation Term,N/A
+TRUE,TRUE,39,0,9,28,62,Term,Foresters,Strong Foundation Term,N/A
+TRUE,TRUE,40,0,9,29,64,Term,Foresters,Strong Foundation Term,N/A
+TRUE,TRUE,41,0,9,30,67,Term,Foresters,Strong Foundation Term,N/A
+TRUE,TRUE,42,0,9,32,70,Term,Foresters,Strong Foundation Term,N/A
+TRUE,TRUE,43,0,9,34,73,Term,Foresters,Strong Foundation Term,N/A
+TRUE,TRUE,44,0,9,35,75,Term,Foresters,Strong Foundation Term,N/A
+TRUE,TRUE,45,0,9,37,79,Term,Foresters,Strong Foundation Term,N/A
+TRUE,TRUE,46,0,9,39,83,Term,Foresters,Strong Foundation Term,N/A
+TRUE,TRUE,47,0,9,41,87,Term,Foresters,Strong Foundation Term,N/A
+TRUE,TRUE,48,0,9,42,89,Term,Foresters,Strong Foundation Term,N/A
+TRUE,TRUE,49,0,9,44,93,Term,Foresters,Strong Foundation Term,N/A
+TRUE,TRUE,50,0,9,46,97,Term,Foresters,Strong Foundation Term,N/A
+TRUE,TRUE,51,0,9,49,101,Term,Foresters,Strong Foundation Term,N/A
+TRUE,TRUE,52,0,9,51,105,Term,Foresters,Strong Foundation Term,N/A
+TRUE,TRUE,53,0,9,54,109,Term,Foresters,Strong Foundation Term,N/A
+TRUE,TRUE,54,0,9,56,113,Term,Foresters,Strong Foundation Term,N/A
+TRUE,TRUE,55,0,9,59,118,Term,Foresters,Strong Foundation Term,N/A
+TRUE,TRUE,56,0,9,61,122,Term,Foresters,Strong Foundation Term,N/A
+TRUE,TRUE,57,0,9,64,127,Term,Foresters,Strong Foundation Term,N/A
+TRUE,TRUE,58,0,9,66,131,Term,Foresters,Strong Foundation Term,N/A
+TRUE,TRUE,59,0,9,69,136,Term,Foresters,Strong Foundation Term,N/A
+TRUE,TRUE,60,0,9,71,140,Term,Foresters,Strong Foundation Term,N/A
+TRUE,TRUE,48,10,15,42,123,Term,Foresters,Strong Foundation Term,N/A
+TRUE,TRUE,49,10,15,43,127,Term,Foresters,Strong Foundation Term,N/A
+TRUE,TRUE,50,10,15,47,131,Term,Foresters,Strong Foundation Term,N/A
+TRUE,TRUE,51,10,15,49,136,Term,Foresters,Strong Foundation Term,N/A
+TRUE,TRUE,52,10,15,50,141,Term,Foresters,Strong Foundation Term,N/A
+TRUE,TRUE,53,10,15,57,142,Term,Foresters,Strong Foundation Term,N/A
+TRUE,TRUE,54,10,15,63,143,Term,Foresters,Strong Foundation Term,N/A
+TRUE,TRUE,55,10,15,66,147,Term,Foresters,Strong Foundation Term,N/A
+TRUE,TRUE,56,10,15,68,151,Term,Foresters,Strong Foundation Term,N/A
+TRUE,TRUE,57,10,15,71,154,Term,Foresters,Strong Foundation Term,N/A
+TRUE,TRUE,58,10,15,73,157,Term,Foresters,Strong Foundation Term,N/A
+TRUE,TRUE,59,10,15,73,161,Term,Foresters,Strong Foundation Term,N/A
+TRUE,TRUE,60,10,15,74,165,Term,Foresters,Strong Foundation Term,N/A
+TRUE,TRUE,61,10,15,77,169,Term,Foresters,Strong Foundation Term,N/A
+TRUE,TRUE,62,10,15,80,173,Term,Foresters,Strong Foundation Term,N/A
+TRUE,TRUE,63,10,15,86,179,Term,Foresters,Strong Foundation Term,N/A
+TRUE,TRUE,64,10,15,91,184,Term,Foresters,Strong Foundation Term,N/A
+TRUE,TRUE,65,10,15,94,189,Term,Foresters,Strong Foundation Term,N/A
+TRUE,TRUE,66,10,15,97,194,Term,Foresters,Strong Foundation Term,N/A
+TRUE,TRUE,67,10,15,101,199,Term,Foresters,Strong Foundation Term,N/A
+TRUE,TRUE,68,10,15,104,204,Term,Foresters,Strong Foundation Term,N/A
+TRUE,TRUE,69,10,15,107,210,Term,Foresters,Strong Foundation Term,N/A
+TRUE,TRUE,70,10,15,110,216,Term,Foresters,Strong Foundation Term,N/A
+TRUE,TRUE,71,10,15,114,221,Term,Foresters,Strong Foundation Term,N/A
+TRUE,TRUE,72,10,15,117,226,Term,Foresters,Strong Foundation Term,N/A
+TRUE,TRUE,73,10,15,121,231,Term,Foresters,Strong Foundation Term,N/A
+TRUE,TRUE,74,10,15,124,236,Term,Foresters,Strong Foundation Term,N/A
+TRUE,TRUE,75,10,15,128,241,Term,Foresters,Strong Foundation Term,N/A
+TRUE,TRUE,76,10,15,131,246,Term,Foresters,Strong Foundation Term,N/A
+TRUE,TRUE,56,18,80,0,185,Term,Foresters,Strong Foundation Term,Maximum Build Chart
+TRUE,TRUE,57,18,80,0,193,Term,Foresters,Strong Foundation Term,Maximum Build Chart
+TRUE,TRUE,58,18,80,0,198,Term,Foresters,Strong Foundation Term,Maximum Build Chart
+TRUE,TRUE,59,18,80,0,207,Term,Foresters,Strong Foundation Term,Maximum Build Chart
+TRUE,TRUE,60,18,80,0,212,Term,Foresters,Strong Foundation Term,Maximum Build Chart
+TRUE,TRUE,61,18,80,0,221,Term,Foresters,Strong Foundation Term,Maximum Build Chart
+TRUE,TRUE,62,18,80,0,225,Term,Foresters,Strong Foundation Term,Maximum Build Chart
+TRUE,TRUE,63,18,80,0,234,Term,Foresters,Strong Foundation Term,Maximum Build Chart
+TRUE,TRUE,64,18,80,0,243,Term,Foresters,Strong Foundation Term,Maximum Build Chart
+TRUE,TRUE,65,18,80,0,250,Term,Foresters,Strong Foundation Term,Maximum Build Chart
+TRUE,TRUE,66,18,80,0,259,Term,Foresters,Strong Foundation Term,Maximum Build Chart
+TRUE,TRUE,67,18,80,0,265,Term,Foresters,Strong Foundation Term,Maximum Build Chart
+TRUE,TRUE,68,18,80,0,274,Term,Foresters,Strong Foundation Term,Maximum Build Chart
+TRUE,TRUE,69,18,80,0,281,Term,Foresters,Strong Foundation Term,Maximum Build Chart
+TRUE,TRUE,70,18,80,0,292,Term,Foresters,Strong Foundation Term,Maximum Build Chart
+TRUE,TRUE,71,18,80,0,298,Term,Foresters,Strong Foundation Term,Maximum Build Chart
+TRUE,TRUE,72,18,80,0,307,Term,Foresters,Strong Foundation Term,Maximum Build Chart
+TRUE,TRUE,73,18,80,0,314,Term,Foresters,Strong Foundation Term,Maximum Build Chart
+TRUE,TRUE,74,18,80,0,325,Term,Foresters,Strong Foundation Term,Maximum Build Chart
+TRUE,TRUE,75,18,80,0,336,Term,Foresters,Strong Foundation Term,Maximum Build Chart
+TRUE,TRUE,76,18,80,0,342,Term,Foresters,Strong Foundation Term,Maximum Build Chart
+TRUE,TRUE,77,18,80,0,353,Term,Foresters,Strong Foundation Term,Maximum Build Chart
+TRUE,TRUE,78,18,80,0,360,Term,Foresters,Strong Foundation Term,Maximum Build Chart
+TRUE,TRUE,56,18,80,0,140,Term,Foresters,Strong Foundation Term,Standard Build Chart Non-Medical
+TRUE,TRUE,57,18,80,0,145,Term,Foresters,Strong Foundation Term,Standard Build Chart Non-Medical
+TRUE,TRUE,58,18,80,0,150,Term,Foresters,Strong Foundation Term,Standard Build Chart Non-Medical
+TRUE,TRUE,59,18,80,0,155,Term,Foresters,Strong Foundation Term,Standard Build Chart Non-Medical
+TRUE,TRUE,60,18,80,0,161,Term,Foresters,Strong Foundation Term,Standard Build Chart Non-Medical
+TRUE,TRUE,61,18,80,0,166,Term,Foresters,Strong Foundation Term,Standard Build Chart Non-Medical
+TRUE,TRUE,62,18,80,0,172,Term,Foresters,Strong Foundation Term,Standard Build Chart Non-Medical
+TRUE,TRUE,63,18,80,0,177,Term,Foresters,Strong Foundation Term,Standard Build Chart Non-Medical
+TRUE,TRUE,64,18,80,0,183,Term,Foresters,Strong Foundation Term,Standard Build Chart Non-Medical
+TRUE,TRUE,65,18,80,0,189,Term,Foresters,Strong Foundation Term,Standard Build Chart Non-Medical
+TRUE,TRUE,66,18,80,0,195,Term,Foresters,Strong Foundation Term,Standard Build Chart Non-Medical
+TRUE,TRUE,67,18,80,0,201,Term,Foresters,Strong Foundation Term,Standard Build Chart Non-Medical
+TRUE,TRUE,68,18,80,0,207,Term,Foresters,Strong Foundation Term,Standard Build Chart Non-Medical
+TRUE,TRUE,69,18,80,0,213,Term,Foresters,Strong Foundation Term,Standard Build Chart Non-Medical
+TRUE,TRUE,70,18,80,0,219,Term,Foresters,Strong Foundation Term,Standard Build Chart Non-Medical
+TRUE,TRUE,71,18,80,0,225,Term,Foresters,Strong Foundation Term,Standard Build Chart Non-Medical
+TRUE,TRUE,72,18,80,0,232,Term,Foresters,Strong Foundation Term,Standard Build Chart Non-Medical
+TRUE,TRUE,73,18,80,0,238,Term,Foresters,Strong Foundation Term,Standard Build Chart Non-Medical
+TRUE,TRUE,74,18,80,0,245,Term,Foresters,Strong Foundation Term,Standard Build Chart Non-Medical
+TRUE,TRUE,75,18,80,0,252,Term,Foresters,Strong Foundation Term,Standard Build Chart Non-Medical
+TRUE,TRUE,76,18,80,0,258,Term,Foresters,Strong Foundation Term,Standard Build Chart Non-Medical
+TRUE,TRUE,77,18,80,0,265,Term,Foresters,Strong Foundation Term,Standard Build Chart Non-Medical
+TRUE,TRUE,78,18,80,0,272,Term,Foresters,Strong Foundation Term,Standard Build Chart Non-Medical
+TRUE,TRUE,56,16,65,0,189,Term,CFG,Safe Shield Term,N/A
+TRUE,TRUE,57,16,65,0,196,Term,CFG,Safe Shield Term,N/A
+TRUE,TRUE,58,16,65,0,203,Term,CFG,Safe Shield Term,N/A
+TRUE,TRUE,59,16,65,0,210,Term,CFG,Safe Shield Term,N/A
+TRUE,TRUE,60,16,65,0,217,Term,CFG,Safe Shield Term,N/A
+TRUE,TRUE,61,16,65,0,224,Term,CFG,Safe Shield Term,N/A
+TRUE,TRUE,62,16,65,0,232,Term,CFG,Safe Shield Term,N/A
+TRUE,TRUE,63,16,65,0,239,Term,CFG,Safe Shield Term,N/A
+TRUE,TRUE,64,16,65,0,247,Term,CFG,Safe Shield Term,N/A
+TRUE,TRUE,65,16,65,0,255,Term,CFG,Safe Shield Term,N/A
+TRUE,TRUE,66,16,65,0,263,Term,CFG,Safe Shield Term,N/A
+TRUE,TRUE,67,16,65,0,271,Term,CFG,Safe Shield Term,N/A
+TRUE,TRUE,68,16,65,0,279,Term,CFG,Safe Shield Term,N/A
+TRUE,TRUE,69,16,65,0,287,Term,CFG,Safe Shield Term,N/A
+TRUE,TRUE,70,16,65,0,296,Term,CFG,Safe Shield Term,N/A
+TRUE,TRUE,71,16,65,0,304,Term,CFG,Safe Shield Term,N/A
+TRUE,TRUE,72,16,65,0,313,Term,CFG,Safe Shield Term,N/A
+TRUE,TRUE,73,16,65,0,322,Term,CFG,Safe Shield Term,N/A
+TRUE,TRUE,74,16,65,0,331,Term,CFG,Safe Shield Term,N/A
+TRUE,TRUE,75,16,65,0,340,Term,CFG,Safe Shield Term,N/A
+TRUE,TRUE,76,16,65,0,349,Term,CFG,Safe Shield Term,N/A
+TRUE,TRUE,77,16,65,0,358,Term,CFG,Safe Shield Term,N/A
+TRUE,TRUE,78,16,65,0,367,Term,CFG,Safe Shield Term,N/A
+TRUE,TRUE,79,16,65,0,377,Term,CFG,Safe Shield Term,N/A
+TRUE,TRUE,80,16,65,0,386,Term,CFG,Safe Shield Term,N/A
+TRUE,TRUE,81,16,65,0,396,Term,CFG,Safe Shield Term,N/A
+TRUE,TRUE,56,18,70,74,197,Term,Mutual of Omaha,Term Life Express,N/A
+TRUE,TRUE,57,18,70,77,202,Term,Mutual of Omaha,Term Life Express,N/A
+TRUE,TRUE,58,18,70,79,208,Term,Mutual of Omaha,Term Life Express,N/A
+TRUE,TRUE,59,18,70,82,214,Term,Mutual of Omaha,Term Life Express,N/A
+TRUE,TRUE,60,18,70,85,220,Term,Mutual of Omaha,Term Life Express,N/A
+TRUE,TRUE,61,18,70,88,226,Term,Mutual of Omaha,Term Life Express,N/A
+TRUE,TRUE,62,18,70,91,232,Term,Mutual of Omaha,Term Life Express,N/A
+TRUE,TRUE,63,18,70,94,238,Term,Mutual of Omaha,Term Life Express,N/A
+TRUE,TRUE,64,18,70,97,245,Term,Mutual of Omaha,Term Life Express,N/A
+TRUE,TRUE,65,18,70,100,251,Term,Mutual of Omaha,Term Life Express,N/A
+TRUE,TRUE,66,18,70,103,258,Term,Mutual of Omaha,Term Life Express,N/A
+TRUE,TRUE,67,18,70,106,265,Term,Mutual of Omaha,Term Life Express,N/A
+TRUE,TRUE,68,18,70,109,274,Term,Mutual of Omaha,Term Life Express,N/A
+TRUE,TRUE,69,18,70,112,282,Term,Mutual of Omaha,Term Life Express,N/A
+TRUE,TRUE,70,18,70,115,289,Term,Mutual of Omaha,Term Life Express,N/A
+TRUE,TRUE,71,18,70,119,298,Term,Mutual of Omaha,Term Life Express,N/A
+TRUE,TRUE,72,18,70,122,305,Term,Mutual of Omaha,Term Life Express,N/A
+TRUE,TRUE,73,18,70,126,313,Term,Mutual of Omaha,Term Life Express,N/A
+TRUE,TRUE,74,18,70,129,321,Term,Mutual of Omaha,Term Life Express,N/A
+TRUE,TRUE,75,18,70,133,329,Term,Mutual of Omaha,Term Life Express,N/A
+TRUE,TRUE,76,18,70,136,338,Term,Mutual of Omaha,Term Life Express,N/A
+TRUE,TRUE,77,18,70,140,347,Term,Mutual of Omaha,Term Life Express,N/A
+TRUE,TRUE,78,18,70,143,358,Term,Mutual of Omaha,Term Life Express,N/A
+TRUE,TRUE,79,18,70,147,367,Term,Mutual of Omaha,Term Life Express,N/A
+TRUE,TRUE,80,18,70,151,376,Term,Mutual of Omaha,Term Life Express,N/A
+TRUE,TRUE,81,18,70,154,385,Term,Mutual of Omaha,Term Life Express,N/A
+TRUE,TRUE,82,18,70,158,395,Term,Mutual of Omaha,Term Life Express,N/A
+TRUE,TRUE,56,18,70,0,170,Term,Mutual of Omaha,Term Life Express,N/A
+TRUE,TRUE,56,45,85,74,204,Term,Mutual of Omaha,Living Promise,Level Benefit
+TRUE,TRUE,57,45,85,77,209,Term,Mutual of Omaha,Living Promise,Level Benefit
+TRUE,TRUE,58,45,85,79,214,Term,Mutual of Omaha,Living Promise,Level Benefit
+TRUE,TRUE,59,45,85,82,220,Term,Mutual of Omaha,Living Promise,Level Benefit
+TRUE,TRUE,60,45,85,85,226,Term,Mutual of Omaha,Living Promise,Level Benefit
+TRUE,TRUE,61,45,85,88,233,Term,Mutual of Omaha,Living Promise,Level Benefit
+TRUE,TRUE,62,45,85,91,239,Term,Mutual of Omaha,Living Promise,Level Benefit
+TRUE,TRUE,63,45,85,94,246,Term,Mutual of Omaha,Living Promise,Level Benefit
+TRUE,TRUE,64,45,85,97,252,Term,Mutual of Omaha,Living Promise,Level Benefit
+TRUE,TRUE,65,45,85,100,259,Term,Mutual of Omaha,Living Promise,Level Benefit
+TRUE,TRUE,66,45,85,103,268,Term,Mutual of Omaha,Living Promise,Level Benefit
+TRUE,TRUE,67,45,85,106,275,Term,Mutual of Omaha,Living Promise,Level Benefit
+TRUE,TRUE,68,45,85,109,283,Term,Mutual of Omaha,Living Promise,Level Benefit
+TRUE,TRUE,69,45,85,112,291,Term,Mutual of Omaha,Living Promise,Level Benefit
+TRUE,TRUE,70,45,85,115,300,Term,Mutual of Omaha,Living Promise,Level Benefit
+TRUE,TRUE,71,45,85,119,307,Term,Mutual of Omaha,Living Promise,Level Benefit
+TRUE,TRUE,72,45,85,122,315,Term,Mutual of Omaha,Living Promise,Level Benefit
+TRUE,TRUE,73,45,85,126,322,Term,Mutual of Omaha,Living Promise,Level Benefit
+TRUE,TRUE,74,45,85,129,331,Term,Mutual of Omaha,Living Promise,Level Benefit
+TRUE,TRUE,75,45,85,133,339,Term,Mutual of Omaha,Living Promise,Level Benefit
+TRUE,TRUE,76,45,85,136,348,Term,Mutual of Omaha,Living Promise,Level Benefit
+TRUE,TRUE,77,45,85,140,357,Term,Mutual of Omaha,Living Promise,Level Benefit
+TRUE,TRUE,78,45,85,143,366,Term,Mutual of Omaha,Living Promise,Level Benefit
+TRUE,TRUE,79,45,85,147,375,Term,Mutual of Omaha,Living Promise,Level Benefit
+TRUE,TRUE,80,45,85,151,385,Term,Mutual of Omaha,Living Promise,Level Benefit
+TRUE,TRUE,81,45,85,154,395,Term,Mutual of Omaha,Living Promise,Level Benefit
+TRUE,TRUE,82,45,85,158,407,Term,Mutual of Omaha,Living Promise,Level Benefit
+TRUE,TRUE,56,45,80,74,221,Term,Mutual of Omaha,Living Promise,Graded Benefit
+TRUE,TRUE,57,45,80,77,225,Term,Mutual of Omaha,Living Promise,Graded Benefit
+TRUE,TRUE,58,45,80,79,231,Term,Mutual of Omaha,Living Promise,Graded Benefit
+TRUE,TRUE,59,45,80,82,237,Term,Mutual of Omaha,Living Promise,Graded Benefit
+TRUE,TRUE,60,45,80,85,244,Term,Mutual of Omaha,Living Promise,Graded Benefit
+TRUE,TRUE,61,45,80,88,250,Term,Mutual of Omaha,Living Promise,Graded Benefit
+TRUE,TRUE,62,45,80,91,257,Term,Mutual of Omaha,Living Promise,Graded Benefit
+TRUE,TRUE,63,45,80,94,264,Term,Mutual of Omaha,Living Promise,Graded Benefit
+TRUE,TRUE,64,45,80,97,270,Term,Mutual of Omaha,Living Promise,Graded Benefit
+TRUE,TRUE,65,45,80,100,277,Term,Mutual of Omaha,Living Promise,Graded Benefit
+TRUE,TRUE,66,45,80,103,285,Term,Mutual of Omaha,Living Promise,Graded Benefit
+TRUE,TRUE,67,45,80,106,293,Term,Mutual of Omaha,Living Promise,Graded Benefit
+TRUE,TRUE,68,45,80,109,300,Term,Mutual of Omaha,Living Promise,Graded Benefit
+TRUE,TRUE,69,45,80,112,309,Term,Mutual of Omaha,Living Promise,Graded Benefit
+TRUE,TRUE,70,45,80,115,316,Term,Mutual of Omaha,Living Promise,Graded Benefit
+TRUE,TRUE,71,45,80,119,325,Term,Mutual of Omaha,Living Promise,Graded Benefit
+TRUE,TRUE,72,45,80,122,333,Term,Mutual of Omaha,Living Promise,Graded Benefit
+TRUE,TRUE,73,45,80,126,340,Term,Mutual of Omaha,Living Promise,Graded Benefit
+TRUE,TRUE,74,45,80,129,349,Term,Mutual of Omaha,Living Promise,Graded Benefit
+TRUE,TRUE,75,45,80,133,358,Term,Mutual of Omaha,Living Promise,Graded Benefit
+TRUE,TRUE,76,45,80,136,367,Term,Mutual of Omaha,Living Promise,Graded Benefit
+TRUE,TRUE,77,45,80,140,376,Term,Mutual of Omaha,Living Promise,Graded Benefit
+TRUE,TRUE,78,45,80,143,385,Term,Mutual of Omaha,Living Promise,Graded Benefit
+TRUE,TRUE,79,45,80,147,394,Term,Mutual of Omaha,Living Promise,Graded Benefit
+TRUE,TRUE,80,45,80,151,405,Term,Mutual of Omaha,Living Promise,Graded Benefit
+TRUE,TRUE,81,45,80,154,415,Term,Mutual of Omaha,Living Promise,Graded Benefit
+TRUE,TRUE,82,45,80,158,427,Term,Mutual of Omaha,Living Promise,Graded Benefit
+TRUE,TRUE,56,18,65,74,197,Term,Mutual of Omaha,Guranteed Universal Life Express,N/A
+TRUE,TRUE,57,18,65,77,202,Term,Mutual of Omaha,Guranteed Universal Life Express,N/A
+TRUE,TRUE,58,18,65,79,208,Term,Mutual of Omaha,Guranteed Universal Life Express,N/A
+TRUE,TRUE,59,18,65,82,214,Term,Mutual of Omaha,Guranteed Universal Life Express,N/A
+TRUE,TRUE,60,18,65,85,220,Term,Mutual of Omaha,Guranteed Universal Life Express,N/A
+TRUE,TRUE,61,18,65,88,226,Term,Mutual of Omaha,Guranteed Universal Life Express,N/A
+TRUE,TRUE,62,18,65,91,232,Term,Mutual of Omaha,Guranteed Universal Life Express,N/A
+TRUE,TRUE,63,18,65,94,238,Term,Mutual of Omaha,Guranteed Universal Life Express,N/A
+TRUE,TRUE,64,18,65,97,245,Term,Mutual of Omaha,Guranteed Universal Life Express,N/A
+TRUE,TRUE,65,18,65,100,251,Term,Mutual of Omaha,Guranteed Universal Life Express,N/A
+TRUE,TRUE,66,18,65,103,258,Term,Mutual of Omaha,Guranteed Universal Life Express,N/A
+TRUE,TRUE,67,18,65,106,265,Term,Mutual of Omaha,Guranteed Universal Life Express,N/A
+TRUE,TRUE,68,18,65,109,274,Term,Mutual of Omaha,Guranteed Universal Life Express,N/A
+TRUE,TRUE,69,18,65,112,282,Term,Mutual of Omaha,Guranteed Universal Life Express,N/A
+TRUE,TRUE,70,18,65,115,289,Term,Mutual of Omaha,Guranteed Universal Life Express,N/A
+TRUE,TRUE,71,18,65,119,298,Term,Mutual of Omaha,Guranteed Universal Life Express,N/A
+TRUE,TRUE,72,18,65,122,305,Term,Mutual of Omaha,Guranteed Universal Life Express,N/A
+TRUE,TRUE,73,18,65,126,313,Term,Mutual of Omaha,Guranteed Universal Life Express,N/A
+TRUE,TRUE,74,18,65,129,321,Term,Mutual of Omaha,Guranteed Universal Life Express,N/A
+TRUE,TRUE,75,18,65,133,329,Term,Mutual of Omaha,Guranteed Universal Life Express,N/A
+TRUE,TRUE,76,18,65,136,338,Term,Mutual of Omaha,Guranteed Universal Life Express,N/A
+TRUE,TRUE,77,18,65,140,347,Term,Mutual of Omaha,Guranteed Universal Life Express,N/A
+TRUE,TRUE,78,18,65,143,358,Term,Mutual of Omaha,Guranteed Universal Life Express,N/A
+TRUE,TRUE,79,18,65,147,367,Term,Mutual of Omaha,Guranteed Universal Life Express,N/A
+TRUE,TRUE,80,18,65,151,376,Term,Mutual of Omaha,Guranteed Universal Life Express,N/A
+TRUE,TRUE,81,18,65,154,385,Term,Mutual of Omaha,Guranteed Universal Life Express,N/A
+TRUE,TRUE,82,18,65,158,395,Term,Mutual of Omaha,Guranteed Universal Life Express,N/A
+TRUE,TRUE,56,18,80,0,193,Term,Phoenix,Safe Harbor,N/A
+TRUE,TRUE,57,18,80,79,199,Term,Phoenix,Safe Harbor,N/A
+TRUE,TRUE,58,18,80,81,206,Term,Phoenix,Safe Harbor,N/A
+TRUE,TRUE,59,18,80,84,213,Term,Phoenix,Safe Harbor,N/A
+TRUE,TRUE,60,18,80,87,220,Term,Phoenix,Safe Harbor,N/A
+TRUE,TRUE,61,18,80,90,227,Term,Phoenix,Safe Harbor,N/A
+TRUE,TRUE,62,18,80,93,234,Term,Phoenix,Safe Harbor,N/A
+TRUE,TRUE,63,18,80,96,241,Term,Phoenix,Safe Harbor,N/A
+TRUE,TRUE,64,18,80,99,248,Term,Phoenix,Safe Harbor,N/A
+TRUE,TRUE,65,18,80,102,256,Term,Phoenix,Safe Harbor,N/A
+TRUE,TRUE,66,18,80,105,264,Term,Phoenix,Safe Harbor,N/A
+TRUE,TRUE,67,18,80,109,272,Term,Phoenix,Safe Harbor,N/A
+TRUE,TRUE,68,18,80,112,280,Term,Phoenix,Safe Harbor,N/A
+TRUE,TRUE,69,18,80,115,288,Term,Phoenix,Safe Harbor,N/A
+TRUE,TRUE,70,18,80,118,296,Term,Phoenix,Safe Harbor,N/A
+TRUE,TRUE,71,18,80,122,304,Term,Phoenix,Safe Harbor,N/A
+TRUE,TRUE,72,18,80,125,312,Term,Phoenix,Safe Harbor,N/A
+TRUE,TRUE,73,18,80,129,321,Term,Phoenix,Safe Harbor,N/A
+TRUE,TRUE,74,18,80,132,330,Term,Phoenix,Safe Harbor,N/A
+TRUE,TRUE,75,18,80,136,339,Term,Phoenix,Safe Harbor,N/A
+TRUE,TRUE,76,18,80,140,348,Term,Phoenix,Safe Harbor,N/A
+TRUE,TRUE,77,18,80,143,357,Term,Phoenix,Safe Harbor,N/A
+TRUE,TRUE,78,18,80,147,366,Term,Phoenix,Safe Harbor,N/A
+TRUE,TRUE,79,18,80,151,372,Term,Phoenix,Safe Harbor,N/A
+TRUE,TRUE,56,18,200,74,189,Term,NWL,Freedom Term Express,N/A
+TRUE,TRUE,57,18,200,77,192,Term,NWL,Freedom Term Express,N/A
+TRUE,TRUE,58,18,200,79,199,Term,NWL,Freedom Term Express,N/A
+TRUE,TRUE,59,18,200,82,206,Term,NWL,Freedom Term Express,N/A
+TRUE,TRUE,60,18,200,85,213,Term,NWL,Freedom Term Express,N/A
+TRUE,TRUE,61,18,200,88,220,Term,NWL,Freedom Term Express,N/A
+TRUE,TRUE,62,18,200,91,228,Term,NWL,Freedom Term Express,N/A
+TRUE,TRUE,63,18,200,94,235,Term,NWL,Freedom Term Express,N/A
+TRUE,TRUE,64,18,200,97,243,Term,NWL,Freedom Term Express,N/A
+TRUE,TRUE,65,18,200,100,250,Term,NWL,Freedom Term Express,N/A
+TRUE,TRUE,66,18,200,103,258,Term,NWL,Freedom Term Express,N/A
+TRUE,TRUE,67,18,200,106,266,Term,NWL,Freedom Term Express,N/A
+TRUE,TRUE,68,18,200,110,274,Term,NWL,Freedom Term Express,N/A
+TRUE,TRUE,69,18,200,112,282,Term,NWL,Freedom Term Express,N/A
+TRUE,TRUE,70,18,200,115,291,Term,NWL,Freedom Term Express,N/A
+TRUE,TRUE,71,18,200,119,299,Term,NWL,Freedom Term Express,N/A
+TRUE,TRUE,72,18,200,122,308,Term,NWL,Freedom Term Express,N/A
+TRUE,TRUE,73,18,200,126,316,Term,NWL,Freedom Term Express,N/A
+TRUE,TRUE,74,18,200,129,325,Term,NWL,Freedom Term Express,N/A
+TRUE,TRUE,75,18,200,133,334,Term,NWL,Freedom Term Express,N/A
+TRUE,TRUE,76,18,200,136,343,Term,NWL,Freedom Term Express,N/A
+TRUE,TRUE,77,18,200,140,352,Term,NWL,Freedom Term Express,N/A
+TRUE,TRUE,78,18,200,143,361,Term,NWL,Freedom Term Express,N/A
+TRUE,TRUE,79,18,200,147,371,Term,NWL,Freedom Term Express,N/A
+TRUE,TRUE,53,45,85,0,10000,Permanent,Transamerica,Preferred 45-85,N/A
+TRUE,TRUE,54,45,85,0,10000,Permanent,Transamerica,Preferred 45-85,N/A
+TRUE,TRUE,55,45,85,0,10000,Permanent,Transamerica,Preferred 45-85,N/A
+TRUE,TRUE,56,45,85,0,10000,Permanent,Transamerica,Preferred 45-85,N/A
+TRUE,TRUE,57,45,85,0,10000,Permanent,Transamerica,Preferred 45-85,N/A
+TRUE,TRUE,58,45,85,0,10000,Permanent,Transamerica,Preferred 45-85,N/A
+TRUE,TRUE,59,45,85,0,10000,Permanent,Transamerica,Preferred 45-85,N/A
+TRUE,TRUE,60,45,85,0,10000,Permanent,Transamerica,Preferred 45-85,N/A
+TRUE,TRUE,61,45,85,0,10000,Permanent,Transamerica,Preferred 45-85,N/A
+TRUE,TRUE,62,45,85,0,10000,Permanent,Transamerica,Preferred 45-85,N/A
+TRUE,TRUE,63,45,85,0,10000,Permanent,Transamerica,Preferred 45-85,N/A
+TRUE,TRUE,64,45,85,0,10000,Permanent,Transamerica,Preferred 45-85,N/A
+TRUE,TRUE,65,45,85,0,10000,Permanent,Transamerica,Preferred 45-85,N/A
+TRUE,TRUE,66,45,85,0,10000,Permanent,Transamerica,Preferred 45-85,N/A
+TRUE,TRUE,67,45,85,0,10000,Permanent,Transamerica,Preferred 45-85,N/A
+TRUE,TRUE,68,45,85,0,10000,Permanent,Transamerica,Preferred 45-85,N/A
+TRUE,TRUE,69,45,85,0,10000,Permanent,Transamerica,Preferred 45-85,N/A
+TRUE,TRUE,70,45,85,0,10000,Permanent,Transamerica,Preferred 45-85,N/A
+TRUE,TRUE,71,45,85,0,10000,Permanent,Transamerica,Preferred 45-85,N/A
+TRUE,TRUE,72,45,85,0,10000,Permanent,Transamerica,Preferred 45-85,N/A
+TRUE,TRUE,73,45,85,0,10000,Permanent,Transamerica,Preferred 45-85,N/A
+TRUE,TRUE,74,45,85,0,10000,Permanent,Transamerica,Preferred 45-85,N/A
+TRUE,TRUE,75,45,85,0,10000,Permanent,Transamerica,Preferred 45-85 ,N/A
+TRUE,TRUE,76,45,85,0,10000,Permanent,Transamerica,Preferred 45-85,N/A
+TRUE,TRUE,77,45,85,0,10000,Permanent,Transamerica,Preferred 45-85,N/A
+TRUE,TRUE,78,45,85,0,10000,Permanent,Transamerica,Preferred 45-85,N/A
+TRUE,TRUE,79,45,85,0,10000,Permanent,Transamerica,Preferred 45-85,N/A
+TRUE,TRUE,80,45,85,0,10000,Permanent,Transamerica,Preferred 45-85,N/A
+TRUE,TRUE,81,45,85,0,10000,Permanent,Transamerica,Preferred 45-85,N/A
+TRUE,TRUE,82,45,85,0,10000,Permanent,Transamerica,Preferred  45-85,N/A
+TRUE,TRUE,83,45,85,0,10000,Permanent,Transamerica,Preferred 45-85,N/A
+TRUE,TRUE,84,45,85,0,10000,Permanent,Transamerica,Preferred 45-85,N/A
+TRUE,TRUE,53,45,85,0,10000,Permanent,Transamerica,Standard 45-85,N/A
+TRUE,TRUE,54,45,85,0,10000,Permanent,Transamerica,Standard 45-85,N/A
+TRUE,TRUE,55,45,85,0,10000,Permanent,Transamerica,Standard 45-85,N/A
+TRUE,TRUE,56,45,85,0,10000,Permanent,Transamerica,Standard 45-85,N/A
+TRUE,TRUE,57,45,85,0,10000,Permanent,Transamerica,Standard 45-85,N/A
+TRUE,TRUE,58,45,85,0,10000,Permanent,Transamerica,Standard 45-85,N/A
+TRUE,TRUE,59,45,85,0,10000,Permanent,Transamerica,Standard 45-85,N/A
+TRUE,TRUE,60,45,85,0,10000,Permanent,Transamerica,Standard 45-85,N/A
+TRUE,TRUE,61,45,85,0,10000,Permanent,Transamerica,Standard 45-85,N/A
+TRUE,TRUE,62,45,85,0,10000,Permanent,Transamerica,Standard 45-85,N/A
+TRUE,TRUE,63,45,85,0,10000,Permanent,Transamerica,Standard  45-85,N/A
+TRUE,TRUE,64,45,85,0,10000,Permanent,Transamerica,Standard 45-85,N/A
+TRUE,TRUE,65,45,85,0,10000,Permanent,Transamerica,Standard 45-85,N/A
+TRUE,TRUE,66,45,85,0,10000,Permanent,Transamerica,Standard 45-85,N/A
+TRUE,TRUE,67,45,85,0,10000,Permanent,Transamerica,Standard 45-85,N/A
+TRUE,TRUE,68,45,85,0,10000,Permanent,Transamerica,Standard 45-85,N/A
+TRUE,TRUE,69,45,85,0,10000,Permanent,Transamerica,Standard 45-85,N/A
+TRUE,TRUE,70,45,85,0,10000,Permanent,Transamerica,Standard 45-85,N/A
+TRUE,TRUE,71,45,85,0,10000,Permanent,Transamerica,Standard 45-85 ,N/A
+TRUE,TRUE,72,45,85,0,10000,Permanent,Transamerica,Standard 45-85,N/A
+TRUE,TRUE,73,45,85,0,10000,Permanent,Transamerica,Standard 45-85,N/A
+TRUE,TRUE,74,45,85,0,10000,Permanent,Transamerica,Standard 45-85,N/A
+TRUE,TRUE,75,45,85,0,10000,Permanent,Transamerica,Standard 45-85,N/A
+TRUE,TRUE,76,45,85,0,10000,Permanent,Transamerica,Standard 45-85,N/A
+TRUE,TRUE,77,45,85,0,10000,Permanent,Transamerica,Standard 45-85,N/A
+TRUE,TRUE,78,45,85,0,10000,Permanent,Transamerica,Standard 45-85,N/A
+TRUE,TRUE,79,45,85,0,10000,Permanent,Transamerica,Standard 45-85,N/A
+TRUE,TRUE,80,45,85,0,10000,Permanent,Transamerica,Standard 45-85,N/A
+TRUE,TRUE,81,45,85,0,10000,Permanent,Transamerica,Standard 45-85,N/A
+TRUE,TRUE,82,45,85,0,10000,Permanent,Transamerica,Standard 45-85,N/A
+TRUE,TRUE,83,45,85,0,10000,Permanent,Transamerica,Standard  45-85,N/A
+TRUE,TRUE,0,18,70,0,1000,Accidental,Mutual of Omaha,Guarnteed Advantage,N/A
+TRUE,TRUE,0,40,80,0,1000,Permanent,Great Western,Guarnteed Assurance,N/A
+TRUE,TRUE,0,40,80,0,1000,Permanent,Great Western,Assurance Plus,N/A
+TRUE,TRUE,0,0,17,0,1000,Permanent,Mutual of Omaha,Children's Whole Life,N/A
+TRUE,TRUE,0,40,80,0,1000,Permanent,Kemper,Guarnteed Issue Whole Life,N/A
+TRUE,TRUE,0,50,80,0,1000,Permanent,AIG,Guarnteed Issue Whole Life,N/A
