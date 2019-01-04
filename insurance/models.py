@@ -40,6 +40,15 @@ class InsuranceProductBuild(models.Model):
   product2 = models.CharField(max_length=200, default='')
   product3 = models.CharField(max_length=200, default='')
 
+class MedicationCheck(models.Model):
+  medication = models.CharField(default="undefined" ,max_length=200)
+  time = models.CharField(default="undefined",max_length=200)
+  indication = models.CharField(default="undefined",max_length=200)
+  outcome = models.CharField(default="undefined",max_length=200)
+  carrier = models.CharField(default="undefined",max_length=200)
+  product2 = models.CharField(default="",max_length=200)
+  product3 = models.CharField(default="",max_length=200)
+
 
 class TopDeath(models.Model):
   Rank = models.IntegerField(default=0)

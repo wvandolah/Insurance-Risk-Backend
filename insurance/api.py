@@ -1,5 +1,5 @@
 from rest_framework import serializers
-from .models import PersonalMetric, HumanMetric, InsuranceProductBuild
+from .models import PersonalMetric, HumanMetric, InsuranceProductBuild, MedicationCheck
 
 class PersonalMetricSerializer(serializers.ModelSerializer):
   class Meta:
@@ -21,3 +21,8 @@ class InsuranceProductSerializer(serializers.ModelSerializer):
   class Meta:
     model = InsuranceProductBuild
     fields = ('carrier', 'product2', 'product3')
+
+class MedicationSerializer(serializers.ModelSerializer):
+  class Meta:
+    model = MedicationCheck
+    fields = ('medication', 'time', 'indication', 'outcome', 'carrier', 'product2', 'product3')
