@@ -63,7 +63,8 @@ def checkMed(request):
   return JsonResponse({'value': value})
 
 def delete():
-  hwa = InsuranceProductBuild.objects.filter(product3="N/A").update(product3="")
+  InsuranceProductBuild.objects.filter(product3="N/A").update(product3="")
+  InsuranceProductBuild.objects.filter(product2="N/A").update(product2="")
 # queries the insurance product table
 
 def build_query(age, height, weight, gender):
