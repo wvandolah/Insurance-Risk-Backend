@@ -1,0 +1,1147 @@
+Medication,Indication,Rx_Fill_Within,Benefit_Eligibility
+Abilify,Psychotic Disorder,N/A,Level
+Abraxane,Cancer,3 years,Modified
+Abraxane,Cancer,Current Use,No Coverage
+Accupril,Hypertension,N/A,Level
+Accupril,CHF,N/A,No Coverage
+Accuretic,Hypertension,N/A,Level
+Accuretic,CHF,N/A,No Coverage
+Acebutolol HCL,Hypertension,N/A,Level
+Acebutolol HCL,CHF,N/A,No Coverage
+Aceon,Hypertension,N/A,Level
+Aceon,CHF,N/A,No Coverage
+Acetyl L-Carnitine,Alzheimer’s,N/A,No Coverage
+Acetyl L-Carnitine,Dementia,N/A,No Coverage
+Actiq,Cancer Pain,3 years,Modified
+Actiq,Severe Pain,N/A,Level
+Activase,Stroke,2 years,Modified
+Activase,TIA,2 years,Modified
+Activase,Heart Attack,4 years,Modified
+Actoplus,Diabetes,N/A,Level
+Actoplus,Diabetic Nephropathy/Neuropathy,2 years,Modified
+Actos,Diabetes,N/A,Level
+Actos,Diabetic Nephropathy/Neuropathy,2 years,Modified
+Adalat,Hypertension,N/A,Level
+Adriamycin,Cancer,3 years,Modified
+Adriamycin,Cancer,Current Use,No Coverage
+Adrucil,Cancer,3 years,Modified
+Adrucil,Cancer,Current Use,No Coverage
+Advair,Asthma,N/A,Level
+Advair,COPD / Emphysema,N/A,Graded
+Afinitor,Cancer,3 years,Modified
+Afinitor,Cancer,Current Use,No Coverage
+Agenerase,AIDS,N/A,No Coverage
+Aggrastat,Heart Attack,2 years,Modified
+Aggrenox,Stroke,First Fill <2years,Modified
+Aggrenox,TIA,First Fill >2 years,Level
+Agrylin,Cancer,3 years,Modified
+Agrylin,Cancer,Current Use,No Coverage
+Akineton,Parkinson’s,N/A,Graded
+Akineton,Other Use,N/A,Level
+Albuterol,Asthma,N/A,Level
+Albuterol,COPD,N/A,Graded
+Aldactazide,Hypertension,N/A,Level
+Aldactazide,CHF,N/A,No Coverage
+Aldactone,Hypertension,N/A,Level
+Aldactone,CHF,N/A,No Coverage
+Aldomat,Hypertension,N/A,Level
+Alimta,Cancer,3 years,Modified
+Alimta,Cancer,Current Use,No Coverage
+Alkeran,Cancer,3 years,Modified
+Alkeran,Cancer,Current Use,No Coverage
+Allopurinol,Gout,N/A,Level
+Aloxi,Cancer,3 years,Modified
+Aloxi,Cancer,Current Use,No Coverage
+Alprazolam,Anxiety Disorder,N/A,Level
+Altace,Hypertension,N/A,Level
+Altace,CHF,N/A,No Coverage
+Amantadine HCL,Parkinson’s,N/A,Graded
+Amaryl,Diabetes,N/A,Level
+Amaryl,Diabetic Nephropathy/Neuropathy,2 years,Modified
+Ambisome,AIDS,N/A,No Coverage
+Amifostine,Cancer,3 years,Modified
+Amifostine,Cancer,Current Use,No Coverage
+Amiloride HCL,Hypertension,N/A,Level
+Amiloride HCL,CHF,N/A,No Coverage
+Amlodipine Besylate/Benaz,Hypertension,N/A,Level
+Amlodipine Besylate/Benaz,CHF,N/A,No Coverage
+Amyl Nitrate,Angina,2 years,Modified
+Amyl Nitrate,CHF,N/A,No Coverage
+Anagrelide HCL,Cancer,3 years,Modified
+Anagrelide HCL,Cancer,Current Use,No Coverage
+Angiomax,Circulatory Surgery,2 years,Modified
+Antabuse,Alcohol / Drugs,2 years,Modified
+Anastrozole,Cancer,First Fill <3years,Modified
+Anastrozole,Cancer,First Fill >3 years,Level
+Anoro Ellipta,COPD,N/A,Graded
+Anzemet,Cancer,3 years,Modified
+Anzemet,Cancer,Current Use,No Coverage
+Aptivus,AIDS,N/A,No Coverage
+Apokyn,Parkinson’s,N/A,Graded
+Apresoline,Hypertension,N/A,Level
+Apresoline,CHF,N/A,No Coverage
+Aranesp,Kidney Dialysis,1 year,No Coverage
+Aranesp,Kidney Disease/Failure,N/A,Graded
+Aranesp,Diabetic Nephropathy,2 years,Modified
+Arcapta Neohaler,COPD,N/A,Graded
+Aredia,Cancer,3 years,Modified
+Aredia,Cancer,Current Use,No Coverage
+Argatroban,Circulatory Surgery,2 years,Modified
+Aricept,Alzheimer’s,N/A,No Coverage
+Aricept,Dementia,N/A,No Coverage
+Arimidex,Cancer,First Fill <3years,Modified
+Arimidex,Cancer,First Fill >3 years,Level
+Aromasin,Cancer,First Fill <3years,Modified
+Aromasin,Cancer,First Fill >3 years,Level
+Arranon,Cancer,3 years,Modified
+Arranon,Cancer,Current Use,No Coverage
+Arsenic Trioxide,Cancer,3 years,Modified
+Arsenic Trioxide,Cancer,Current Use,No Coverage
+Arzerra,Cancer,3 years,Modified
+Arzerra,Cancer,Current Use,No Coverage
+Atacand,Hypertension,N/A,Level
+Atacand,CHF,N/A,No Coverage
+Atamet,Parkinson’s,N/A,Graded
+Atenolol,Hypertension,N/A,Level
+Atenolol,CHF,N/A,No Coverage
+Atgam,Organ / Tissue Transplant,N/A,No Coverage
+Ativan,Anxiety Disorder,N/A,Level
+Atripla,AIDS,N/A,No Coverage
+Atrovent/Atrovent HFA Atrovent (Nasal),COPD Allergies,N/A,Graded
+Atrovent/Atrovent HFA Atrovent (Nasal),COPD Allergies,N/A,Level
+Avalide,Hypertension,N/A,Level
+Avalide,CHF,N/A,No Coverage
+Avandia,Diabetes,N/A,Level
+Avandia,Diabetic Nephropathy/Neuropathy,2 years,Modified
+Avapro,Hypertension,N/A,Level
+Avapro,CHF,N/A,No Coverage
+Avastin,Cancer,3 years,Modified
+Avastin,Cancer,Current Use,No Coverage
+Avonex,Multiple Sclerosis,N/A,Level
+Azilect,Parkinson’s,N/A,Graded
+Azasan,Organ / Tissue Transplant Rheumatoid Arthritis Systemic Lupus,N/A,No Coverage
+Azasan,Organ / Tissue Transplant Rheumatoid Arthritis Systemic Lupus,N/A,Level
+Azasan,Organ / Tissue Transplant Rheumatoid Arthritis Systemic Lupus,N/A,Graded
+Azathioprine,Organ / Tissue Transplant Rheumatoid Arthritis Systemic Lupus,N/A,No Coverage
+Azathioprine,Organ / Tissue Transplant Rheumatoid Arthritis Systemic Lupus,N/A,Level
+Azathioprine,Organ / Tissue Transplant Rheumatoid Arthritis Systemic Lupus,N/A,Graded
+Azmacort,Asthma,N/A,Level
+Azmacort,COPD / Emphysema,N/A,Graded
+Azor,Hypertension,N/A,Level
+Azor,CHF,N/A,No Coverage
+Baclofen,Multiple Sclerosis,N/A,Level
+Baraclude,Liver Disorder,N/A,Graded
+Benazepril HCL,Hypertension,N/A,Level
+Benazepril HCL,CHF,N/A,No Coverage
+Benicar,Hypertension,N/A,Level
+Benicar,CHF,N/A,No Coverage
+Benlysta,Systemic Lupus,N/A,Graded
+Benztropine Mesylate,Parkinson’s,N/A,Graded
+Benztropine Mesylate,Other Use,N/A,Level
+Betapace,Heart Arrhythmia,N/A,Level
+Betapace,CHF,N/A,No Coverage
+Betaseron,Multiple Sclerosis,N/A,Level
+Betaxolol HCL,Hypertension,N/A,Level
+Betaxolol HCL,CHF,N/A,No Coverage
+Bexxar,Cancer,3 years,Modified
+Bexxar,Cancer,Current Use,No Coverage
+Bicnu,Cancer,3 years,Modified
+Bicnu,Cancer,Current Use,No Coverage
+BiDil,CHF,N/A,No Coverage
+Bisoprolol Fumarate,Hypertension,N/A,Level
+Bisoprolol Fumarate,CHF,N/A,No Coverage
+Blenoxane,Cancer,3 years,Modified
+Blenoxane,Cancer,Current Use,No Coverage
+Bleomycin Sulphate,Cancer,3 years,Modified
+Bleomycin Sulphate,Cancer,Current Use,No Coverage
+Blocadren,Hypertension,N/A,Level
+Blocadren,CHF,N/A,No Coverage
+Brevibloc,Hypertension,N/A,Level
+Brevibloc,CHF,N/A,No Coverage
+Brovana,COPD,N/A,Graded
+Breo Ellipta,COPD,N/A,Graded
+Bromocriptine Mesylate,Parkinson’s,N/A,Graded
+Bumetadine,Hypertension,N/A,Level
+Bumetadine,CHF,N/A,No Coverage
+Bumex,Hypertension,N/A,Level
+Bumex,CHF,N/A,No Coverage
+Buprenex,Alcohol / Drugs,2 years,Modified
+Busulflex,Cancer,3 years,Modified
+Busulflex,Cancer,Current Use,No Coverage
+Bystolic,Hypertension,N/A,Level
+Bystolic,CHF,N/A,No Coverage
+Calcijex,Kidney Dialysis,1 year,No Coverage
+Calcijex,Kidney Disease/Failure,N/A,Graded
+Calcijex,Diabetic Nephropathy,2 years,Modified
+Calcitriol,Kidney Dialysis,1 year,No Coverage
+Calcitriol,Kidney Disease/Failure,N/A,Graded
+Calcitriol,Diabetic Nephropathy,2 years,Modified
+Calcium Acetate,Kidney Dialysis,1 year,No Coverage
+Calcium Acetate,Kidney Disease/Failure,N/A,Graded
+Calcium Acetate,Diabetic Nephropathy,2 years,Modified
+Calan,Hypertension,N/A,Level
+Campath,Cancer,3 years,Modified
+Campath,Cancer,Current Use,No Coverage
+Campral,Alcohol / Drugs,2 years,Modified
+Camptosar,Cancer,3 years,Modified
+Camptosar,Cancer,Current Use,No Coverage
+Capoten,Hypertension,N/A,Level
+Capoten,CHF,N/A,No Coverage
+Capozide,Hypertension,N/A,Level
+Capozide,CHF,N/A,No Coverage
+Captopril,Hypertension,N/A,Level
+Captopril,CHF,N/A,No Coverage
+Carbamazepine,Seizures,N/A,Level
+Carbamazepine,Diabetic Neuropathy,2 years,Modified
+Carbatrol,Seizures,N/A,Level
+Carbatrol,Diabetic Neuropathy,2 years,Modified
+Carbidopa,Parkinson’s,N/A,Graded
+Carboplatin,Cancer,3 years,Modified
+Carboplatin,Cancer,Current Use,No Coverage
+Cardioplegic,Circulatory Surgery,2 years,Modified
+Cardizem,Hypertension,N/A,Level
+Cardura,Hypertension,N/A,Level
+Carnitor,Kidney Dialysis,1 year,No Coverage
+Carnitor,Kidney Disease/Failure,N/A,Graded
+Carnitor,Diabetic Nephropathy,2 years,Modified
+Cartia,Hypertension,N/A,Level
+Cartrol,Hypertension,N/A,Level
+Cartrol,CHF,N/A,No Coverage
+Carvedilol,Hypertension,N/A,Level
+Carvedilol,CHF,N/A,No Coverage
+Catapress,Hypertension,N/A,Level
+Casodex,Cancer,3 years,Modified
+Casodex,Cancer,Current Use,No Coverage
+CeeNu,Cancer,3 years,Modified
+CeeNu,Cancer,Current Use,No Coverage
+Celebrex,Arthritis,N/A,Level
+Cellcept,Organ / Tissue Transplant,N/A,No Coverage
+Cerubidine,Cancer,3 years,Modified
+Cerubidine,Cancer,Current Use,No Coverage
+Cesamet,Cancer,3 years,Modified
+Cesamet,Cancer,Current Use,No Coverage
+Chlorambucil,Cancer,3 years,Modified
+Chlorambucil,Cancer,Current Use,No Coverage
+Chlorpromazine,Psychotic Disorder,N/A,Level
+Cisplatin,Cancer,3 years,Modified
+Cisplatin,Cancer,Current Use,No Coverage
+Citalopram,Depressive Disorder,N/A,Level
+Cladribine,Cancer,3 years,Modified
+Cladribine,Cancer,Current Use,No Coverage
+Clolar,Cancer,3 years,Modified
+Clolar,Cancer,Current Use,No Coverage
+Clopidogrel,Stroke/TIA/Heart Attack,First Fill <2years,Modified
+Clopidogrel,Stroke/TIA/Heart Attack,First Fill >2 years,Level
+Cogentin,Parkinson’s,N/A,Graded
+Cogentin,Other Use,N/A,Level
+Cognex,Alzheimer’s/Dementia,N/A,No Coverage
+Combivent,COPD,N/A,Graded
+Combivir,AIDS,N/A,No Coverage
+Complera,AIDS,N/A,No Coverage
+Comtan,Parkinson’s,N/A,Graded
+Copaxone,Multiple Sclerosis,N/A,Level
+Copegus,Liver Disorder,N/A,Graded
+Cordarone,Arrythmia,N/A,Level
+Coreg,Hypertension,N/A,Level
+Coreg,CHF,N/A,No Coverage
+Corgard,Hypertension,N/A,Level
+Corgard,CHF,N/A,No Coverage
+Cosmegen,Cancer,3 years,Modified
+Cosmegen,Cancer,Current Use,No Coverage
+Coumadin,Cardiac Valve Replacement,2 years,Modified
+Coumadin,TIA/Stroke,2 years,Modified
+Coumadin,Pulmonary Embolism,N/A,Level
+Coumadin,Thrombosis,N/A,Level
+Cozaar,Hypertension,N/A,Level
+Cozaar,CHF,N/A,No Coverage
+Crixivan,AIDS,N/A,No Coverage
+Cyclophosphamide,Cancer,3 years,Modified
+Cyclophosphamide,Cancer,Current Use,No Coverage
+Cyclosporine,Organ / Tissue Transplant,N/A,No Coverage
+Cyclosporine Modified,Organ / Tissue Transplant,N/A,No Coverage
+Cystagon,Kidney Dialysis,1 year,No Coverage
+Cystagon,Kidney Disease/Failure,N/A,Graded
+Cystagon,Diabetic Nephropathy,2 years,Modified
+Cytarabine,Cancer,3 years,Modified
+Cytarabine,Cancer,Current Use,No Coverage
+Cytogam,Organ / Tissue Transplant,N/A,No Coverage
+Cytosar-U,Cancer,3 years,Modified
+Cytosar-U,Cancer,Current Use,No Coverage
+Cytovene,AIDS,N/A,No Coverage
+Cytoxan,Cancer,3 years,Modified
+Cytoxan,Cancer,Current Use,No Coverage
+Dacarbazine,Cancer,3 years,Modified
+Dacarbazine,Cancer,Current Use,No Coverage
+Dacogen,Cancer,3 years,Modified
+Dacogen,Cancer,Current Use,No Coverage
+Dactinomycin,Cancer,3 years,Modified
+Dactinomycin,Cancer,Current Use,No Coverage
+Daliresp,COPD,N/A,Graded
+Daunorubicin HCL,Cancer,3 years,Modified
+Daunorubicin HCL,Cancer,Current Use,No Coverage
+Daunoxome,Cancer,3 years,Modified
+Daunoxome,Cancer,Current Use,No Coverage
+Demadex,Hypertension,N/A,Level
+Demadex,CHF,N/A,No Coverage
+Depacon,Seizures,N/A,Level
+Depacon,Diabetic Neuropathy,2 years,Modified
+Depade,Alcohol / Drugs,2 years,Modified
+Depakene,Seizures,N/A,Level
+Depakene,Diabetic Neuropathy,2 years,Modified
+Depakote,Seizure Disorder,N/A,Level
+Depocyt,Cancer,3 years,Modified
+Depocyt,Cancer,Current Use,No Coverage
+Dexrazoxane,Cancer,3 years,Modified
+Dexrazoxane,Cancer,Current Use,No Coverage
+Diabeta,Diabetes,N/A,Level
+Diabeta,Diabetic Nephropathy/Neuropathy,2 years,Modified
+Diabinese,Diabetes,N/A,Level
+Diabinese,Diabetic Nephropathy/Neuropathy,2 years,Modified
+Diazoxide,Cancer,3 years,Modified
+Diazoxide,Cancer,Current Use,No Coverage
+Didanosine,AIDS,N/A,No Coverage
+Digitek,Atrial Fibrillation,N/A,Level
+Digitek,CHF,N/A,No Coverage
+Digoxin,Atrial Fibrillation,N/A,Level
+Digoxin,CHF,N/A,No Coverage
+Dilacor,Hypertension,N/A,Level
+Dilantin,Seizure Disorder,N/A,Level
+Dilatrate SR,Angina,2 years,Modified
+Dilatrate SR,CHF,N/A,No Coverage
+Dilor,Asthma,N/A,Level
+Dilor,COPD / Emphysema,N/A,Graded
+Diltiazem,Hypertension,N/A,Level
+Diovan,Hypertension,N/A,Level
+Diovan,CHF,N/A,No Coverage
+Disulfiram,Alcohol / Drugs,2 years,Modified
+Dolophine,Opioid Dependence,1 year,Modified
+Donepezil HCL,Alzheimer’s / Dementia,N/A,No Coverage
+Doxil,Cancer,3 years,Modified
+Doxil,Cancer,Current Use,No Coverage
+Doxorubicin HCL,Cancer,3 years,Modified
+Doxorubicin HCL,Cancer,Current Use,No Coverage
+Dronabinol,Cancer,3 years,Modified
+Dronabinol,Cancer,Current Use,No Coverage
+DTIC-Dome,Cancer,3 years,Modified
+DTIC-Dome,Cancer,Current Use,No Coverage
+Duoneb,COPD,N/A,Graded
+Dyazide,Hypertension,N/A,Level
+Dyazide,CHF,N/A,No Coverage
+Dynacirc,Hypertension,N/A,Level
+Dyrenium,Hypertension,N/A,Level
+Dyrenium,CHF,N/A,No Coverage
+Edecrin,Hypertension,N/A,Level
+Edecrin,CHF,N/A,No Coverage
+Edurant,AIDS,N/A,No Coverage
+Eldepryl,Parkinson’s,N/A,Graded
+Eligard,Cancer,3 years,Modified
+Eligard,Cancer,Current Use,No Coverage
+Eliphos,Kidney Dialysis,1 year,No Coverage
+Eliphos,Kidney Disease/Failure,N/A,Graded
+Eliphos,Diabetic Nephropathy,2 years,Modified
+Elitek,Cancer,3 years,Modified
+Elitek,Cancer,Current Use,No Coverage
+Ellence,Cancer,3 years,Modified
+Ellence,Cancer,Current Use,No Coverage
+Eloxatin,Cancer,3 years,Modified
+Eloxatin,Cancer,Current Use,No Coverage
+Elspar,Cancer,3 years,Modified
+Elspar,Cancer,Current Use,No Coverage
+Emcyt,Cancer,3 years,Modified
+Emcyt,Cancer,Current Use,No Coverage
+Emend,Cancer,3 years,Modified
+Emend,Cancer,Current Use,No Coverage
+Emtriva,AIDS,N/A,No Coverage
+Enalapril Maleate,Hypertension,N/A,Level
+Enalapril Maleate,CHF,N/A,No Coverage
+Enalaprilat,Hypertension,N/A,Level
+Enalaprilat,CHF,N/A,No Coverage
+Epitol,Seizures,N/A,Level
+Epitol,Diabetic Neuropathy,2 years,Modified
+Epivir,AIDS,N/A,No Coverage
+Epizicom,AIDS,N/A,No Coverage
+Eplerenone,CHF,N/A,No Coverage
+Erbitux,Cancer,3 years,Modified
+Erbitux,Cancer,Current Use,No Coverage
+Ergoloid Mesylates,Alzheimer’s / Dementia,N/A,No Coverage
+Eskalith,Bipolar Disorder,N/A,Level
+Esmolol HCL,Hypertension,N/A,Level
+Esmolol HCL,CHF,N/A,No Coverage
+Estinyl,Cancer,3 years,Modified
+Estinyl,Cancer,Current Use,No Coverage
+Ethyol,Cancer,3 years,Modified
+Ethyol,Cancer,Current Use,No Coverage
+Etopophos,Cancer,3 years,Modified
+Etopophos,Cancer,Current Use,No Coverage
+Etoposide,Cancer,3 years,Modified
+Etoposide,Cancer,Current Use,No Coverage
+Eulexin,Cancer,3 years,Modified
+Eulexin,Cancer,Current Use,No Coverage
+Evista,Cancer,3 years,Modified
+Evista,Cancer,Current Use,No Coverage
+Evista,Osteoporosis,N/A,Level
+Exelon,Alzheimer’s / Dementia,N/A,No Coverage
+Exforge,Hypertension,N/A,Level
+Exforge,CHF,N/A,No Coverage
+Fareston,Cancer,3 years,Modified
+Fareston,Cancer,Current Use,No Coverage
+Farxiga,Diabetes,N/A,Level
+Farxiga,Diabetic Nephropathy/Neuropathy,2 years,Modified
+Faslodex,Cancer,3 years,Modified
+Faslodex,Cancer,Current Use,No Coverage
+Felodipine,Hypertension,N/A,Level
+Femara,Cancer,First Fill <3years,Modified
+Femara,Cancer,First Fill >3 years,Level
+Fentanyl Citrate,Cancer Pain,3 years,Modified
+Fentanyl Citrate,Severe Pain,N/A,Level
+Fentora,Cancer Pain,3 years,Modified
+Fentora,Severe Pain,N/A,Level
+Floxuridine,Cancer,3 years,Modified
+Floxuridine,Cancer,Current Use,No Coverage
+Fludara,Cancer,3 years,Modified
+Fludara,Cancer,Current Use,No Coverage
+Fludarabine Phosphate,Cancer,3 years,Modified
+Fludarabine Phosphate,Cancer,Current Use,No Coverage
+Fluoxymesterone,Cancer,3 years,Modified
+Fluoxymesterone,Cancer,Current Use,No Coverage
+Flutamide,Cancer,3 years,Modified
+Flutamide,Cancer,Current Use,No Coverage
+Folotyn,Cancer,3 years,Modified
+Folotyn,Cancer,Current Use,No Coverage
+Fortamet,Diabetes,N/A,Level
+Fortamet,Diabetic Nephropathy/Neuropathy,2 years,Modified
+Fortovase,AIDS,N/A,No Coverage
+Foscarnet Sodium,AIDS,N/A,No Coverage
+Foscavir,AIDS,N/A,No Coverage
+Fosinopril Sodium,Hypertension,N/A,Level
+Fosinopril Sodium,CHF,N/A,No Coverage
+Fosrenol,Kidney Dialysis,1 year,No Coverage
+Fosrenol,Kidney Disease/Failure,N/A,Graded
+Fosrenol,Diabetic Nephropathy,2 years,Modified
+Fortesta,Cancer,3 years,Modified
+Fortesta,Cancer,Current Use,No Coverage
+FUDR,Cancer,3 years,Modified
+FUDR,Cancer,Current Use,No Coverage
+Furosemide,Hypertension,N/A,Level
+Furosemide,CHF,N/A,No Coverage
+Fusilev,Cancer,3 years,Modified
+Fusilev,Cancer,Current Use,No Coverage
+Fuzeon,AIDS,N/A,No Coverage
+Gabapentin,Seizures,N/A,Level
+Gabapentin,Diabetic Neuropathy,2 years,Modified
+Gabitril,Seizure Disorder,N/A,Level
+Galantamine,Alzheimer’s / Dementia,N/A,No Coverage
+Gallium Nitrate,Cancer,3 years,Modified
+Gallium Nitrate,Cancer,Current Use,No Coverage
+Ganciclovir,AIDS,N/A,No Coverage
+Ganite,Cancer,3 years,Modified
+Ganite,Cancer,Current Use,No Coverage
+Gemzar,Cancer,3 years,Modified
+Gemzar,Cancer,Current Use,No Coverage
+Gengraf,Organ / Tissue Transplant,N/A,No Coverage
+Gleevec,Cancer,3 years,Modified
+Gleevec,Cancer,Current Use,No Coverage
+Gliadel Wafer,Cancer,3 years,Modified
+Gliadel Wafer,Cancer,Current Use,No Coverage
+Glipizide,Diabetes,N/A,Level
+Glipizide,Diabetic Nephropathy/Neuropathy,2 years,Modified
+Glucophage,Diabetes,N/A,Level
+Glucophage,Diabetic Nephropathy/Neuropathy,2 years,Modified
+Glucotrol,Diabetes,N/A,Level
+Glucotrol,Diabetic Nephropathy/Neuropathy,2 years,Modified
+Glyburide,Diabetes,N/A,Level
+Glyburide,Diabetic Nephropathy/Neuropathy,2 years,Modified
+Glynase,Diabetes,N/A,Level
+Glynase,Diabetic Nephropathy/Neuropathy,2 years,Modified
+Granisetron HCL,Cancer,3 years,Modified
+Granisetron HCL,Cancer,Current Use,No Coverage
+Granisol,Cancer,3 years,Modified
+Granisol,Cancer,Current Use,No Coverage
+Halaven,Cancer,3 years,Modified
+Halaven,Cancer,Current Use,No Coverage
+Haldol,Psychotic Disorder,N/A,Level
+Haloperidol,Psychotic Disorder,N/A,Level
+Halotestin,Cancer,3 years,Modified
+Halotestin,Cancer,Current Use,No Coverage
+HCTZ,Hypertension,N/A,Level
+HCTZ/Triamterene,Hypertension,N/A,Level
+HCTZ/Triamterene,CHF,N/A,No Coverage
+Hectoral,Kidney Dialysis,1 year,No Coverage
+Hectoral,Kidney Disease/Failure,N/A,Graded
+Hectoral,Diabetic Nephropathy,2 years,Modified
+Heparin,Pulmonary Embolism,N/A,Level
+Heparin,Thrombosis,N/A,Level
+Hepsera,Liver Disorder,N/A,Graded
+Herceptin,Cancer,3 years,Modified
+Herceptin,Cancer,Current Use,No Coverage
+Hexalen,Cancer,3 years,Modified
+Hexalen,Cancer,Current Use,No Coverage
+Hivid,AIDS,N/A,No Coverage
+Humalog,Diabetes,N/A,Level
+Humalog,Diabetic Nephropathy/Neuropathy,2 years,Modified
+Humulin,Diabetes,N/A,Level
+Humulin,Diabetic Nephropathy/Neuropathy,2 years,Modified
+Hycamtin,Cancer,3 years,Modified
+Hycamtin,Cancer,Current Use,No Coverage
+Hydralazine HCL,Hypertension,N/A,Level
+Hydralazine HCL,CHF,N/A,No Coverage
+Hydrea,Cancer,3 years,Modified
+Hydrea,Cancer,Current Use,No Coverage
+Hydroxyurea,Cancer,3 years,Modified
+Hydroxyurea,Cancer,Current Use,No Coverage
+Hydergine,Alzheimer’s /Dementia,N/A,No Coverage
+Hydroxychloroquine,Systemic Lupus,N/A,Graded
+Hydroxychloroquine,Malaria,N/A,Level
+Hydroxychloroquine,Rheumatoid Arthritis,N/A,Level
+Hyperstat IV,Cancer,3 years,Modified
+Hyperstat IV,Cancer,Current Use,No Coverage
+Hytrin,Hypertension,N/A,Level
+Hyzaar,Hypertension,N/A,Level
+Hyzaar,CHF,N/A,No Coverage
+Idamycin PFS,Cancer,3 years,Modified
+Idamycin PFS,Cancer,Current Use,No Coverage
+Idarubicin,Cancer,3 years,Modified
+Idarubicin,Cancer,Current Use,No Coverage
+Ifex,Cancer,3 years,Modified
+Ifex,Cancer,Current Use,No Coverage
+Ifex/Mesnex Combo Pack,Cancer,3 years,Modified
+Ifex/Mesnex Combo Pack,Cancer,Current Use,No Coverage
+Ifosfamide,Cancer,3 years,Modified
+Ifosfamide,Cancer,Current Use,No Coverage
+Iletin,Diabetes,N/A,Level
+Iletin,Diabetic Nephropathy/Neuropathy,2 years,Modified
+Imdur,Angina,2 years,Modified
+Imdur,CHF,N/A,No Coverage
+Imuran,Organ / Tissue Transplant,N/A,No Coverage
+Imuran,Rheumatoid Arthritis,N/A,Level
+Imuran,Systemic Lupus,N/A,Graded
+Inamrinone,CHF,N/A,No Coverage
+Inderal,Hypertension,N/A,Level
+Inderal,CHF,N/A,No Coverage
+Inderide,Hypertension,N/A,Level
+Inderide,CHF,N/A,No Coverage
+Infergen,Liver Disorder,N/A,Graded
+Innopran XL,Hypertension,N/A,Level
+Innopran XL,CHF,N/A,No Coverage
+Inspra,CHF,N/A,No Coverage
+Insulin,Diabetes,N/A,Level
+Insulin,Diabetic Nephropathy/Neuropathy,2 years,Modified
+Intelence,AIDS,N/A,No Coverage
+Intron-A,Cancer,3 years,Modified
+Intron-A,Cancer,Current Use,No Coverage
+Intron-A,Hepatitis C,N/A,Graded
+Invirase,AIDS,N/A,No Coverage
+Invokana,Diabetes,N/A,Level
+Invokana,Diabetic Nephropathy/Neuropathy,2 years,Modified
+Ipratropium Bromide,COPD,N/A,Graded
+Ipratropium Bromide,Allergies,N/A,Level
+Iressa,Cancer,3 years,Modified
+Iressa,Cancer,Current Use,No Coverage
+Irinotecan,Cancer,3 years,Modified
+Irinotecan,Cancer,Current Use,No Coverage
+Ismo,Angina,2 years,Modified
+Ismo,CHF,N/A,No Coverage
+Isochron,Angina,2 years,Modified
+Isochron,CHF,N/A,No Coverage
+Isodax,Cancer,3 years,Modified
+Isodax,Cancer,Current Use,No Coverage
+Isoptin,Hypertension,N/A,Level
+Isordil,Angina,2 years,Modified
+Isordil,CHF,N/A,No Coverage
+Isosorbide Dinitrate/Mononitrate,Angina,2 years,Modified
+Isosorbide Dinitrate/Mononitrate,CHF,N/A,No Coverage
+Ixempra,Cancer,3 years,Modified
+Ixempra,Cancer,Current Use,No Coverage
+Janumet,Diabetes,N/A,Level
+Janumet,Diabetic Nephropathy/Neuropathy,2 years,Modified
+Januvia,Diabetes,N/A,Level
+Januvia,Diabetic Nephropathy/Neuropathy,2 years,Modified
+Jardiance,Diabetes,N/A,Level
+Jardiance,Diabetic Nephropathy/Neuropathy,2 years,Modified
+Jetvana,Cancer,3 years,Modified
+Jetvana,Cancer,Current Use,No Coverage
+Kaletra,AIDS,N/A,No Coverage
+Kemadrin,Parkinson’s,N/A,Graded
+Kemadrin,Other Use,N/A,Level
+Kepivance,Cancer,3 years,Modified
+Kepivance,Cancer,Current Use,No Coverage
+Kerlone,Hypertension,N/A,Level
+Kerlone,CHF,N/A,No Coverage
+Kytril,Cancer,3 years,Modified
+Kytril,Cancer,Current Use,No Coverage
+Labetaolol,Hypertension,N/A,Level
+Labetaolol,CHF,N/A,No Coverage
+Lamictal,Seizures,N/A,Level
+Lamictal,Diabetic Neuropathy,2 years,Modified
+Lamtrogine,Seizures,N/A,Level
+Lamtrogine,Diabetic Neuropathy,2 years,Modified
+Lanoxicaps,Atrial Fibrillation,N/A,Level
+Lanoxicaps,CHF,N/A,No Coverage
+Lanoxin,Atrial Fibrillation,N/A,Level
+Lanoxin,CHF,N/A,No Coverage
+Lantus,Diabetes,N/A,Level
+Lantus,Diabetic Nephropathy/Neuropathy,2 years,Modified
+Lasix,Hypertension,N/A,Level
+Lasix,CHF,N/A,No Coverage
+Larodopa,Parkinson’s,N/A,Graded
+Leucovorin Calcium,Cancer,3 years,Modified
+Leucovorin Calcium,Cancer,Current Use,No Coverage
+Leukeran,Cancer,3 years,Modified
+Leukeran,Cancer,Current Use,No Coverage
+Leukine,Cancer,3 years,Modified
+Leukine,Cancer,Current Use,No Coverage
+Leuprolide,Cancer,3 years,Modified
+Leuprolide,Cancer,Current Use,No Coverage
+Leustatin,Cancer,3 years,Modified
+Leustatin,Cancer,Current Use,No Coverage
+Levatol,Hypertension,N/A,Level
+Levatol,CHF,N/A,No Coverage
+Levodopa,Parkinson’s,N/A,Graded
+Levamisole HCL,Cancer,3 years,Modified
+Levamisole HCL,Cancer,Current Use,No Coverage
+Levemir,Diabetes,N/A,Level
+Levemir,Diabetic Nephropathy/Neuropathy,2 years,Modified
+Levocarnitine,Kidney Dialysis,1 year,No Coverage
+Levocarnitine,Kidney Disease/Failure,N/A,Graded
+Levocarnitine,Diabetic Nephropathy,2 years,Modified
+Lexiva,AIDS,N/A,No Coverage
+Lexxel,Hypertension,N/A,Level
+Lexxel,CHF,N/A,No Coverage
+Lipitor,Cholesterol,N/A,Level
+Lisinopril,Hypertension,N/A,Level
+Lisinopril,CHF,N/A,No Coverage
+Lithium,Bipolar Disorder,N/A,Level
+Lodosyn,Parkinson’s,N/A,Graded
+Lopressor,Hypertension,N/A,Level
+Losartan Potassium,Hypertension,N/A,Level
+Losartan Potassium,CHF,N/A,No Coverage
+Lotensin,Hypertension,N/A,Level
+Lotensin,CHF,N/A,No Coverage
+Lotrel,Hypertension,N/A,Level
+Lotrel,CHF,N/A,No Coverage
+Loxapine,Psychotic Disorder,N/A,Level
+Loxitane,Psychotic Disorder,N/A,Level
+Lozol,Hypertension,N/A,Level
+Lupron,Cancer,3 years,Modified
+Lupron,Cancer,Current Use,No Coverage
+Lyrica,Seizures,N/A,Level
+Lyrica,Diabetic Neuropathy,2 years,Modified
+Lysodren,Cancer,3 years,Modified
+Lysodren,Cancer,Current Use,No Coverage
+Lytensopril,Hypertension,N/A,Level
+Lytensopril,CHF,N/A,No Coverage
+Marinol,Cancer,3 years,Modified
+Marinol,Cancer,Current Use,No Coverage
+Matulane,Cancer,3 years,Modified
+Matulane,Cancer,Current Use,No Coverage
+Maxzide,Hypertension,N/A,Level
+Maxzide,CHF,N/A,No Coverage
+Mavik,Hypertension,N/A,Level
+Mavik,CHF,N/A,No Coverage
+Mellaril,Psychotic Disorder,N/A,Level
+Melphalan Hydrochloride,Cancer,3 years,Modified
+Melphalan Hydrochloride,Cancer,Current Use,No Coverage
+Mepron,AIDS,N/A,No Coverage
+Mercaptopurine,Cancer,3 years,Modified
+Mercaptopurine,Cancer,Current Use,No Coverage
+Mesna,Cancer,3 years,Modified
+Mesna,Cancer,Current Use,No Coverage
+Mesnex,Cancer,3 years,Modified
+Mesnex,Cancer,Current Use,No Coverage
+Metformin,Diabetes,N/A,Level
+Metformin,Diabetic Nephropathy/Neuropathy,2 years,Modified
+Methadone,Opioid Dependence,1 year,Modified
+Methadose,Opioid Dependence,1 year,Modified
+Methotrexate,Cancer,3 years,Modified
+Methotrexate,Cancer,Current Use,No Coverage
+Methotrexate,Rheumatoid Arthritis,N/A,Level
+Methyldopa,Hypertension,N/A,Level
+Metolazone,Hypertension,N/A,Level
+Metolazone,CHF,N/A,No Coverage
+Metoprolol Tartrate/Succinate,Hypertension,N/A,Level
+Metoprolol Tartrate/Succinate,CHF,N/A,No Coverage
+Metoprolol HCTZ,Hypertension,N/A,Level
+Metoprolol HCTZ,CHF,N/A,No Coverage
+Mevacor,Cholesterol,N/A,Level
+Micardis,Hypertension,N/A,Level
+Micardis,CHF,N/A,No Coverage
+Micronase,Diabetes,N/A,Level
+Micronase,Diabetic Nephropathy/Neuropathy,2 years,Modified
+Midamor,Hypertension,N/A,Level
+Midamor,CHF,N/A,No Coverage
+Milrinone,CHF,N/A,No Coverage
+Minipress,Hypertension,N/A,Level
+Minitran,Angina,2 years,Modified
+Minitran,CHF,N/A,No Coverage
+Mirapex,Parkinson’s,N/A,Graded
+Mirapex,Other Use,N/A,Level
+Mithracin,Cancer,3 years,Modified
+Mithracin,Cancer,Current Use,No Coverage
+Mitomycin,Cancer,3 years,Modified
+Mitomycin,Cancer,Current Use,No Coverage
+Mitoxantrone HCL,Cancer,3 years,Modified
+Mitoxantrone HCL,Cancer,Current Use,No Coverage
+Moban,Psychotic Disorder,N/A,Level
+Moduretic,Hypertension,N/A,Level
+Moduretic,CHF,N/A,No Coverage
+Moexipril HCL,Hypertension,N/A,Level
+Moexipril HCL,CHF,N/A,No Coverage
+Monoket,Angina,2 years,Modified
+Monoket,CHF,N/A,No Coverage
+Monopril,Hypertension,N/A,Level
+Monopril,CHF,N/A,No Coverage
+Mustargen,Cancer,3 years,Modified
+Mustargen,Cancer,Current Use,No Coverage
+Mutamycin,Cancer,3 years,Modified
+Mutamycin,Cancer,Current Use,No Coverage
+Mycobutin,AIDS,N/A,No Coverage
+Myfortic,Organ / Tissue Transplant,N/A,No Coverage
+Mykrok,Hypertension,N/A,Level
+Mykrok,CHF,N/A,No Coverage
+Myleran,Cancer,3 years,Modified
+Myleran,Cancer,Current Use,No Coverage
+Mylocel,Cancer,3 years,Modified
+Mylocel,Cancer,Current Use,No Coverage
+Mylotarg,Cancer,3 years,Modified
+Mylotarg,Cancer,Current Use,No Coverage
+Mysoline,Seizure Disorder,N/A,Level
+Nadolol,Hypertension ,N/A ,Level 
+Nadolol,CHF,N/A,No Coverage
+Namenda,Alzheimer’s /Dementia,N/A,No coverage
+Narcan,Alcohol / Drugs,2 years,Modified
+Naloxone,Alcohol / Drugs,2 years,Modified
+Naltrexone,Alcohol / Drugs,2 years,Modified
+Natrecor,CHF,N/A,No Coverage
+Navane,Psychotic Disorder,N/A,Level
+Navelbine,Cancer,3 years ,Modified 
+Navelbine,Cancer,Current Use,No Coverage
+Nebupent,AIDS,N/A,No coverage
+Neosar,Cancer,3 years ,Modified 
+Neosar,,Current Use,No Coverage
+Neulasta,Cancer,3 years Current Use,Modified
+Neumega,Cancer,3 years Current Use,No Coverage
+Neupro,Parkinson’s,N/A,Graded
+Neurontin,Seizures ,N/A ,Level 
+Neurontin,Diabetic Neuropathy,2 years,Modified
+Neutrexin,AIDS,N/A,No coverage
+Nexavar,Cancer,3 years,Modified
+Nexavar,Cancer, Current Use,No Coverage
+Nifedipine,Hypertension,N/A,Level
+Nilandron,Cancer,3 years,Modified
+Nimodipine,Stroke/TIA/Aneurysm,First Fill <2years ,Modified 
+Nimodipine,Stroke/TIA/Aneurysm, First Fill >2 years,Level
+Nimotop,Stroke/TIA/Aneurysm,First Fill <2years,Modified 
+Nimotop,Stroke/TIA/Aneurysm,First Fill >2 years,Level
+Nipent,Cancer,3 years,Modified
+Nipent,Cancer,Current Use,No Coverage
+Nitrek,Angina,2 years,Modified
+Nitrek,CHF,N/A,No Coverage
+Nitro-bid,Angina,2 years,Modified
+Nitro-bid,CHF, N/A, No Coverage
+Nitro-dur,Angina,2 years,Modified
+Nitro-dur,CHF,N/A,No Coverage
+Nitroglycerine/Nitrota b/Nitroquick/Nitrostat,Angina,2 years,Modified
+Nitroglycerine/Nitrota b/Nitroquick/Nitrostat,CHF,N/A,No Coverage
+Nitrol,Angina,2 years,Modified
+Nitrol,CHF,N/A,Coverage
+Nitromist,Angina,2 years,Modified
+Nitromist,CHF,N/A,No Coverage
+Nolvadex,Cancer,First Fill <3years,Modified
+Nolvadex,Cancer, First Fill >3 years,Level
+Normodyne,Hypertension,N/A,Level
+Normodyne,CHF,N/A ,No Coverage
+Norpace,Arrythmia,N/A,Level
+Norvasc,Hypertension,N/A,Level
+Norvir,AIDS,N/A,No coverage
+Novolin,Diabetes,N/A,Level
+Novolin,Diabetic Nephropathy/Neuropathy,2 years,Modified
+Novolog,Diabetes ,N/A,Level
+Novolog,Diabetic Nephropathy/Neuropathy,2 years,Level Modified
+Novanitrone,Cancer,3 years,Modified
+Novanitrone,Cancer,Current Use,No Coverage
+Noxafil,Cancer,3 years,Modified
+Noxafil,Cancer,Current Use,No Coverage
+Octreotide Acetate,Cancer,3 years,Modified
+Octreotide Acetate,Cancer,Current Use,No Coverage
+Oforta,Cancer,3 years,Modified
+Oforta,Cancer,Current Use,No Coverage
+Olanzapine,Psychotic Disorder,N/A,Level
+Olysio,Hepatitis C,N/A,Graded
+Omontys,Kidney Dialysis,1 year,No coverage
+Omontys,Kidney Disease/Failure,N/A,Graded
+Omontys,Diabetic Nephropathy,2 years,Modified
+Oncaspar,Cancer,3 years,Modified
+Oncaspar,Cancer,Current Use,No Coverage
+Ondansetron,Cancer,3 years,Modified
+Ondansetron,Cancer,Use,No Coverage
+Onsolis,Cancer Pain,3 years,Modified
+Onsolis,Severe Pain,N/A,Level
+Ontak,Cancer,3 years,Modified
+Ontak,Cancer,Current Use,No Coverage
+Onxol,Cancer,3 years,Modified
+Onxol,Cancer,Current Use,No Coverage
+Orthoclone OKT3,Organ / Tissue Transplant,N/A,No coverage
+Oseni,Diabetes,N/A,Level
+Oseni, Diabetic Nephropathy/Neuropathy,N/A 2 years,Modified
+Pacerone,Arrythmia,NA,Level
+Paclitaxel,Cancer,3 years,Modified
+Paclitaxel,Cancer,Current Use,No Coverage
+Pamidronate Disodium,Cancer,3 years,Modified
+Pamidronate Disodium,Cancer,Current Use,No Coverage
+Panretin,AIDS,N/A,No coverage
+Paraplatin,Cancer,3 years,Modified
+Paraplatin,Cancer,Current Use,No Coverage
+Parcopa,Parkinson’s,N/A,Graded
+Parlodel,Parkinson’s,N/A,Graded
+Paxil,Depressive Disorder,N/A,Level
+Pentam 300,AIDS,N/A,No coverage
+Pentamidine Isethionate,AIDS,N/A,No coverage
+Pentostatin,Cancer,3 years,Modified
+Pentostatin,Cancer,Current Use,No Coverage
+Pegasys,Liver Disorder,N/A,Graded
+Peg-Intron,Liver Disorder,N/A,Graded
+Pepcid,Stomach Disorder,N/A,Level
+Pergolide Mesylate,Parkinson’s,N/A,Graded
+Perindopril Erbumine,Hypertension,N/A,Level
+Perindopril Erbumine,CHF,N/A,No Coverage
+Permax,Parkinson’s,N/A,Graded
+Phenobarbital,Seizure Disorder,N/A,Level
+Phoslo,Kidney Dialysis,1 year,No coverage
+Phoslo,Kidney Disease/Failure,N/A,Graded
+Phoslo,Diabetic Nephropathy,2 years,Modified
+Photofrin,Cancer,3 years,Modified
+Photofrin,Cancer,Current Use,No Coverage
+Pindolol,Hypertensio,N/A,Level
+Pindolol,CHF,N/A,No Coverage
+Plaquenil,Systemic Lupus,N/A,Graded
+Plaquenil,Malaria,N/A,Level
+Plaquenil,Rheumatoid Arthritis,N/A,Level
+Platinol AQ,Cancer,3 years ,Modified
+Platinol AQ,Cancer,Current Use,No Coverage
+Plavix,Stroke/TIA/Heart Attack,First Fill <2years,Modified
+Plavix,Stroke/TIA/Heart Attack, First Fill >2 years,Level
+Plegisol,Circulatory Surgery,2 years,Modified
+Plenaxis,Cancer,3 years,Modified
+Plenaxis,Cancer,Current Use,No Coverage
+Plendil,Hypertension,N/A,Level
+Prandin,Diabetes,N/A,Level
+Prandin, Diabetic Nephropathy/Neuropathy,2 years,Modified
+Pravachol,Cholesterol,N/A,Level
+Prazosin,Hypertension,N/A,Level
+Prezista,AIDS,N/A,No coverage
+Primacor,CHF,N/A,No Coverage
+Prinivil,Hypertension,N/A,Level No
+Prinivil, CHF,N/A,Coverage
+Prinzide,Hypertension,N/A,Level
+Prinzide,CHF,N/A,No Coverage
+Procardia,Hypertension,N/A,Level
+Prograf,Organ / Tissue Transplant,N/A,No Coverage
+Proleukin,Cancer,3 years,Modified
+Proleukin,Cancer,Current Use,No Coverage
+Prolixin,Psychotic Disorder,N/A,Level
+Propanolol HCL,Hypertension,N/A,Level
+Propanolol HCL,CHF,N/A,No Coverage
+Provenge,Cancer,3 years,Modified
+Provenge,Cancer,Current Use,No Coverage
+Proventil,Asthma,N/A,Level Graded
+Proventil,COPD / Emphysema,N/A,Level Graded
+Prozac,Depressive Disorder,N/A,Level
+Purinethol,Cancer,3 years,Modified
+Purinethol,Cancer,Current Use,No Coverage
+Quadramet,Cancer,3 years,Modified
+Quadramet,Cancer,Current Use,No Coverage
+Quetiapine,Psychotic Disorder,N/A,Level
+Quinapril,Hypertension,N/A,Level
+Quinapril, CHF,N/A,No Coverage
+Quinaretic,Hypertension,N/A,Level No
+Quinaretic,CHF,N/A,Coverage
+Ramipril,Hypertension,N/A,Level
+Ramipril,CHF,N/A,No Coverage
+Ranexa,Angina,2 years,Modified
+Ranitidine,Stomach Disorder,N/A,Level
+Rapamune,Organ / Tissue Transplant,N/A,No Coverage
+Razadyne,Alzheimer’s / Dementia,N/A,No Coverage
+Rebetol,Liver Disorder,N/A,Graded
+Rebetron,Liver Disorder,N/A,Graded
+Rebif,Multiple Sclerosis,N/A,Level
+Reglan,Stomach Disorder,N/A,Level
+Requip,Parkinson’s,N/A,Graded Level
+Requip,Other Use,N/A,Graded Level
+Reminyl,Alzheimer’s / Dementia,N/A,No Coverage
+Renagel,Kidney Dialysis,1 year,No coverage
+Renagel,Kidney Disease/Failure,N/A,Graded
+Renagel,Diabetic Nephropathy,2 years,Modified
+Renvela,Kidney Dialysis,1 year,No coverage
+Renvela,Kidney Disease/Failure,N/A ,Graded
+Renvela,Diabetic Nephropathy,2 years,Modified
+Rescriptor,AIDS,N/A,No Coverage
+Retrovir,AIDS,N/A,No Coverage
+Revex,Alcohol / Drugs,2 years,Modified
+Revia,Alcohol / Drugs,2 years,Modified
+Revlimid,Cancer,3 years,Modified
+Revlimid,Cancer,Current Use,No Coverage
+Reyataz,AIDS,N/A,No Coverage
+Ribapak,Liver Disorder,N/A,Graded
+Ribasphere,Liver Disorder,N/A,Graded
+Ribatab,Liver Disorder,N/A,Graded
+Ribavirin,Liver Disorder,N/A,Graded
+Rilutek,ALS,N/A,No Coverage
+Risperdal,Psychotic Disorder,N/A,Level
+Risperidone,Psychotic Disorder,N/A,Level
+Rituxan,Cancer,3 years ,Modified
+Rituxan,Cancer,Current Use ,No Coverage
+Rituxan,Rheumatoid Arthritis,Use N/A,Level
+Rivastigmine Tartrate,Alzheimer’s / Dementia,N/A,No Coverage
+Rocaltrol,Kidney Dialysis,1 year,No coverage
+Rocaltrol,Kidney Disease/Failure,N/A,Graded
+Rocaltrol,Diabetic Nephropathy,2 years,Modified
+Roferon,Cancer,3 years,Modified
+Roferon,Cancer Hepatitis C,Current Use,No Coverage
+Roferon,Hepatitis C,N/A,Graded
+Ropinirole,Parkinson’s Other Use,N/A N/A,Graded Level
+Rubex,Cancer,3 years,Modified
+Rubex,Cancer,Current Use,No Coverage
+Rythmol,Arrythmia,N/A,Level
+Sancuso,Cancer,3 years,Modified
+Sancuso,Cancer,Current Use,No Coverage
+Sandimmune,Organ / Tissue Transplant,N/A,No Coverage
+Sandostatin,Cancer,3 years,Modified
+Sandostatin,Cancer,Current Use,No Coverage
+Sectral,Hypertension,N/A,Level
+Sectral,CHF,N/A,No Coverage
+Selegiline HCL,Parkinson’s,N/A,Graded
+Selzentry,AIDS,N/A,No Coverage
+Sensipar,Kidney Dialysis,1 year,No coverage
+Sensipar,Kidney Disease/Failure,N/A,Graded
+Sensipar,Diabetic Nephropathy,12 years,Modified
+Serevent,Asthma,N/A,Level
+Serevent,COPD / Emphysema,N/A,Graded
+Seroquel,Psychotic Disorder,N/A,Level
+Simvastatin,Cholesterol,N/A,Level
+Simulect,Organ / Tissue Transplant,N/A,No Coverage
+Sinemet/Sinemet CR,Parkinson’s,N/A,Graded
+Sodium Edecrin,Hypertension,N/A,Level
+Sodium Edecrin,CHF,N/A,No Coverage
+Soltalol Hydrochloride,Hypertension,N/A,Level
+Soltalol Hydrochloride,CHF,N/A,No Coverage
+Soltamox,Cancer,First Fill <3years,Modified
+Soltamox,Cancer,First Fill >3 years,Level
+Sorine,Hypertension,N/A,Level
+Sorine,CHF,N/A,No Coverage
+Sotalol HCL,Hypertension,N/A,Level
+Sotalol HCL,CHF,N/A,No Coverage
+Spiriva,COPD,N/A,Graded
+Spironolactone,Hypertension,N/A,Level
+Spironolactone,CHF,N/A,No Coverage
+Sprycel,Cancer,3 years,Modified
+Sprycel,Cancer,Current Use,No Coverage
+Stalevo,Parkinson’s,N/A,Graded
+Starlix,Diabetes,N/A,Level
+Starlix,Diabetic Nephropathy/Neuropathy,2 years,Modified
+Stilphostrol,Cancer,3 years,Modified
+Stilphostrol,Cancer,Current Use,No Coverage
+Striverdi Respimat,COPD,N/A,Graded
+Sublimaze,Cancer Pain,3 years,Modified
+Sublimaze,Severe Pain, N/A,Level
+Suboxone,Alcohol / Drugs,2 years,Modified
+Subutex,Alcohol / Drugs,2 years,Modified
+Sustiva,AIDS,N/A,No Coverage
+Sutent,Cancer,3 years,Modified
+Sutent,Cancer,Current Use,No Coverage
+Symbicort,Asthma,N/A,Level
+Symbicort,COPD / Emphysema,N/A,Graded
+Symmetrel,Parkinson’s,N/A,Graded
+Tabloid,Cancer,3 years,Modified
+Tabloid,Cancer,Current Use,No Coverage
+Tagamet,Stomach Disorder,N/A,Level
+Tambocor,Arrythmia,N/A,Level
+Tamoxifen,Cancer,First Fill <3years,Modified
+Tamoxifen,Cancer,First Fill >3 years,Level
+Tarceva,Cancer,3 years,Modified
+Tarceva,Cancer,Current Use,No Coverage
+Targretin,Cancer,3 years,Modified
+Targretin,Cancer,Current Use,No Coverage
+Tarka,Hypertension,N/A,Level
+Tarka,CHF,N/A,No Coverage
+Tasigna,Cancer,3 years,Modified
+Tasigna,Cancer,Current Use,No Coverage
+Tasmar,Parkinson’s,N/A,Graded
+Taxol,Cancer,3 years,Modified
+Taxol,Cancer,,No Coverage
+Taxotere,Cancer,3 years,Modified
+Taxotere,Cancer,Current Use,No Coverage
+Tegretol,Seizures Diabetic Neuropathy,N/A,Level
+Tegretol,Diabetic Neuropathy,2 years,Modified
+Temodar,Cancer,3 years,Modified
+Temodar,Cancer,Current Use,No Coverage
+Tenex,Hypertension,N/A,Level
+Tenoretic,Hypertension,N/A,Level
+Tenoretic,CHF,N/A,No Coverage
+Tenormin,Hypertension,N/A,Level
+Tenormin,CHF,N/A,No Coverage
+Teslac,Cancer,3 years,Modified
+Teslac,Cancer,,No Coverage
+Teveten,Hypertension,N/A,Level
+Teveten,CHF,N/A,No Coverage
+Thalomid,Cancer,3 years,Modified
+Thalomid,Cancer,Current Use,No Coverage
+Theodur,Asthma,N/A,Level
+Theodur,COPD / Emphysema,N/A,Graded
+Theophylline,Asthma,N/A,Level
+Theophylline,COPD / Emphysema,N/A,Graded
+Theracys,Cancer,3 years,Modified
+Theracys,Cancer,Current Use,No Coverage
+Thioplex,Cancer,3 years,Modified
+Thioplex,Cancer,Current Use,No Coverage
+Thioridazine,Psychotic Disorder,N/A,Level
+Thiotepa,Cancer,3 years,Modified
+Thiotepa,Cancer,Current Use,No Coverage
+Thiothixene,Psychotic Disorder,N/A,Level
+Thymoglobulin,Organ / Tissue Transplant,N/A,No Coverage
+Thorazine,Psychotic Disorder,N/A,Level
+Tiazac,Hypertension,N/A,Level
+Tice BCG,Cancer,3 years,Modified
+Tice BCG,Cancer,Current Use,No Coverage
+Ticlid,Stroke/TIA/Heart Attack,First Fill <2years,Modified
+Ticlid,Stroke/TIA/Heart Attack,First Fill >2 years,Level
+Tilade,Asthma,N/A,Level
+Tilade,COPD / Emphysema,N/A,Graded
+Timolide,Hypertension,N/A,Level
+Timolide, CHF,N/A,No Coverage
+Timolol Maleate,Hypertension,N/A,Level
+Timolol Maleate,CHF,N/A,No Coverage
+Tolazamide,Diabetes,N/A,Level
+Tolazamide,Diabetic Nephropathy/Neuropathy,2 years,Modified
+Tolbutamide,Diabetes,N/A,Level
+Tolbutamide, Diabetic Nephropathy/Neuropathy,2 years,Modified
+Tolinase,Diabetes,N/A,Level
+Tolinase, Diabetic Nephropathy/Neuropathy,2 years,Modified
+Toposar,Cancer,3 years,Modified
+Toposar,Cancer,Current Use,No Coverage
+Topotecan,Cancer,3 years,Modified
+Topotecan,Cancer,Current Use,No Coverage
+Totect,Cancer,3 years,Modified
+Totect,Cancer,Current Use,No Coverage
+Torisel,Cancer,3 years,Modified
+Torisel,Cancer,3Current Use,No Coverage
+Torsemide,Hypertension,N/A,Level
+Torsemide,CHF,N/A,No Coverage
+Toprol XL,Hypertension,N/A,Level
+Toprol XL,CHF,N/A,No Coverage
+Trandate,Hypertension,N/A,Level
+Trandate,CHF,N/A,No Coverage
+Trandolapril,Hypertension,N/A,Level
+Trandolapril,CHF,N/A,No Coverage
+Treanda,Cancer,3 years,Modified
+Treanda,Cancer,Current Use,No Coverage
+Trelstar,Cancer,3 years,Modified 
+Trelstar,Cancer,Current Use,No Coverage
+Tretinoin,Cancer,3 years,Modified
+Tretinoin,Cancer,Current Use,No Coverage
+Triamterene,Hypertension,N/A,Level
+Triamterene, CHF,N/A,No Coverage
+Triamterene/HCTZ,Hypertension,N/A,Level
+Triamterene/HCTZ,CHF,N/A,No Coverage
+Tribenzor,Hypertension CHF,N/A,Level No Coverage
+Trisenox,Cancer,3 years Current Use,Modified No Coverage
+Trihexyphenidyl HCL,Parkinson’s Other Use,N/A,Graded Level
+Trizivir,AIDS,N/A,No Coverage
+Truvada,AIDS,N/A,No Coverage
+Twynsta,Hypertension CHF,N/A,Level No Coverage
+Tykerb,Cancer,3 years Current Use,Modified No Coverage
+Tyzeka,Liver Disorder,N/A,Graded
+Uniretic,Hypertension CHF,N/A,Level No Coverage
+Univasc,Hypertension CHF,N/A,Level No Coverage
+Uvadex,Cancer,3 years Current Use,Modified No Coverage
+Valcyte,AIDS,N/A,No Coverage
+Valproic Acid,Seizures,N/A,Level
+Valproic Acid, Diabetic Neuropathy,,Modified
+Valstar,Cancer,3 years,Modified
+Valstar,Cancer,Current Use,No Coverage
+Valturna,Hypertension,N/A,Level
+Valturna,CHF,N/A,No Coverage
+Vascor,Angina,2 years,Modified
+Vaseretic,Hypertension,N/A,Level
+Vaseretic,CHF,N/A,No Coverage
+Vasotec,Hypertension,N/A,Level
+Vasotec,CHF,N/A,No Coverage
+Velcade,Cancer,3 years,Modified
+Velcade,Cancer,Current Use,No Coverage
+Ventolin,Asthma,N/A,Level
+Ventolin,COPD / Emphysema,N/A,Graded
+Vepisid,Cancer,3 years,Modified
+Vepisid,Cancer,Current Use,No Coverage
+Verapamil,Hypertension,N/A,Level
+Vesanoid,Cancer,3 years,Modified
+Vesanoid,Cancer,Current Use,No Coverage
+Viadur,Cancer,3 years,Modified
+Viadur,Cancer,Current Use,No Coverage
+Viaspan,Organ / Tissue Transplant,N/A,No Coverage
+Victrelis,Liver Disorder,N/A,Graded
+Vidaza,Cancer,3 years,Modified
+Videx,AIDS,N/A,No Coverage
+Vinblastine Sulfate,Cancer,3 years,Modified
+Vinblastine Sulfate,Cancer,Current Use,No Coverage
+Vincasar PFS,Cancer,3 years,Modified
+Vincasar PFS,Cancer,Current Use,No Coverage
+Vincristine Sulfate,Cancer,3 years,Modified
+Vincristine Sulfate,Cancer,Current Use,No Coverage
+Vinorelbine Tartrate,Cancer,3 years,Modified
+Vinorelbine Tartrate,Cancer,Current Use,No Coverage
+Viracept,AIDS,N/A,No Coverage
+Viramune,AIDS,N/A,No Coverage
+Viread,AIDS,N/A,No Coverage
+Visken,Hypertension,N/A,Level
+Visken, CHF,N/A,No Coverage
+Vistide,AIDS,N/A,No Coverage
+Vivitrol,Alcohol / Drugs,2 years,Modified
+Votrient,Cancer,3 years,Modified
+Votrient,Cancer,Current Use,No Coverage
+Vumon,Cancer,3 years,Modified
+Vumon,Cancer,Current Use,No Coverage
+Warfarin,Cardiac Valve Replacement,2 years,Modified
+Warfarin,TIA/Stroke,2 years,Modified
+Warfarin,Pulmonary Embolism ,N/A,Level
+Warfarin,Cardiac Valve Replacement TIA/Stroke Pulmonary Embolism Thrombosis,N/A,Level
+Xeloda,Cancer,3 years,Modified
+Xeloda,Cancer,Current Use,No Coverage
+Xgeva,Cancer,3 years,Modified
+Xgeva,Cancer,Current Use,No Coverage
+Xopenex,Asthma,N/A,Level
+Xopenex,COPD / Emphysema,N/A,Graded
+Zanosar,Cancer,3 years,Modified
+Zanosar,Cancer,Current Use,No Coverage
+Zantac,Stomach Disorder,N/A,Level
+Zaroxolyn,Hypertension,N/A,Level
+Zaroxolyn,Hypertension,N/A,No Coverage
+Zebeta,Hypertension,N/A,Level
+Zebeta,CHF,N/A,No Coverage
+Zelapar,Parkinson’s,N/A,Graded
+Zenapax,Organ / Tissue Transplant,N/A,No Coverage
+Zemplar,Kidney Dialysis Diabetic Nephropathy,1 year,No coverage
+Zemplar,Kidney Disease/Failure,N/A,Graded
+Zemplar,Diabetic Nephropathy,2 years,Modified
+Zerit,AIDS,N/A,No Coverage
+Zestoretic,Hypertension,N/A,Level
+Zestoretic,CHF,N/A,No Coverage
+Zestril,Hypertension CHF,N/A,Level No Coverage
+Zevalin Y-90,Cancer,3 years,Modified
+Zevalin Y-90,Cancer,Current Use,No Coverage
+Ziac,Hypertension CHF,N/A,Level No Coverage
+Ziagen,AIDS,N/A,No Coverage
+Zidovudine,AIDS,N/A,No Coverage
+Zinecard,Cancer,3 years Current Use,Modified No Coverage
+Zocor,Cholesterol,N/A,Level
+Zofran,Cancer,3 years,Modified
+Zofran,Cancer,Current Use,No Coverage
+Zoladex,Cancer,3 years,Modified
+Zoladex,Cancer,Current Use,No Coverage
+Zolinza,Cancer,3 years,Modified
+Zolinza,Cancer,Current Use,No Coverage
+Zoloft,Depressive Disorder,N/A,Level
+Zometa,Cancer,3 years,Modified
+Zometa,Cancer,Current Use,No Coverage
+Zortress,Organ / Tissue Transplant,N/A,No Coverage
+Zuplenz,Cancer,3 years,Modified
+Zuplenz,Cancer,Current Use,No Coverage
+Zyprexa,Psychotic Disorder,N/A,Level

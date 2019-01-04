@@ -61,7 +61,7 @@ def checkMed(request):
     return JsonResponse([{
         "medication": data['prescription'],
         "time": "N/A",
-        "indication": "Parkinson's",
+        "indication": "No Data",
         "outcome": "No Data",
         "carrier": data['carrier'],
         "product2": data['product2']
