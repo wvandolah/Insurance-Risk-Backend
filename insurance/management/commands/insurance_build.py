@@ -17,3 +17,9 @@ class Command(BaseCommand):
           max_weight=row['Max Weight'], product_type=row['Type'], carrier=row['Product 1'],
           product2=row['Product 2'], product3=row['Product 3'])
           p.save()
+      with open('Prescription_List.csv',newline='') as csvfile:
+        for row in reader:
+          p = MedicationCheck(medication=row['Medication'],time=row['Time'],
+          indicaiton=row['Indication'], outcome=row['outcome']
+          , carrier=row['Product 1'], product2=row['Product 2'], product3=row['Product 3'])
+          p.save()

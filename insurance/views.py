@@ -4,9 +4,9 @@ from django.http import JsonResponse
 from django.contrib.auth.models import User
 # from django.core.exceptions import ValidationError
 from rest_framework.decorators import api_view
-from .api import PersonalMetricSerializer, HumanMetricSerializer, InsuranceProductSerializer
+from .api import PersonalMetricSerializer, HumanMetricSerializer, InsuranceProductSerializer, MedicationSerializer
 
-from .models import PersonalMetric, HumanMetric, InsuranceProductBuild
+from .models import PersonalMetric, HumanMetric, InsuranceProductBuild, MedicationCheck
 
 from util.checkMed import mCheck
 # from util.checkPlan import pCheck
@@ -75,3 +75,13 @@ def build_query(age, height, weight, gender):
     g = hwa.filter(female=1)
 
   return g.values("id", "carrier", "product2", "product3")
+
+# Medication functions
+
+medication = medication_query(prescription=data['prescription'], carrier=data['carrier'], product2=data['preoduct2'])
+mSerial = MedicationSerializer(medication)
+
+def medication_query(prescription, carrier, product2):
+  rx = MedicationCheck.objects.filter(prescription=prescription)
+  c = rx.filter(carrier=carrier, product2 = product2)
+  return c.values('medication', 'time', 'indication', 'outcome', 'carrier', 'product2')
